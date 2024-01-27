@@ -339,3 +339,43 @@ SCRIPT       : [SYBERIA SERVER] Trader 0 successfully initialized.
 SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<7359b350>
 SCRIPT       : int worth =   1
 SCRIPT       : Found 0 zones!
+SCRIPT       : [SYBERIA SERVER] Send SYBRPC_RESPAWN_SCREEN_OPEN RPC.
+SCRIPT       : [EditorLoader] Sent Deleted objects in 0s
+SCRIPT       : 10:11:37.632 [EXPANSION DEBUG]: ExpansionQuestModule<e0398ad0> Sending 24 quest configs to client with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : 10:11:37.632 [EXPANSION DEBUG]: ExpansionQuestModule<e0398ad0> Sending player quest data for 4 quests to player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+SCRIPT       : [SYBERIA SERVER] SYBRPC_RESPAWN_REQUEST Received from PlayerIdentity<b17bf1b0>
+SCRIPT       : 10:11:44.222 [EXTRACE] +ExpansionKillFeedModule<9c079040>::OnPlayerKilled SurvivorBase<36912fe0> SurvivorBase<36912fe0>
+SCRIPT       : 10:11:44.222 [EXTRACE] -ExpansionKillFeedModule<9c079040>::OnPlayerKilled SurvivorBase<36912fe0> SurvivorBase<36912fe0> 0.3466 ms
+SCRIPT       : [SYBERIA SERVER] Send SYBRPC_EQUIP_SCREEN_OPEN RPC.
+SCRIPT       : [SYBERIA SERVER] SYBRPC_STARTGAME_REQUEST Received from PlayerIdentity<b17bf1b0>
+SCRIPT       : 10:12:04.687 [EXTRACE] +ExpansionKillFeedModule<9c079040>::OnPlayerKilled SurvivorBase<36912fe0> SurvivorBase<36912fe0>
+SCRIPT       : 10:12:04.687 [EXTRACE] -ExpansionKillFeedModule<9c079040>::OnPlayerKilled SurvivorBase<36912fe0> SurvivorBase<36912fe0> 0.317 ms
+SCRIPT       : [SYBERIA SERVER] PLAYER Admin Bunker (mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) ENTER TO ZONE 0; ACTIVE ZONES COUNT 1
+SCRIPT       : [Logout]: New player mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= with logout time 15
+SCRIPT       : 10:13:57.714 [EXPANSION DEBUG]: ExpansionQuestPersistentData<e95d82d0>~ExpansionQuestPersistentData (4)
+SCRIPT       : [Logout]: Player mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= finished
+SCRIPT       : 10:15:00.632 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 10:15:00.632 [EXPANSION DEBUG]: ExpansionAirdropContainer 66
+SCRIPT       : 10:15:00.632 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 71
+SCRIPT       : 10:15:00.632 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 76
+SCRIPT       : 10:15:00.632 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 81
+SCRIPT       : 10:15:00.632 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - drop position <9976.000000, 0.000000, 11000.000000> - map is enoch - size 12800 - center <7100.000000, 300.000000, 7750.000000>
+SCRIPT       : 10:15:00.632 [EXPANSION DEBUG]: ExpansionAirdropPlane::GetSpawnPoint - selected spawn point <2894.430420, 885.988525, 0.000000>
+SCRIPT       : 10:23:42.785 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn CharcoalTablets on FirstAidKit<d9a451a0>
+SCRIPT       : 10:23:42.785 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn PainkillerTablets on FirstAidKit<d9a43070>
+SCRIPT       : 10:23:42.785 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn Morphine on FirstAidKit<d9a4ec80>
+SCRIPT       : 10:23:42.785 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn PainkillerTablets on ExpansionAirdropContainerBase<cf8edd80>
+SCRIPT       : 10:23:42.785 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn CharcoalTablets on FirstAidKit<d9a4c040>
+SCRIPT       : 10:23:42.785 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn Morphine on FirstAidKit<d9a4c040>
+SCRIPT       : 10:23:42.785 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn TetracyclineAntiBiotics on FirstAidKit<d9a4e170>
+SCRIPT       : 10:23:42.785 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn PainkillerTablets on FirstAidKit<d9a523d0>
+SCRIPT       : 10:23:42.789 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn PainkillerTablets on FirstAidKit<d9a54500>
+SCRIPT       : 10:23:42.789 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn CharcoalTablets on FirstAidKit<d9a50db0>
+SCRIPT       : 10:23:42.789 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn PainkillerTablets on FirstAidKit<d9a57c50>
+SCRIPT       : 10:23:42.789 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn BandageDressing on FirstAidKit<d9a518c0>
+SCRIPT       : 10:23:42.789 [EXPANSION LOG]: ExpansionAirdropContainerBase<cf8edd80> InitAirdrop - total weight (kg) 309.49 - nominal fall speed 4.52373 m/s, wind impact strength 0.149209
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : 10:35:20.195 [EXPANSION DEBUG]: Clearing cached categories 67
+SCRIPT       : 10:35:20.199 [EXPANSION DEBUG]: Clearing cached traders 0
+SCRIPT       : 10:35:20.246 [EXPANSION DEBUG]: ExpansionQuestPersistentData<e95d94f0>~ExpansionQuestPersistentData (0)
+SCRIPT       : ~DayZGame()

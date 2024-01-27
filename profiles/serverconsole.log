@@ -323,4 +323,246 @@
 10:09:59 [45] VehicleBus
 10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
 10:09:59 [46] VehicleTractor
-10:09:
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [47] VehicleMH6Helicopter
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [48] VehicleMerlinHelicopter
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [49] VehicleUh1hHelicopter
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [50] VehicleGyroHelicopter
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [51] VehicleExpansionBoats
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [CE][Hive] :: Initializing of spawners done.
+10:09:59 [CE][Hive] :: Init sequence finished.
+10:10:00 [IdleMode] Entering IN - save processed
+10:10:03 BattlEye Server: RCon admin #1 (5.161.42.56:42007) logged in
+10:10:10 Average server FPS: 5789.70 (measured interval: 10 s)
+10:10:20 Average server FPS: 8447.40 (measured interval: 10 s)
+10:10:30 Average server FPS: 9209.20 (measured interval: 10 s)
+10:10:34 BattlEye Server: RCon admin #0 (5.161.42.56:53937) logged in
+10:10:34 [UNLOCK] Server was unlocked.
+10:10:34 BattlEye Server: Command received: #unlock Result: OK
+10:10:40 Average server FPS: 7859.40 (measured interval: 10 s)
+10:10:50 Average server FPS: 9600.60 (measured interval: 10 s)
+10:11:00 Average server FPS: 13005.90 (measured interval: 10 s)
+10:11:10 Average server FPS: 18462.30 (measured interval: 10 s)
+10:11:12 [Login]: Adding player [Admin] Bunker (1898990057) to login queue at position 0
+10:11:12 [LoginMachine]: Add player [Admin] Bunker (1898990057 192.168.1.64:2604)
+10:11:12 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering AuthPlayerLoginState
+10:11:13 BattlEye Server: Player #0 [Admin] Bunker (192.168.1.64:2604) connected
+10:11:13 Player [Admin] Bunker connecting.
+10:11:13 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering WaitAuthPlayerLoginState
+10:11:14 BattlEye Server: Connected to BE Master
+10:11:14 BattlEye Server: Player #0 [Admin] Bunker - BE GUID: de14957533e35de36c2632310be2da2e
+10:11:15 BattlEye Server: Verified GUID (de14957533e35de36c2632310be2da2e) of player #0 [Admin] Bunker
+10:11:15 Player [Admin] Bunker connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=).
+10:11:15 Player "[Admin] Bunker" is connected (steamID=76561198036774377)
+10:11:15 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering WaitPlayerAssignedLoginState
+10:11:16 [IdleMode] Leaving OUT
+10:11:20 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetLoginTimeLoginState
+10:11:20 Average server FPS: 13335.70 (measured interval: 10 s)
+10:11:20 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBWaitLoginTimeLoginState
+10:11:30 Average server FPS: 14234.00 (measured interval: 10 s)
+10:11:35 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetCharacterLoginState
+10:11:35 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering CreateNetObjectsLoginState
+10:11:35 Player [Admin] Bunker dpid=1898990057 at pos (11194.9, 0.0, 9154.3) 
+10:11:35 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering PreloadCamLoginState
+10:11:35 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering WaitPreloadCamLoginState
+10:11:37 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering GetNewCharLoginState
+10:11:37 <CREATE NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 1898990057
+    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:11:38 BattlEye Server: RCon admin #0: (To [Admin] Bunker) Welcome on 42 Months After | Hard Core Livonia | Syberia Project | AI
+10:11:40 Average server FPS: 16403.00 (measured interval: 10 s)
+10:11:43 Respawn: Add player [Admin] Bunker (1898990057) to respawn machine
+10:11:43 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering GetCharacterRespawnState
+10:11:43 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering PreloadCamRespawnState
+10:11:43 Player [Admin] Bunker dpid=1898990057 at pos (11376.2, 0.0, 9163.7) 
+10:11:43 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering WaitPreloadCamRespawnState
+10:11:50 Average server FPS: 16386.20 (measured interval: 10 s)
+10:11:59 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering GetNewCharRespawnState
+10:11:59 <RESPAWN NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 1898990057
+    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:12:00 Average server FPS: 18214.30 (measured interval: 10 s)
+10:12:04 Respawn: Add player [Admin] Bunker (1898990057) to respawn machine
+10:12:04 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering GetCharacterRespawnState
+10:12:04 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering PreloadCamRespawnState
+10:12:04 Player [Admin] Bunker dpid=1898990057 at pos (11294.9, 0.0, 8954.3) 
+10:12:04 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering WaitPreloadCamRespawnState
+10:12:07 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+10:12:10 Average server FPS: 15371.50 (measured interval: 10 s)
+10:12:19 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering GetNewCharRespawnState
+10:12:19 <RESPAWN NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 1898990057
+    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:12:20 Average server FPS: 17928.40 (measured interval: 10 s)
+10:12:30 Average server FPS: 12711.00 (measured interval: 10 s)
+10:12:40 Average server FPS: 12918.80 (measured interval: 10 s)
+10:12:50 Average server FPS: 12970.20 (measured interval: 10 s)
+10:13:00 Average server FPS: 12414.60 (measured interval: 10 s)
+10:13:10 Average server FPS: 13404.10 (measured interval: 10 s)
+10:13:20 Average server FPS: 12876.10 (measured interval: 10 s)
+10:13:29 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+10:13:30 Average server FPS: 12878.80 (measured interval: 10 s)
+10:13:40 Average server FPS: 12911.10 (measured interval: 10 s)
+10:13:42 [Disconnect]: Start script disconnect 1898990057 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+10:13:50 Average server FPS: 12570.20 (measured interval: 10 s)
+10:13:57 [Disconnect]: Finish script disconnect 1898990057 (mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
+10:13:57 [Disconnect]: DisconnectPlayerFinish 1898990057
+10:13:58 [Disconnect]: Remove player info 1898990057
+10:13:58 [Disconnect]: Player destroy 1898990057 
+10:13:58 Player [Admin] Bunker disconnected.
+10:13:58 BattlEye Server: Player #0 [Admin] Bunker disconnected
+10:14:00 Average server FPS: 14919.30 (measured interval: 10 s)
+10:14:10 Average server FPS: 19121.80 (measured interval: 10 s)
+10:14:20 Average server FPS: 18813.00 (measured interval: 10 s)
+10:14:30 Average server FPS: 19801.00 (measured interval: 10 s)
+10:14:40 Average server FPS: 19737.60 (measured interval: 10 s)
+10:14:50 Average server FPS: 19498.10 (measured interval: 10 s)
+10:15:00 Average server FPS: 19998.70 (measured interval: 10 s)
+10:15:10 Average server FPS: 19318.20 (measured interval: 10 s)
+10:15:16 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+10:15:20 Average server FPS: 19380.50 (measured interval: 10 s)
+10:15:25 [IdleMode] Entering IN - save processed
+10:15:30 Average server FPS: 18701.10 (measured interval: 10 s)
+10:15:40 Average server FPS: 18978.30 (measured interval: 10 s)
+10:15:50 Average server FPS: 18337.50 (measured interval: 10 s)
+10:16:00 Average server FPS: 18545.60 (measured interval: 10 s)
+10:16:10 Average server FPS: 18608.50 (measured interval: 10 s)
+10:16:20 Average server FPS: 19385.10 (measured interval: 10 s)
+10:16:30 Average server FPS: 19078.80 (measured interval: 10 s)
+10:16:40 Average server FPS: 20059.20 (measured interval: 10 s)
+10:16:50 Average server FPS: 19549.90 (measured interval: 10 s)
+10:17:00 Average server FPS: 20339.00 (measured interval: 10 s)
+10:17:10 Average server FPS: 19837.20 (measured interval: 10 s)
+10:17:20 Average server FPS: 19841.10 (measured interval: 10 s)
+10:17:30 Average server FPS: 19378.40 (measured interval: 10 s)
+10:17:40 Average server FPS: 19971.50 (measured interval: 10 s)
+10:17:50 Average server FPS: 19464.20 (measured interval: 10 s)
+10:18:00 Average server FPS: 19422.50 (measured interval: 10 s)
+10:18:10 Average server FPS: 19374.60 (measured interval: 10 s)
+10:18:20 Average server FPS: 19500.70 (measured interval: 10 s)
+10:18:30 Average server FPS: 19367.20 (measured interval: 10 s)
+10:18:40 Average server FPS: 19491.40 (measured interval: 10 s)
+10:18:50 Average server FPS: 20046.20 (measured interval: 10 s)
+10:19:00 Average server FPS: 19606.60 (measured interval: 10 s)
+10:19:10 Average server FPS: 19646.70 (measured interval: 10 s)
+10:19:20 Average server FPS: 20169.10 (measured interval: 10 s)
+10:19:30 Average server FPS: 19483.20 (measured interval: 10 s)
+10:19:40 Average server FPS: 19932.40 (measured interval: 10 s)
+10:19:50 Average server FPS: 19462.20 (measured interval: 10 s)
+10:20:00 Average server FPS: 19341.20 (measured interval: 10 s)
+10:20:10 Average server FPS: 19446.10 (measured interval: 10 s)
+10:20:20 Average server FPS: 19409.70 (measured interval: 10 s)
+10:20:30 Average server FPS: 19475.60 (measured interval: 10 s)
+10:20:40 Average server FPS: 19848.90 (measured interval: 10 s)
+10:20:50 Average server FPS: 19439.70 (measured interval: 10 s)
+10:21:00 Average server FPS: 19805.90 (measured interval: 10 s)
+10:21:10 Average server FPS: 19507.00 (measured interval: 10 s)
+10:21:20 Average server FPS: 19596.60 (measured interval: 10 s)
+10:21:30 Average server FPS: 20093.40 (measured interval: 10 s)
+10:21:40 Average server FPS: 19329.30 (measured interval: 10 s)
+10:21:50 Average server FPS: 18802.70 (measured interval: 10 s)
+10:22:00 Average server FPS: 19594.60 (measured interval: 10 s)
+10:22:10 Average server FPS: 19107.60 (measured interval: 10 s)
+10:22:20 Average server FPS: 18844.90 (measured interval: 10 s)
+10:22:30 Average server FPS: 18859.40 (measured interval: 10 s)
+10:22:40 Average server FPS: 18988.00 (measured interval: 10 s)
+10:22:50 Average server FPS: 19367.50 (measured interval: 10 s)
+10:23:00 Average server FPS: 18204.70 (measured interval: 10 s)
+10:23:10 Average server FPS: 18907.30 (measured interval: 10 s)
+10:23:20 Average server FPS: 19050.30 (measured interval: 10 s)
+10:23:30 Average server FPS: 19008.90 (measured interval: 10 s)
+10:23:40 Average server FPS: 19137.50 (measured interval: 10 s)
+10:23:50 Average server FPS: 18297.30 (measured interval: 10 s)
+10:24:00 Average server FPS: 19024.40 (measured interval: 10 s)
+10:24:10 Average server FPS: 19417.20 (measured interval: 10 s)
+10:24:20 Average server FPS: 19048.50 (measured interval: 10 s)
+10:24:30 Average server FPS: 19146.70 (measured interval: 10 s)
+10:24:40 Average server FPS: 19282.00 (measured interval: 10 s)
+10:24:50 Average server FPS: 18187.20 (measured interval: 10 s)
+10:25:00 Average server FPS: 19271.40 (measured interval: 10 s)
+10:25:10 Average server FPS: 18890.30 (measured interval: 10 s)
+10:25:20 Average server FPS: 19531.60 (measured interval: 10 s)
+10:25:30 Average server FPS: 19958.60 (measured interval: 10 s)
+10:25:40 Average server FPS: 19950.40 (measured interval: 10 s)
+10:25:50 Average server FPS: 20353.30 (measured interval: 10 s)
+10:26:00 Average server FPS: 20710.10 (measured interval: 10 s)
+10:26:10 Average server FPS: 20292.20 (measured interval: 10 s)
+10:26:20 Average server FPS: 19695.70 (measured interval: 10 s)
+10:26:30 Average server FPS: 20416.90 (measured interval: 10 s)
+10:26:40 Average server FPS: 19956.80 (measured interval: 10 s)
+10:26:50 Average server FPS: 20303.80 (measured interval: 10 s)
+10:27:00 Average server FPS: 20221.40 (measured interval: 10 s)
+10:27:10 Average server FPS: 20203.10 (measured interval: 10 s)
+10:27:20 Average server FPS: 19968.30 (measured interval: 10 s)
+10:27:30 Average server FPS: 20034.80 (measured interval: 10 s)
+10:27:40 Average server FPS: 19624.90 (measured interval: 10 s)
+10:27:50 Average server FPS: 19998.70 (measured interval: 10 s)
+10:28:00 Average server FPS: 19794.80 (measured interval: 10 s)
+10:28:10 Average server FPS: 19852.70 (measured interval: 10 s)
+10:28:20 Average server FPS: 19771.40 (measured interval: 10 s)
+10:28:30 Average server FPS: 19629.10 (measured interval: 10 s)
+10:28:40 Average server FPS: 19980.60 (measured interval: 10 s)
+10:28:50 Average server FPS: 19920.20 (measured interval: 10 s)
+10:29:00 Average server FPS: 19772.20 (measured interval: 10 s)
+10:29:10 Average server FPS: 19625.10 (measured interval: 10 s)
+10:29:20 Average server FPS: 19192.70 (measured interval: 10 s)
+10:29:30 Average server FPS: 18916.20 (measured interval: 10 s)
+10:29:40 Average server FPS: 19306.20 (measured interval: 10 s)
+10:29:50 Average server FPS: 19728.10 (measured interval: 10 s)
+10:30:00 Average server FPS: 19701.00 (measured interval: 10 s)
+10:30:10 Average server FPS: 19846.40 (measured interval: 10 s)
+10:30:20 Average server FPS: 19581.30 (measured interval: 10 s)
+10:30:30 Average server FPS: 19861.10 (measured interval: 10 s)
+10:30:40 Average server FPS: 19217.30 (measured interval: 10 s)
+10:30:50 Average server FPS: 19291.50 (measured interval: 10 s)
+10:31:00 Average server FPS: 19747.10 (measured interval: 10 s)
+10:31:10 Average server FPS: 19665.10 (measured interval: 10 s)
+10:31:20 Average server FPS: 19713.20 (measured interval: 10 s)
+10:31:30 Average server FPS: 19194.80 (measured interval: 10 s)
+10:31:40 Average server FPS: 19641.10 (measured interval: 10 s)
+10:31:50 Average server FPS: 19721.20 (measured interval: 10 s)
+10:32:00 Average server FPS: 19536.20 (measured interval: 10 s)
+10:32:10 Average server FPS: 9905.10 (measured interval: 10 s)
+10:32:20 Average server FPS: 19327.50 (measured interval: 10 s)
+10:32:30 Average server FPS: 19479.30 (measured interval: 10 s)
+10:32:40 Average server FPS: 19796.80 (measured interval: 10 s)
+10:32:50 Average server FPS: 19694.00 (measured interval: 10 s)
+10:33:00 Average server FPS: 19779.00 (measured interval: 10 s)
+10:33:10 Average server FPS: 20014.50 (measured interval: 10 s)
+10:33:20 Average server FPS: 19903.30 (measured interval: 10 s)
+10:33:30 Average server FPS: 19623.70 (measured interval: 10 s)
+10:33:40 Average server FPS: 19083.90 (measured interval: 10 s)
+10:33:50 Average server FPS: 18547.70 (measured interval: 10 s)
+10:34:00 Average server FPS: 18896.00 (measured interval: 10 s)
+10:34:10 Average server FPS: 18458.10 (measured interval: 10 s)
+10:34:20 Average server FPS: 18861.90 (measured interval: 10 s)
+10:34:30 Average server FPS: 19567.40 (measured interval: 10 s)
+10:34:40 Average server FPS: 19006.60 (measured interval: 10 s)
+10:34:50 Average server FPS: 19322.50 (measured interval: 10 s)
+10:35:00 Average server FPS: 18660.00 (measured interval: 10 s)
+10:35:07 BattlEye Server: RCon admin #1 (127.0.0.1:51967) logged in
+10:35:07 [LOCK] Server was locked.
+10:35:07 BattlEye Server: Command received: #lock Result: OK
+10:35:07 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+10:35:08 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+10:35:09 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+10:35:10 Average server FPS: 18701.10 (measured interval: 10 s)
+10:35:10 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+10:35:11 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+10:35:12 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+10:35:13 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+10:35:14 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+10:35:15 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+10:35:16 BattlEye Server: RCon admin #1: (Global) CFTools-OmegaManager Shutdown requested
+10:35:18 BattlEye Server: Command received: #shutdown Result: OK

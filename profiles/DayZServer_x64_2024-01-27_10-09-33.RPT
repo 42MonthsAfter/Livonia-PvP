@@ -22370,3 +22370,583 @@ Version 1.23.157045
 10:10:01.676 Warning: No components in dz\water_bliss\river\enoch_river_419.p3d:geometry
 10:10:01.676 Warning: No components in dz\water_bliss\river\enoch_river_416.p3d:geometry
 10:10:01.707 Warning: No components in dz\water_bliss\river\enoch_river_580.p3d:geometry
+10:10:01.707 Warning: No components in dz\water_bliss\river\enoch_river_588.p3d:geometry
+10:10:01.707 Warning: No components in dz\water_bliss\river\enoch_river_411.p3d:geometry
+10:10:01.738 Warning: No components in dz\water_bliss\river\enoch_river_471.p3d:geometry
+10:10:01.738 Warning: No components in dz\water_bliss\river\enoch_river_468.p3d:geometry
+10:10:01.738 Warning: No components in dz\water_bliss\river\enoch_river_469.p3d:geometry
+10:10:01.738 Warning: No components in dz\water_bliss\river\enoch_river_409.p3d:geometry
+10:10:01.738 Warning: No components in dz\water_bliss\river\enoch_river_410.p3d:geometry
+10:10:03.82 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+10:10:03.644 !!! No animSource for doors Land_Wreck_hb01_aban2_green :: door 3, check model+config
+10:10:04.66 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+10:10:05.176 Unrecognized texture type '': 'dz\structures_bliss\underground\corridor\data\underground_corridor_connector_building_mc'
+10:10:05.176 Convex "component33" selection faces are less then 4 in dz\structures_bliss\underground\corridor\underground_corridor_connector.p3d:geometryFire
+10:10:05.191 Convex "component19" selection faces are less then 4 in dz\structures_bliss\underground\stairs\underground_stairs_exit.p3d:geometryFire
+10:10:05.191 Convex "component20" selection faces are less then 4 in dz\structures_bliss\underground\stairs\underground_stairs_exit.p3d:geometryFire
+10:10:05.191 Convex "component137" selection faces are less then 4 in dz\structures_bliss\underground\corridor\underground_corridor_main_both.p3d:geometryFire
+10:10:05.191 Convex "component17" selection faces are less then 4 in dz\structures_bliss\underground\stairs\underground_stairs_collapsed.p3d:geometryFire
+10:10:05.191 Convex "component56" selection faces are less then 4 in dz\structures_bliss\underground\stairs\underground_stairs_collapsed.p3d:geometryFire
+10:10:05.191 Convex "component57" selection faces are less then 4 in dz\structures_bliss\underground\stairs\underground_stairs_collapsed.p3d:geometryFire
+10:10:05.191 Convex "component110" selection faces are less then 4 in dz\structures_bliss\underground\corridor\underground_corridor_main_right.p3d:geometryFire
+10:10:05.191 Convex "component112" selection faces are less then 4 in dz\structures_bliss\underground\corridor\underground_corridor_main_right.p3d:geometryFire
+10:10:05.207 PerfWarning: Way too much components (926) in dz\structures_bliss\underground\water\underground_waterreservoir.p3d:geometryFire
+10:10:05.207 Convex "component80" selection faces are less then 4 in dz\structures_bliss\underground\water\proxy\underground_waterreservoir_pipes.p3d:geometryFire
+10:10:05.207 Convex "component81" selection faces are less then 4 in dz\structures_bliss\underground\water\proxy\underground_waterreservoir_pipes.p3d:geometryFire
+10:10:05.207 Convex "component206" selection faces are less then 4 in dz\structures_bliss\underground\water\proxy\underground_waterreservoir_pipes.p3d:geometryFire
+10:10:05.207 Convex "component207" selection faces are less then 4 in dz\structures_bliss\underground\water\proxy\underground_waterreservoir_pipes.p3d:geometryFire
+10:10:05.207 dz\structures_bliss\underground\water\proxy\underground_waterreservoir_pipes.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\water\proxy\underground_waterreservoir_pipes.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\water\proxy\underground_waterreservoir_pipes.p3d: house, config class missing
+10:10:05.207 Convex "component51" selection faces are less then 4 in dz\structures_bliss\underground\corridor\underground_corridor_main_left.p3d:geometryFire
+10:10:05.207 Convex "component52" selection faces are less then 4 in dz\structures_bliss\underground\corridor\underground_corridor_main_left.p3d:geometryFire
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.207 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.222 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.222 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.222 dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d: house, config class missing
+10:10:05.222 Warning: No components in dz\structures_bliss\underground\storage\proxy\laboratory_scaffolding_1.p3d:geometryView
+10:10:05.222 Unrecognized texture type '': 'dz\structures_bliss\underground\corridor\data\underground_corridor_connector_building_mc'
+10:10:05.222 Convex "component33" selection faces are less then 4 in dz\structures_bliss\underground\corridor\underground_corridor_connector_inv.p3d:geometryFire
+10:10:05.238 Warning: No components in dz\structures\residential\misc\garbage_groundsq_5m_nolc.p3d:geometry
+10:10:05.254 Warning: No components in dz\structures_bliss\underground\entrance\proxy\underground_entrance_door.p3d:geometry
+10:10:05.426 Warning: No components in dz\structures_bliss\underground\water\underground_waterreservoir_water.p3d:geometry
+10:10:06.332 !!! No animSource for doors Land_Wreck_hb01_aban1_blue :: door 3, check model+config
+10:10:06.472 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+10:10:06.910 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+10:10:09.253 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+10:10:10.50 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+10:10:10.81 Average server FPS: 5789.70 (measured interval: 10 s)
+10:10:10.253 !!! No animSource for doors Land_Wreck_hb01_aban2_green :: door 3, check model+config
+10:10:10.409 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:10:10.675 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:10:10.894 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:10:10.956 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:10:14.534 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+10:10:15.862 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+10:10:15.862 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+10:10:16.206 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+10:10:18.268 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+10:10:20.80 Average server FPS: 8447.40 (measured interval: 10 s)
+10:10:20.315 !!! No animSource for doors Land_Wreck_hb01_aban1_blue :: door 3, check model+config
+10:10:21.377 !!! No animSource for doors Land_Wreck_hb01_aban1_blue :: door 3, check model+config
+10:10:21.377 PerfWarning: Way too much components (1020) in dz\structures\industrial\cementworks\cementworks_expeditiona.p3d:geometryFire
+10:10:23.955 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+10:10:28.95 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+10:10:28.767 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+10:10:29.95 !!! No animSource for doors Land_Wreck_hb01_aban2_white :: door 3, check model+config
+10:10:29.95 Warning: No components in dz\structures\military\improvised\mil_tent_big2_2.p3d:geometryFire
+10:10:29.95 Warning: No components in dz\structures\military\improvised\mil_tent_big2_2.p3d:geometryView
+10:10:29.95 Warning: No components in dz\structures_bliss\military\training\shellcrater1_decal.p3d:geometry
+10:10:30.79 Average server FPS: 9209.20 (measured interval: 10 s)
+10:10:31.251 !!! No animSource for doors Land_Wreck_hb01_aban2_green :: door 3, check model+config
+10:10:34.01 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+10:10:34.376 [UNLOCK] Server was unlocked.
+10:10:36.282 !!! No animSource for doors Land_Wreck_hb01_aban2_white :: door 3, check model+config
+10:10:38.688 !!! No animSource for doors Land_Wreck_hb01_aban1_blue :: door 3, check model+config
+10:10:40.78 Average server FPS: 7859.40 (measured interval: 10 s)
+10:10:40.109 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+10:10:41.375 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+10:10:41.765 !!! No animSource for doors Land_Wreck_hb01_aban2_green :: door 3, check model+config
+10:10:43.703 Warning: No components in dz\water_bliss\river\enoch_river_727.p3d:geometry
+10:10:43.703 Warning: No components in dz\water_bliss\river\enoch_river_726.p3d:geometry
+10:10:44.718 Warning: No components in dz\water_bliss\river\enoch_river_57.p3d:geometry
+10:10:46.530 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+10:10:46.530 Warning: No components in dz\water_bliss\river\enoch_river_722.p3d:geometry
+10:10:46.530 Warning: No components in dz\water_bliss\river\enoch_river_721.p3d:geometry
+10:10:46.530 Warning: No components in dz\water_bliss\river\enoch_river_719.p3d:geometry
+10:10:46.530 Warning: No components in dz\water_bliss\river\enoch_river_720.p3d:geometry
+10:10:46.796 Warning: No components in dz\water_bliss\river\enoch_river_718.p3d:geometry
+10:10:47.499 Warning: No components in dz\water_bliss\river\enoch_river_713.p3d:geometry
+10:10:48.615 Warning: No components in dz\water_bliss\river\enoch_river_712.p3d:geometry
+10:10:48.615 Warning: No components in dz\water_bliss\river\enoch_river_56.p3d:geometry
+10:10:48.615 Warning: No components in dz\water_bliss\river\enoch_river_711.p3d:geometry
+10:10:48.615 Warning: No components in dz\water_bliss\river\enoch_river_709.p3d:geometry
+10:10:48.615 Warning: No components in dz\water_bliss\river\enoch_river_710.p3d:geometry
+10:10:48.615 Warning: No components in dz\water_bliss\river\enoch_river_707.p3d:geometry
+10:10:48.615 Warning: No components in dz\water_bliss\river\enoch_river_708.p3d:geometry
+10:10:48.766 Warning: No components in dz\water_bliss\river\enoch_river_705.p3d:geometry
+10:10:49.202 Warning: No components in dz\water_bliss\river\enoch_river_55.p3d:geometry
+10:10:49.203 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+10:10:49.203 !!! No animSource for doors Land_Wreck_hb01_aban2_white :: door 3, check model+config
+10:10:49.204 Warning: No components in dz\water_bliss\river\enoch_river_54.p3d:geometry
+10:10:49.204 Warning: No components in dz\water_bliss\river\enoch_river_703.p3d:geometry
+10:10:49.204 Warning: No components in dz\water_bliss\river\enoch_river_704.p3d:geometry
+10:10:49.204 Warning: No components in dz\water_bliss\river\enoch_river_706.p3d:geometry
+10:10:49.204 Warning: No components in dz\water_bliss\river\enoch_river_702.p3d:geometry
+10:10:49.204 Warning: No components in dz\water_bliss\river\enoch_river_701.p3d:geometry
+10:10:49.337 Warning: No components in dz\water_bliss\river\enoch_river_699.p3d:geometry
+10:10:49.535 Warning: No components in dz\water_bliss\river\enoch_river_698.p3d:geometry
+10:10:49.927 Warning: No components in dz\water_bliss\river\enoch_river_700.p3d:geometry
+10:10:49.927 Warning: No components in dz\water_bliss\river\enoch_river_53.p3d:geometry
+10:10:49.927 Warning: No components in dz\water_bliss\river\enoch_river_697.p3d:geometry
+10:10:50.68 Average server FPS: 9600.60 (measured interval: 10 s)
+10:10:50.724 Warning: No components in dz\water_bliss\river\enoch_river_690.p3d:geometry
+10:10:50.724 Warning: No components in dz\water_bliss\river\enoch_river_691.p3d:geometry
+10:10:50.724 Warning: No components in dz\water_bliss\river\enoch_river_689.p3d:geometry
+10:10:50.834 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+10:10:55.300 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+10:10:59.221 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+10:10:59.805 Warning: No components in dz\water_bliss\ponds\enoch_jantar_19.p3d:geometry
+10:10:59.805 Warning: No components in dz\water_bliss\ponds\enoch_jantar_0.p3d:geometry
+10:10:59.805 Warning: No components in dz\water_bliss\ponds\enoch_jantar_20.p3d:geometry
+10:10:59.805 Warning: No components in dz\water_bliss\ponds\enoch_jantar_13.p3d:geometry
+10:10:59.805 Warning: No components in dz\water_bliss\ponds\enoch_jantar_6.p3d:geometry
+10:10:59.805 Warning: No components in dz\water_bliss\ponds\enoch_jantar_1.p3d:geometry
+10:11:00.72 Average server FPS: 13005.90 (measured interval: 10 s)
+10:11:00.372 Warning: No components in dz\water_bliss\ponds\enoch_jantar_14.p3d:geometry
+10:11:00.372 Warning: No components in dz\water_bliss\ponds\enoch_jantar_15.p3d:geometry
+10:11:00.372 Warning: No components in dz\water_bliss\ponds\enoch_jantar_16.p3d:geometry
+10:11:00.372 Warning: No components in dz\water_bliss\ponds\enoch_jantar_17.p3d:geometry
+10:11:09.317 Warning: No components in dz\water_bliss\river\enoch_river_26.p3d:geometry
+10:11:10.67 Average server FPS: 18462.30 (measured interval: 10 s)
+10:11:12.166 Warning: No components in dz\water_bliss\river\enoch_river_440.p3d:geometry
+10:11:12.573 [Login]: Adding player [Admin] Bunker (1898990057) to login queue at position 0
+10:11:12.573 [LoginMachine]: Add player [Admin] Bunker (1898990057 192.168.1.64:2604)
+10:11:12.573 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering AuthPlayerLoginState
+10:11:12.573 Server: SetClientState dpid=1898990057 id=0 name=[Admin] Bunker CREATED -> CONNECTED
+10:11:12.651 ERROR: Will delete object with !finite or outside world coords, object=0x15bbfb52050=ExpansionQuestNPCDenis:2 oldPos=(0.375132, -25594.566406, 0.529222), 1000.0, l=1 --> newPos=(0.375132, -25618.435547, 0.529222), 1000.0, l=1
+10:11:13.401 ERROR: Will delete object with !finite or outside world coords, object=0x15bbf4fd010=ExpansionQuestNPCElias:3 oldPos=(0.426788, -25595.734375, 0.462488), 1000.0, l=1 --> newPos=(0.426788, -25619.603516, 0.462488), 1000.0, l=1
+10:11:13.697 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering WaitAuthPlayerLoginState
+10:11:14.57 Warning: No components in dz\structures\military\improvised\mil_camonet_big_east.p3d:geometryView
+10:11:15.307 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_15.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_9.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_34.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_16.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_10.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_35.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_28.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_22.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_17.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_11.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_36.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_29.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_23.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_18.p3d:geometry
+10:11:15.322 Warning: No components in dz\water_bliss\ponds\enoch_sitnicke_12.p3d:geometry
+10:11:15.994 Warning: No components in dz\plants_bliss\building\ivy_t.p3d:geometry
+10:11:15.994 Warning: No components in dz\plants_bliss\building\ivy_o.p3d:geometry
+10:11:15.994 Warning: No components in dz\plants_bliss\building\ivy_x.p3d:geometry
+10:11:15.994 Warning: No components in dz\plants_bliss\building\ivy_s.p3d:geometry
+10:11:15.994 Warning: No components in dz\plants_bliss\building\ivy_b.p3d:geometry
+10:11:15.994 Warning: No components in dz\plants_bliss\building\ivy_roof_a.p3d:geometry
+10:11:15.994 Warning: No components in dz\plants_bliss\building\ivy_f.p3d:geometry
+10:11:15.994 Warning: No components in dz\plants_bliss\building\ivy_dry_d.p3d:geometry
+10:11:15.994 Warning: No components in dz\plants_bliss\building\ivy_dry_f.p3d:geometry
+10:11:15.994 Warning: No components in dz\plants_bliss\building\ivy_dry_a.p3d:geometry
+10:11:15.994 Player [Admin] Bunker connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=).
+10:11:15.994 Player "[Admin] Bunker" is connected (steamID=76561198036774377)
+10:11:15.994 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering WaitPlayerAssignedLoginState
+10:11:16.72 [IdleMode] Leaving OUT
+10:11:16.682 Warning: No components in dz\plants_bliss\building\ivy_d.p3d:geometry
+10:11:16.682 Warning: No components in dz\plants_bliss\building\ivy_g.p3d:geometry
+10:11:16.682 Warning: No components in dz\plants_bliss\building\ivy_r.p3d:geometry
+10:11:16.682 Warning: No components in dz\plants_bliss\building\ivy_u.p3d:geometry
+10:11:16.682 Warning: No components in dz\plants_bliss\building\ivy_special_f.p3d:geometry
+10:11:16.806 Warning: No components in dz\water_bliss\river\enoch_river_406.p3d:geometry
+10:11:16.806 Warning: No components in dz\water_bliss\river\enoch_river_404.p3d:geometry
+10:11:16.931 !!! No animSource for doors Land_Wreck_hb01_aban1_blue :: door 3, check model+config
+10:11:17.41 !!! No animSource for doors Land_Wreck_hb01_aban2_green :: door 3, check model+config
+10:11:17.431 Warning: No components in dz\water_bliss\river\enoch_river_408.p3d:geometry
+10:11:17.431 Warning: No components in dz\water_bliss\river\enoch_river_407.p3d:geometry
+10:11:17.431 Warning: No components in dz\water_bliss\river\enoch_river_403.p3d:geometry
+10:11:17.431 Warning: No components in dz\water_bliss\river\enoch_river_405.p3d:geometry
+10:11:17.431 Warning: No components in dz\water_bliss\river\enoch_river_22.p3d:geometry
+10:11:18.213 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+10:11:19.494 Warning: No components in dz\water_bliss\river\enoch_river_398.p3d:geometry
+10:11:19.509 Warning: No components in dz\water_bliss\river\enoch_river_393.p3d:geometry
+10:11:19.509 Warning: No components in dz\water_bliss\river\enoch_river_392.p3d:geometry
+10:11:19.509 Warning: No components in dz\water_bliss\river\enoch_river_391.p3d:geometry
+10:11:19.509 Warning: No components in dz\water_bliss\river\enoch_river_389.p3d:geometry
+10:11:19.509 Warning: No components in dz\water_bliss\river\enoch_river_390.p3d:geometry
+10:11:20.56 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetLoginTimeLoginState
+10:11:20.72 Average server FPS: 13335.70 (measured interval: 10 s)
+10:11:20.166 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBWaitLoginTimeLoginState
+10:11:20.509 Warning: No components in dz\water_bliss\river\enoch_river_388.p3d:geometry
+10:11:23.649 Warning: No components in dz\water_bliss\river\enoch_river_177.p3d:geometry
+10:11:23.649 Warning: No components in dz\water_bliss\river\enoch_river_178.p3d:geometry
+10:11:23.649 Warning: No components in dz\water_bliss\river\enoch_river_176.p3d:geometry
+10:11:24.290 Warning: No components in dz\water_bliss\river\enoch_river_158.p3d:geometry
+10:11:24.290 Warning: No components in dz\water_bliss\river\enoch_river_157.p3d:geometry
+10:11:24.415 Warning: No components in dz\water_bliss\river\enoch_river_155.p3d:geometry
+10:11:24.415 Warning: No components in dz\water_bliss\river\enoch_river_156.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_343.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_342.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_340.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_341.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_339.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_338.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_337.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_335.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_336.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_334.p3d:geometry
+10:11:25.56 Warning: No components in dz\water_bliss\river\enoch_river_13.p3d:geometry
+10:11:25.181 Warning: No components in dz\water_bliss\river\enoch_river_195.p3d:geometry
+10:11:25.181 Warning: No components in dz\water_bliss\river\enoch_river_194.p3d:geometry
+10:11:25.181 Warning: No components in dz\water_bliss\river\enoch_river_191.p3d:geometry
+10:11:25.181 Warning: No components in dz\water_bliss\river\enoch_river_192.p3d:geometry
+10:11:25.181 Warning: No components in dz\water_bliss\river\enoch_river_193.p3d:geometry
+10:11:25.462 !!! No animSource for doors Land_Wreck_hb01_aban2_white :: door 3, check model+config
+10:11:30.71 Average server FPS: 14234.00 (measured interval: 10 s)
+10:11:30.571 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+10:11:35.179 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetCharacterLoginState
+10:11:35.195 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering CreateNetObjectsLoginState
+10:11:35.195 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: WestStinik | idx: 10 (ut: 121593 | lt: 240000 | ctr: -1)
+10:11:35.195 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: WestStinik | idx: 10 (ct: 121593 | ut: 121593 | lt: 240000 | ctr: -1)
+10:11:35.195 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: WestStinik index: 10 (lt: 240000 | ctr: -1)
+10:11:35.195 Server: SetClientState dpid=1898990057 id=0 name=[Admin] Bunker PLAYER ASSIGNED -> MISSION RECEIVED
+10:11:35.195 Server: SetClientState dpid=1898990057 id=0 name=[Admin] Bunker MISSION RECEIVED -> GAME LOADED
+10:11:35.195 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering PreloadCamLoginState
+10:11:35.195 Login: Player [Admin] Bunker (1898990057) preloading at: 11194.930664 0.000000 9154.277344, yaw: 0.000000, new: 1
+10:11:35.195 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering WaitPreloadCamLoginState
+10:11:37.195 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering GetNewCharLoginState
+10:11:37.226 Warning Message: No entry 'bin\config.bin/CfgVehicles/Inventory_Base/DamageSystem.DamageZones'.
+10:11:37.226 Warning Message: No entry 'bin\config.bin/CfgVehicles/Inventory_Base/DamageSystem.DamageZones'.
+10:11:37.226 Warning Message: No entry 'bin\config.bin/CfgVehicles/Inventory_Base/DamageSystem.DamageZones'.
+10:11:37.226 Warning Message: No entry 'bin\config.bin/CfgVehicles/Inventory_Base/DamageSystem.DamageZones'.
+10:11:37.226 Warning Message: No entry 'bin\config.bin/CfgVehicles/Inventory_Base/DamageSystem.DamageZones'.
+10:11:37.226 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237176
+
+10:11:37.226 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237128
+
+10:11:37.226 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237080
+
+10:11:37.226 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237032
+
+10:11:37.226 Warning: No components in dz\characters\heads\m_adam.p3d:geometry
+10:11:37.242 <CREATE NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 1898990057
+    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:11:40.70 Average server FPS: 16403.00 (measured interval: 10 s)
+10:11:43.835 CHAR_DEBUG - KILL
+10:11:43.835     player [Admin] Bunker (dpnid = 1898990057)
+10:11:43.835     Identity: playerID = 1 , charID = 1
+10:11:43.835     Person  : playerID = 1 , charID = 1
+10:11:43.913 Respawn: Add player [Admin] Bunker (1898990057) to respawn machine
+10:11:43.913 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering GetCharacterRespawnState
+10:11:43.913 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering PreloadCamRespawnState
+10:11:43.913 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: WestStinik | idx: 10 (ct: 130312 | ut: 121593 | lt: 240000 | ctr: -1)
+10:11:43.913 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: WestStinik index: 10 (lt: 231281 | ctr: -1)
+10:11:43.913 Login: Player [Admin] Bunker (1898990057) preloading at: 11376.212891 0.000000 9163.671875, yaw: 0.000000, new: 1
+10:11:43.913 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering WaitPreloadCamRespawnState
+10:11:50.68 Average server FPS: 16386.20 (measured interval: 10 s)
+10:11:59.224 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering GetNewCharRespawnState
+10:11:59.239 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237176
+
+10:11:59.239 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237128
+
+10:11:59.239 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237080
+
+10:11:59.239 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237032
+
+10:11:59.239 <RESPAWN NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 1898990057
+    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:12:00.82 Average server FPS: 18214.30 (measured interval: 10 s)
+10:12:04.300 CHAR_DEBUG - KILL
+10:12:04.300     player [Admin] Bunker (dpnid = 1898990057)
+10:12:04.300     Identity: playerID = 1 , charID = 1
+10:12:04.300     Person  : playerID = 1 , charID = 1
+10:12:04.331 Respawn: Add player [Admin] Bunker (1898990057) to respawn machine
+10:12:04.331 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering GetCharacterRespawnState
+10:12:04.331 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering PreloadCamRespawnState
+10:12:04.331 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: WestStinik | idx: 10 (ct: 150734 | ut: 130312 | lt: 231281 | ctr: -1)
+10:12:04.331 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: WestStinik index: 10 (lt: 210859 | ctr: -1)
+10:12:04.331 Login: Player [Admin] Bunker (1898990057) preloading at: 11294.930664 0.000000 8954.277344, yaw: 0.000000, new: 1
+10:12:04.331 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering WaitPreloadCamRespawnState
+10:12:07.65 Placement slopelandcontact failed on model dz\structures\residential\medical\medical_tent_big.p3d. Too many (4) points in landcontact.
+10:12:07.65 Placement slopelandcontact failed on model dz\structures\residential\medical\medical_tent_big.p3d. Too many (4) points in landcontact.
+10:12:07.65 PerfWarning: Way too much components (566) in dz\structures\military\airfield\airfield_servicehangar_l.p3d:geometryFire
+10:12:07.65 Placement slopelandcontact failed on model dz\structures\residential\medical\medical_tent_big.p3d. Too many (4) points in landcontact.
+10:12:07.65 Placement slopelandcontact failed on model dz\structures\residential\medical\medical_tent_big.p3d. Too many (4) points in landcontact.
+10:12:07.409 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+10:12:07.768 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:12:08.174 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:12:10.80 Average server FPS: 15371.50 (measured interval: 10 s)
+10:12:19.689 [StateMachine]: Player [Admin] Bunker (dpnid 1898990057 uid ) Entering GetNewCharRespawnState
+10:12:19.736 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237176
+
+10:12:19.736 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237128
+
+10:12:19.736 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237080
+
+10:12:19.736 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable -1300237032
+
+10:12:19.736 Warning Message: No entry 'bin\config.bin/CfgVehicles/Rag/DamageSystem.DamageZones'.
+10:12:19.736 <RESPAWN NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 1898990057
+    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:12:20.79 Average server FPS: 17928.40 (measured interval: 10 s)
+10:12:30.78 Average server FPS: 12711.00 (measured interval: 10 s)
+10:12:40.77 Average server FPS: 12918.80 (measured interval: 10 s)
+10:12:50.76 Average server FPS: 12970.20 (measured interval: 10 s)
+10:13:00.80 Average server FPS: 12414.60 (measured interval: 10 s)
+10:13:00.190 Warning Message: No entry 'bin\config.bin/CfgVehicles/DarkMotoHelmet_YellowScarred/DamageSystem.DamageZones'.
+10:13:00.190 Warning: No components in dz\characters\headgear\motohelmet_scarred.p3d:geometry
+10:13:10.79 Average server FPS: 13404.10 (measured interval: 10 s)
+10:13:20.78 Average server FPS: 12876.10 (measured interval: 10 s)
+10:13:25.827 CHAR_DEBUG - SAVE
+10:13:25.827     player [Admin] Bunker (dpnid = 1898990057)
+10:13:25.827     Identity: playerID = 1 , charID = 1
+10:13:25.827     Person  : playerID = 1 , charID = 1
+10:13:25.827 Saved 1 players ...
+10:13:29.968 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+10:13:30.77 Average server FPS: 12878.80 (measured interval: 10 s)
+10:13:40.76 Average server FPS: 12911.10 (measured interval: 10 s)
+10:13:42.294 [Disconnect]: Start script disconnect 1898990057 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+10:13:50.75 Average server FPS: 12570.20 (measured interval: 10 s)
+10:13:55.543 Warning Message: No entry 'bin\config.bin/CfgVehicles/BoletusMushroom/DamageSystem.DamageZones'.
+10:13:56.449 Warning Message: No entry 'bin\config.bin/CfgVehicles/SmallStone/DamageSystem.DamageZones'.
+10:13:57.324 CHAR_DEBUG - SAVE
+10:13:57.324     player [Admin] Bunker (dpnid = 1898990057)
+10:13:57.324     Identity: playerID = 1 , charID = 1
+10:13:57.324     Person  : playerID = 1 , charID = 1
+10:13:57.324 CHAR_DEBUG - EXIT
+10:13:57.324     player mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= (dpnid = 1898990057)
+10:13:57.324     Person  : playerID = 1 , charID = 1
+10:13:57.324 [Disconnect]: Finish script disconnect 1898990057 (mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
+10:13:57.324 [Disconnect]: DisconnectPlayerFinish 1898990057
+10:13:58.74 [Disconnect]: Remove player info 1898990057
+10:13:58.74 [Disconnect]: Player destroy 1898990057 
+10:14:00.81 Average server FPS: 14919.30 (measured interval: 10 s)
+10:14:10.67 Average server FPS: 19121.80 (measured interval: 10 s)
+10:14:20.81 Average server FPS: 18813.00 (measured interval: 10 s)
+10:14:30.80 Average server FPS: 19801.00 (measured interval: 10 s)
+10:14:40.79 Average server FPS: 19737.60 (measured interval: 10 s)
+10:14:50.78 Average server FPS: 19498.10 (measured interval: 10 s)
+10:15:00.70 Average server FPS: 19998.70 (measured interval: 10 s)
+10:15:00.248 Convex "component39" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component40" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component42" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component44" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component45" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component46" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component48" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component50" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component52" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component53" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component54" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.248 Convex "component55" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometry
+10:15:00.249 Convex "component39" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component40" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component42" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component44" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component45" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component46" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component48" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component50" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component52" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component53" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component54" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 Convex "component55" selection faces are less then 4 in dayzexpansion\objects\airdrop\airdropc130j.p3d:geometryView
+10:15:00.249 ExpansionAirdropPlane: display_on - unknown animation source enablemonitor
+10:15:00.249 ExpansionAirdropPlane: ind_engine - unknown animation source rpm
+10:15:00.249 ExpansionAirdropPlane: Flap_1_1 - unknown animation source flap
+10:15:00.249 ExpansionAirdropPlane: ElevatorL - unknown animation source elevator
+10:15:00.249 ExpansionAirdropPlane: AileronL - unknown animation source aileron
+10:15:00.249 ExpansionAirdropPlane: Rudder - unknown animation source rudder
+10:15:00.249 ExpansionAirdropPlane: RotorWithoutBlurAnimation - unknown animation source hiderotor
+10:15:00.249 ExpansionAirdropPlane: MainRotorBlurAnimation - unknown animation source hiderotorblur
+10:15:00.249 ExpansionAirdropPlane: Gear_1_1_Damper - unknown animation source altradar
+10:15:00.249 ExpansionAirdropPlane: wheel_1_1 - unknown animation source wheel
+10:15:00.249 ExpansionAirdropPlane: ramp_bottom - unknown animation source ramp_bottom
+10:15:00.249 ExpansionAirdropPlane: ramp_top - unknown animation source ramp_top
+10:15:00.249 ExpansionAirdropPlane: door_1 - unknown animation source door_1
+10:15:00.249 ExpansionAirdropPlane: door_2_1 - unknown animation source door_2_1
+10:15:00.249 ExpansionAirdropPlane: door_2_2 - unknown animation source door_2_2
+10:15:10.81 Average server FPS: 19318.20 (measured interval: 10 s)
+10:15:16.331 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+10:15:16.428 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:16.483 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:16.507 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:20.81 Average server FPS: 19380.50 (measured interval: 10 s)
+10:15:25.520 [IdleMode] Entering IN - save processed
+10:15:30.81 Average server FPS: 18701.10 (measured interval: 10 s)
+10:15:40.80 Average server FPS: 18978.30 (measured interval: 10 s)
+10:15:50.72 Average server FPS: 18337.50 (measured interval: 10 s)
+10:16:00.71 Average server FPS: 18545.60 (measured interval: 10 s)
+10:16:10.82 Average server FPS: 18608.50 (measured interval: 10 s)
+10:16:20.75 Average server FPS: 19385.10 (measured interval: 10 s)
+10:16:30.80 Average server FPS: 19078.80 (measured interval: 10 s)
+10:16:40.78 Average server FPS: 20059.20 (measured interval: 10 s)
+10:16:50.73 Average server FPS: 19549.90 (measured interval: 10 s)
+10:17:00.81 Average server FPS: 20339.00 (measured interval: 10 s)
+10:17:10.71 Average server FPS: 19837.20 (measured interval: 10 s)
+10:17:20.76 Average server FPS: 19841.10 (measured interval: 10 s)
+10:17:30.71 Average server FPS: 19378.40 (measured interval: 10 s)
+10:17:40.77 Average server FPS: 19971.50 (measured interval: 10 s)
+10:17:50.81 Average server FPS: 19464.20 (measured interval: 10 s)
+10:18:00.81 Average server FPS: 19422.50 (measured interval: 10 s)
+10:18:10.82 Average server FPS: 19374.60 (measured interval: 10 s)
+10:18:20.75 Average server FPS: 19500.70 (measured interval: 10 s)
+10:18:30.67 Average server FPS: 19367.20 (measured interval: 10 s)
+10:18:40.81 Average server FPS: 19491.40 (measured interval: 10 s)
+10:18:50.74 Average server FPS: 20046.20 (measured interval: 10 s)
+10:19:00.82 Average server FPS: 19606.60 (measured interval: 10 s)
+10:19:10.72 Average server FPS: 19646.70 (measured interval: 10 s)
+10:19:20.82 Average server FPS: 20169.10 (measured interval: 10 s)
+10:19:30.77 Average server FPS: 19483.20 (measured interval: 10 s)
+10:19:40.78 Average server FPS: 19932.40 (measured interval: 10 s)
+10:19:50.81 Average server FPS: 19462.20 (measured interval: 10 s)
+10:20:00.81 Average server FPS: 19341.20 (measured interval: 10 s)
+10:20:10.81 Average server FPS: 19446.10 (measured interval: 10 s)
+10:20:20.73 Average server FPS: 19409.70 (measured interval: 10 s)
+10:20:30.75 Average server FPS: 19475.60 (measured interval: 10 s)
+10:20:40.75 Average server FPS: 19848.90 (measured interval: 10 s)
+10:20:50.81 Average server FPS: 19439.70 (measured interval: 10 s)
+10:21:00.78 Average server FPS: 19805.90 (measured interval: 10 s)
+10:21:10.71 Average server FPS: 19507.00 (measured interval: 10 s)
+10:21:20.77 Average server FPS: 19596.60 (measured interval: 10 s)
+10:21:30.81 Average server FPS: 20093.40 (measured interval: 10 s)
+10:21:40.81 Average server FPS: 19329.30 (measured interval: 10 s)
+10:21:50.69 Average server FPS: 18802.70 (measured interval: 10 s)
+10:22:00.71 Average server FPS: 19594.60 (measured interval: 10 s)
+10:22:10.82 Average server FPS: 19107.60 (measured interval: 10 s)
+10:22:20.74 Average server FPS: 18844.90 (measured interval: 10 s)
+10:22:30.81 Average server FPS: 18859.40 (measured interval: 10 s)
+10:22:40.71 Average server FPS: 18988.00 (measured interval: 10 s)
+10:22:50.72 Average server FPS: 19367.50 (measured interval: 10 s)
+10:23:00.82 Average server FPS: 18204.70 (measured interval: 10 s)
+10:23:10.81 Average server FPS: 18907.30 (measured interval: 10 s)
+10:23:20.81 Average server FPS: 19050.30 (measured interval: 10 s)
+10:23:30.78 Average server FPS: 19008.90 (measured interval: 10 s)
+10:23:40.81 Average server FPS: 19137.50 (measured interval: 10 s)
+10:23:42.398 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionAirdropContainerBase/DamageSystem.DamageZones'.
+10:23:42.399 ExpansionAirdropContainer_Medical: Parachute - unknown animation source parachute
+10:23:42.399 Cannot create entity with abstract type CharcoalTablets (scope = private?)
+10:23:42.400 Cannot create entity with abstract type PainkillerTablets (scope = private?)
+10:23:42.400 Cannot create entity with abstract type Morphine (scope = private?)
+10:23:42.400 Cannot create entity with abstract type PainkillerTablets (scope = private?)
+10:23:42.401 Cannot create entity with abstract type CharcoalTablets (scope = private?)
+10:23:42.401 Cannot create entity with abstract type Morphine (scope = private?)
+10:23:42.402 Cannot create entity with abstract type TetracyclineAntibiotics (scope = private?)
+10:23:42.402 Cannot create entity with abstract type PainkillerTablets (scope = private?)
+10:23:42.403 Warning Message: No entry 'bin\config.bin/CfgVehicles/BloodBagIV/DamageSystem.DamageZones'.
+10:23:42.403 Warning Message: No entry 'bin\config.bin/CfgVehicles/SalineBagIV/DamageSystem.DamageZones'.
+10:23:42.404 Cannot create entity with abstract type PainkillerTablets (scope = private?)
+10:23:42.404 Cannot create entity with abstract type CharcoalTablets (scope = private?)
+10:23:42.405 Cannot create entity with abstract type PainkillerTablets (scope = private?)
+10:23:50.82 Average server FPS: 18297.30 (measured interval: 10 s)
+10:24:00.82 Average server FPS: 19024.40 (measured interval: 10 s)
+10:24:10.78 Average server FPS: 19417.20 (measured interval: 10 s)
+10:24:20.80 Average server FPS: 19048.50 (measured interval: 10 s)
+10:24:30.81 Average server FPS: 19146.70 (measured interval: 10 s)
+10:24:40.81 Average server FPS: 19282.00 (measured interval: 10 s)
+10:24:50.82 Average server FPS: 18187.20 (measured interval: 10 s)
+10:25:00.79 Average server FPS: 19271.40 (measured interval: 10 s)
+10:25:10.82 Average server FPS: 18890.30 (measured interval: 10 s)
+10:25:20.79 Average server FPS: 19531.60 (measured interval: 10 s)
+10:25:25.659 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_MotobikerFat_Beige.P3DAttachments'.
+10:25:25.659 Warning Message: No entry '.P3DProxies'.
+10:25:25.659 Warning Message: No entry '.BoneNames'.
+10:25:25.659 Warning Message: Size: '/' not an array
+10:25:25.659 Warning Message: Size: '/' not an array
+10:25:25.659 Warning Message: Size: '/' not an array
+10:25:25.976 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_SkaterYoung_Green.P3DAttachments'.
+10:25:25.976 Warning Message: No entry '.P3DProxies'.
+10:25:25.976 Warning Message: No entry '.BoneNames'.
+10:25:25.976 Warning Message: Size: '/' not an array
+10:25:25.976 Warning Message: Size: '/' not an array
+10:25:25.976 Warning Message: Size: '/' not an array
+10:25:26.409 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_OffshoreWorker_Green.P3DAttachments'.
+10:25:26.409 Warning Message: No entry '.P3DProxies'.
+10:25:26.409 Warning Message: No entry '.BoneNames'.
+10:25:26.409 Warning Message: Size: '/' not an array
+10:25:26.409 Warning Message: Size: '/' not an array
+10:25:26.409 Warning Message: Size: '/' not an array
+10:25:26.911 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_CitizenANormal_Brown.P3DAttachments'.
+10:25:26.911 Warning Message: No entry '.P3DProxies'.
+10:25:26.911 Warning Message: No entry '.BoneNames'.
+10:25:26.911 Warning Message: Size: '/' not an array
+10:25:26.911 Warning Message: Size: '/' not an array
+10:25:26.911 Warning Message: Size: '/' not an array
+10:25:27.52 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_CommercialPilotOld_Brown.P3DAttachments'.
+10:25:27.52 Warning Message: No entry '.P3DProxies'.
+10:25:27.52 Warning Message: No entry '.BoneNames'.
+10:25:27.52 Warning Message: Size: '/' not an array
+10:25:27.52 Warning Message: Size: '/' not an array
+10:25:27.52 Warning Message: Size: '/' not an array
+10:25:27.364 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_OffshoreWorker_Red.P3DAttachments'.
+10:25:27.364 Warning Message: No entry '.P3DProxies'.
+10:25:27.364 Warning Message: No entry '.BoneNames'.
+10:25:27.364 Warning Message: Size: '/' not an array
+10:25:27.364 Warning Message: Size: '/' not an array
+10:25:27.364 Warning Message: Size: '/' not an array
+10:25:27.632 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_JournalistNormal_White.P3DAttachments'.
+10:25:27.632 Warning Message: No entry '.P3DProxies'.
+10:25:27.632 Warning Message: No entry '.BoneNames'.
+10:25:27.632 Warning Message: Size: '/' not an array
+10:25:27.632 Warning Message: Size: '/' not an array
+10:25:27.632 Warning Message: Size: '/' not an array
+10:25:27.741 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_PatientOld.P3DAttachments'.
+10:25:27.741 Warning Message: No entry '.P3DProxies'.
+10:25:27.741 Warning Message: No entry '.BoneNames'.
+10:25:27.741 Warning Message: Size: '/' not an array
+10:25:27.741 Warning Message: Size: '/' not an array
+10:25:27.741 Warning Message: Size: '/' not an array
+10:25:30.79 Average server FPS: 19958.60 (measured interval: 10 s)
+10:25:40.79 Average server FPS: 19950.40 (measured interval: 10 s)
+10:25:50.67 Average server FPS: 20353.30 (measured interval: 10 s)
+10:26:00.70 Average server FPS: 20710.10 (measured interval: 10 s)
+10:26:10.72 Average server FPS: 20292.20 (measured interval: 10 s)
+10:26:20.78 Average server FPS: 19695.70 (measured interval: 10 s)
+10:26:30.69 Average server FPS: 20416.90 (measured interval: 10 s)
+10:26:40.76 Average server FPS: 19956.80 (measured interval: 10 s)
+10:26:50.76 Average server FPS: 20303.80 (measured interval: 10 s)
+10:27:00.82 Average server FPS: 20221.40 (measured interval: 10 s)
+10:27:10.82 Average server FPS: 20203.10 (measured interval: 10 s)
+10:27:20.74 Average server FPS: 19968.30 (measured interval: 10 s)
+10:27:30.76 Average server FPS: 20034.80 (measured interval: 10 s)
+10:27:40.81 Average server FPS: 19624.90 (measured interval: 10 s)
+10:27:50.76 Average server FPS: 19998.70 (measured interval: 10 s)
+10:28:00.67 Average server FPS: 19794.80 (measured interval: 10 s)
+10:28:10.82 Average server FPS: 19852.70 (measured interval: 10 s)
+10:28:20.82 Average server FPS: 19771.40 (measured interval: 10 s)
+10:28:30.66 Average server FPS: 19629.10 (measured interval: 10 s)
+10:28:40.67 Average server FPS: 19980.60 (measured interval: 10 s)
+10:28:50.68 Average server FPS: 19920.20 (measured interval: 10 s)
+10:29:00.82 Average server FPS: 19772.20 (measured interval: 10 s)
+10:29:10.82 Average server FPS: 19625.10 (measured interval: 10 s)
+10:29:20.80 Average server FPS: 19192.70 (measured interval: 10 s)
+10:29:20.912 !!! No animSource for doors Land_Wreck_hb01_aban2_white :: door 3, check model+config
+10:29:30.80 Average server FPS: 18916.20 (measured interval: 10 s)
+10:29:40.80 Average server FPS: 19306.20 (measured interval: 10 s)
+10:29:50.82 Average server FPS: 19728.10 (measured interval: 10 s)
+10:30:00.81 Average server FPS: 19701.00 (measured interval: 10 s)
+10:30:10.68 Average server FPS: 19846.40 (measured interval: 10 s)
+10:30:20.79 Average server FPS: 19581.30 (measured interval: 10 s)
+10:30:30.66 Average server FPS: 19861.10 (measured interval: 10 s)
+10:30:40.79 Average server FPS: 19217.30 (measured interval: 10 s)
+10:30:50.79 Average server FPS: 19291.50 (measured interval: 10 s)
+10:31:00.79 Average server FPS: 19747.10 (measured interval: 10 s)
+10:31:10.77 Average server FPS: 19665.10 (measured interval: 10 s)
+10:31:20.69 Average server FPS: 19713.20 (measured interval: 10 s)
+10:31:30.78 Average server FPS: 19194.80 (measured interval: 10 s)
+10:31:40.78 Average server FPS: 19641.10 (measured interval: 10 s)
+10:31:50.78 Average server FPS: 19721.20 (measured interval: 10 s)
+10:32:00.77 Average server FPS: 19536.20 (measured interval: 10 s)
+10:32:10.77 Average server FPS: 9905.10 (measured interval: 10 s)
+10:32:20.77 Average server FPS: 19327.50 (measured interval: 10 s)
+10:32:30.78 Average server FPS: 19479.30 (measured interval: 10 s)
+10:32:40.67 Average server FPS: 19796.80 (measured interval: 10 s)
+10:32:50.77 Average server FPS: 19694.00 (measured interval: 10 s)
+10:33:00.78 Average server FPS: 19779.00 (measured interval: 10 s)

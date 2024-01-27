@@ -1,6 +1,6 @@
 {
-  "m_startSoulsCount": 1,
-  "m_respawnSoulsPrice": 0,
+  "m_startSoulsCount": 10,
+  "m_respawnSoulsPrice": 1,
   "m_newchar_points": 30,
   "m_roleplay_mode": 0,
   "m_groups": [],

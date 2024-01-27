@@ -1,0 +1,9 @@
+10:10:04.683 [VehicleDestroyed] ExpansionUh1h_Uber (id=30E95B8DBA4EC4E1588C37843A9452E6 pos=<7924.665039, 169.330292, 11833.607422>)
+10:11:37.628 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:11:37.628 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+10:11:37.628 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:11:37.628 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:11:37.628 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:11:44.222 [Killfeed] [Admin] Bunker got killed.
+10:12:04.687 [Killfeed] [Admin] Bunker got killed.
+10:15:00.632 [MissionAirdrop] An airdrop is heading towards "Tarnow" (pos=<9976.000000, 0.000000, 11000.000000> type=Random_Tarnow) with a ExpansionAirdropContainer_Medical
