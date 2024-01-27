@@ -1,0 +1,15 @@
+23:06:15.390 [VehicleDestroyed] ExpansionUh1h_Resistance (id=79C5274D5944053BA2DC1DA5C43A7B09 pos=<1227.738647, 169.341583, 7566.623535>)
+23:06:15.398 [VehicleDestroyed] ExpansionUh1h_Medical (id=BAD44573A648B252CEDCE4A36614C9D5 pos=<7924.762207, 169.310425, 11833.860352>)
+23:11:11.093 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Military
+00:29:07.531 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:29:07.531 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:29:07.546 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 14
+00:29:14.031 [Killfeed] [Admin] Bunker got killed.
+00:29:40.523 [Killfeed] [Admin] Bunker got killed.
+00:29:58.960 [Killfeed] [Admin] Bunker got killed.
+00:40:59.765 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer
+01:15:39.015 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+01:15:39.015 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+01:15:39.023 [Expansion Quests] - CompleteQuest - Player with UID BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= has completed quest 14
+01:15:53.937 [Killfeed] [Admin] Bunker got killed.
+01:16:12.687 [Killfeed] [Admin] Bunker got killed.
