@@ -1,0 +1,5 @@
+02:16:41.326 [VehicleDestroyed] ExpansionUh1h_Resistance (id=B7CF73ABC94FCE5AA1564FAAAEC20407 pos=<1233.068481, 168.694366, 7566.706543>)
+02:16:41.334 [VehicleDestroyed] ExpansionUh1h_Medical (id=02B8FBF3D741CC3E93ADF19B6861E564 pos=<7924.622070, 169.314880, 11833.885742>)
+02:16:41.931 [VehicleDeleted] ExpansionUh1h_Resistance (id=79C5274D5944053BA2DC1DA5C43A7B09 pos=<1233.068481, 168.694366, 7566.706543>)
+02:16:41.932 [VehicleDeleted] ExpansionUh1h_Medical (id=BAD44573A648B252CEDCE4A36614C9D5 pos=<7924.622070, 169.314880, 11833.885742>)
+02:21:45.149 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Military

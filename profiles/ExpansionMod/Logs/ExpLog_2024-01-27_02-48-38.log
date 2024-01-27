@@ -1,0 +1,9 @@
+02:54:09.220 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer
+03:05:10.281 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+03:05:10.282 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+03:05:10.299 [Expansion Quests] - CompleteQuest - Player with UID OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= has completed quest 14
+03:06:07.155 [Killfeed] Bluecollarboys got killed.
+03:06:27.856 [Killfeed] Bluecollarboys got killed.
+03:06:34.072 [VehicleDestroyed] ExpansionUh1h_Uber (id=7D68BCE0D04670A61009228B82A3F811 pos=<1227.716064, 169.339676, 7566.576172>)
+04:20:18.685 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical
+05:50:10.687 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Military

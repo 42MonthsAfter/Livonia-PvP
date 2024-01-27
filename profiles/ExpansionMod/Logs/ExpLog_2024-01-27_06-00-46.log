@@ -1,0 +1,19 @@
+06:01:13.855 [VehicleDestroyed] ExpansionUh1h_Uber (id=A5098FFA6247035D3A4244BFAFAD6F71 pos=<1229.149536, 169.029831, 7566.314453>)
+06:01:14.292 [VehicleDeleted] ExpansionUh1h_Uber (id=7D68BCE0D04670A61009228B82A3F811 pos=<1229.149536, 169.029831, 7566.314453>)
+06:06:17.558 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+07:35:48.556 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Basebuilding
+09:01:49.558 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Basebuilding
+09:40:25.781 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+09:40:25.781 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+09:40:25.781 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+09:40:25.785 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+09:40:25.785 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+09:41:50.199 [VehicleDestroyed] ExpansionUh1h_Uber (id=BE3BD9151648F66C9F7FE4BFEED8ED58 pos=<7924.682129, 169.613144, 11833.759766>)
+09:43:35.070 [AI Patrol] Spawning 1 Raiders bots at <6720.487305, 170.053955, 11030.144531>
+09:47:44.667 [VehicleDeleted] ExpansionUh1h_Uber (id=BE3BD9151648F66C9F7FE4BFEED8ED58 pos=<7924.343750, 169.325211, 11833.467773>)
+09:48:01.785 [AI Patrol] Spawning 1 West bots at <12008.774414, 302.239990, 5250.983887>
+09:49:29.234 [VehicleDestroyed] ExpansionUh1h_Resistance (id=E6957BD4C1453368DBFC6D94378AEE83 pos=<7924.629395, 169.304642, 11833.787109>)
+09:55:22.125 [VehicleDeleted] ExpansionUh1h_Resistance (id=E6957BD4C1453368DBFC6D94378AEE83 pos=<7921.104492, 168.644836, 11833.789063>)
+09:57:32.140 [VehicleDestroyed] ExpansionUh1h_Resistance (id=3A64B3942D4B4A34B207109A739D5708 pos=<7924.616699, 169.422348, 11833.808594>)
+10:03:26.496 [VehicleDeleted] ExpansionUh1h_Resistance (id=3A64B3942D4B4A34B207109A739D5708 pos=<7925.126953, 169.058533, 11835.430664>)
+10:05:11.097 [VehicleDestroyed] ExpansionUh1h_Uber (id=A4B5A5D1B645E668BC6E008E3A112B71 pos=<7924.695801, 169.343262, 11833.741211>)

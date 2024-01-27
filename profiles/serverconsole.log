@@ -1,1390 +1,326 @@
-﻿23:05:30 BattlEye Server: Initialized (v1.219, DayZ 1.23.157045)
-23:05:30 SUCCESS: SteamGameServer_Init(0,8766,2602,27016,3,1.23.157045)
-23:05:30 BattlEye Server: Config entry: RConPassword 4c73fb7edd3f805859e973c8879ae87e
-23:05:30 BattlEye Server: Config entry: RConPort 2605
-23:05:30 BattlEye Server: Config entry: RestrictRCon 0
-23:05:30 Roles assigned.
-23:05:30 Reading mission ...
-23:05:43 [CE][Hive] :: Initializing OFFLINE
-23:05:43 [StorageDirs] :: Selected storage directory: C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\
-23:05:43 [CE][Hive] :: Loading core data ... 
-23:05:43 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
-23:05:43 [CE][offlineDB] :: Conversion of characters started.
-23:05:43 [CE][offlineDB] :: Processing 0 players.
-23:05:43 [CE][offlineDB] :: Conversion of characters successfully completed.
-23:05:52 [CE][TypeSetup] :: 527 classes setuped...
-23:05:52 [CE][TypeSetup] :: 97 classes setuped...
-23:05:53 [CE][RegisterBind] :: 0 classes binded...
-23:05:53 [CE][RegisterConfig] :: 11569 config classes registered, 0 sub-counters...
-23:05:53 [CE][Hive] :: Loading map data ... 
-23:05:53 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
-23:05:53 [CE][LoadPrototype] :: loaded 445 prototypes
-23:05:53   842 containers, 11087 points
-23:05:53   83 dispatches, 324 proxies
-23:05:53 !!! [CE][LoadPrototype] 4 groups have no points...
-23:05:53 !!! [CE][LoadPrototype] 1 groups have wrong points...
-23:05:53 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
-23:05:53 [CE][LoadPrototype] :: loaded 0 prototypes
-23:05:53   50 containers, 276 points
-23:05:53   0 dispatches, 0 proxies
-23:05:53 [CE][LoadPrototype] :: last group name: PathD_7100...
-23:05:54 [CE][LoadMap] "Group" :: loaded 5753 groups, groups failed: 0, largest group range: 26.6
-23:05:54 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 26.6
-23:05:54 [CE][LoadClusters] "Cluster" :: Loading files...
-23:05:54 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 4 types, 50000 instances
-23:05:55 [CE][LoadClusters] :: file: "mapgroupcluster01", 4 types, 50000 instances
-23:05:56 [CE][LoadClusters] :: file: "mapgroupcluster02", 4 types, 50000 instances
-23:05:57 [CE][LoadClusters] :: file: "mapgroupcluster03", 4 types, 50000 instances
-23:05:57 [CE][LoadClusters] :: file: "mapgroupcluster04", 4 types, 25015 instances
-23:05:57 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\types.bin"
-23:05:57 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\types.001"
-23:05:57 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\types.002"
-23:05:57 !!! [CE][offlineDB] :: No Shutdown message present.
-23:05:57 [CE][offlineDB] :: Loaded 43 dynamic events 235 total types.
-23:05:57 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
-23:05:57 [CE][offlineDB] :: Loaded 52 dynamic events 292 total types.
-23:05:57 !!! [CE][offlineDB] :: Type 'AntiChemInjector' will be ignored. (Not spawnable. (Scope is not public?))
-23:05:57 !!! [CE][offlineDB] :: Type 'CharcoalTablets' will be ignored. (Not spawnable. (Scope is not public?))
-23:05:57 !!! [CE][offlineDB] :: Type 'ChristmasTree_Green' will be ignored. (Not spawnable. (Scope is not public?))
-23:05:57 !!! [CE][offlineDB] :: Type 'Epinephrine' will be ignored. (Not spawnable. (Scope is not public?))
-23:05:57 !!! [CE][offlineDB] :: Type 'Morphine' will be ignored. (Not spawnable. (Scope is not public?))
-23:05:57 !!! [CE][offlineDB] :: Type 'PainkillerTablets' will be ignored. (Not spawnable. (Scope is not public?))
-23:05:57 !!! [CE][offlineDB] :: Type 'TetracyclineAntibiotics' will be ignored. (Not spawnable. (Scope is not public?))
-23:05:57 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Black' will be ignored. (Type does not exist. (Typo?))
-23:05:57 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Brown' will be ignored. (Type does not exist. (Typo?))
-23:05:57 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Red' will be ignored. (Type does not exist. (Typo?))
-23:05:58 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
-23:05:58 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
-23:05:58 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Not spawnable. (Scope is not public?))
-23:05:58 !!! File "DZ\worlds\enoch\ce\SyberiaMod/types.xml" does not exist...
-23:05:58 !!! [ERROR][XML] :: load [DZ\worlds\enoch\ce\SyberiaMod/types.xml] failed
-23:05:58 !!! [ERROR][XML] :: Failed to open file
-23:05:58 !!! [CE][offlineDB] :: Failed to read types file 'SyberiaMod/types.xml'.
-23:05:58 !!! File "DZ\worlds\enoch\ce\UndergroundBases/types.xml" does not exist...
-23:05:58 !!! [ERROR][XML] :: load [DZ\worlds\enoch\ce\UndergroundBases/types.xml] failed
-23:05:58 !!! [ERROR][XML] :: Failed to open file
-23:05:58 !!! [CE][offlineDB] :: Failed to read types file 'UndergroundBases/types.xml'.
-23:05:58 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
-23:05:58 [CE][DE][SPAWNS] :: Total positions: 529
-23:05:58 [CE][DE][GROUPS] :: Total eventgroups defined: 61, Eventgroups in use: 61
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\events.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\events.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\events.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\building.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\building.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\building.002"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.bin"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.001"
-23:05:58 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.002"
-23:05:58 [CE][Hive] :: Empty storage folder, reinitializing ... 
-23:05:58 [CE][Hive] :: Initializing ... 
-23:05:58 [CE][InitializeMap] :: initialized: 0
-23:05:58 [CE][Hive] :: Initializing spawners ... 
-23:05:58 !!! [CE][DE] DynamicEvent "InfectedNBCYellow" has no children defined, at least one is required for this type of event.
-23:05:58 !!!!!! [CE][DE] DynamicEvent "InfectedNBCYellow" setup is invalid, event will be disabled.
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Truck_01_Door_1_1_GreenRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Truck_01_Door_1_1_GreenRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Truck_01_Door_1_1_GreenRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Truck_01_Door_1_1_GreenRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Truck_01_Door_1_1_GreenRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Truck_01_Door_1_1_GreenRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Truck_01_Door_1_1_GreenRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Truck_01_Door_1_1_GreenRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "Truck_01_Door_1_1_GreenRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "CivSedanTrunk_WineRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "CivSedanTrunk_WineRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "CivSedanTrunk_WineRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "CivSedanTrunk_WineRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "CivSedanTrunk_WineRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "CivSedanTrunk_WineRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "CivSedanTrunk_WineRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "CivSedanTrunk_WineRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "CivSedanTrunk_WineRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "Sedan_02_Door_2_1_GreyRust"
-23:05:58 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "Sedan_02_Door_2_1_GreyRust"
-23:05:59 !!! [CE][Point] Removing 711.076477, 1184.009399 from Land_Wreck_truck01_aban1_green
-23:05:59 !!! [CE][Point] Removing 615.638123, 1147.878418 from Land_Wreck_truck01_aban1_green
-23:06:00 !!! [CE][Point] Removing 704.672974, 1183.113647 from Land_Wreck_truck01_aban1_green
-23:06:00 !!! [CE][Point] Removing 610.545593, 1144.913940 from Land_Wreck_truck01_aban1_green
-23:06:01 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "M9A1_Bayonet"
-23:06:01 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "ParamedicJacket_Green"
-23:06:01 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "PressVest_LightBlue"
-23:06:01 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "ShortJeans_Darkblue"
-23:06:01 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "Flag_White"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "WoolGloves_White"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "WoolGloves_White"
-23:06:02 !!! [CE][Point] Removing 611.490173, 1147.956665 from Land_Wreck_truck01_aban1_green
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "FlatCap_BrownCheck"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "FlatCap_Brown"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "LabCoat"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "LabCoat"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "BDUPants"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "BDUPants"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "BDUPants"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "FirefightersHelmet_Yellow"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "FirefightersHelmet_Yellow"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "FirefightersHelmet_Yellow"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "HighCapacityVest_Black"
-23:06:02 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "Mp133Shotgun"
-23:06:03 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "CanvasBag_Medical"
-23:06:03 !!! [CE][Point] Removing 615.212463, 1144.715820 from Land_Wreck_truck01_aban1_green
-23:06:04 !!! [CE][Point] Removing 596.386841, 1144.632446 from Land_Wreck_truck01_aban2_green
-23:06:04 !!! [CE][Point] Removing 613.831543, 1144.879272 from Land_Wreck_truck01_aban1_green
-23:06:05 !!! [CE][Point] Removing 11478.268555, 10158.290039 from Land_Boat_Small2
-23:06:05 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:14839, Nominal:15082, Total in Map: 13740 at 7 (sec)
-23:06:05   tests:15132, repeats:93 fails:200, overtime:1465
-23:06:05 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
-23:06:05 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
-23:06:05 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
-23:06:05 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
-23:06:05 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:05 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:05 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:05 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:05 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:05 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP1_NoPlacement_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_T72_Chassis_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP1_NoPlacement_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban2_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban2_grey_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban2_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban2_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban2_red_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_black_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban2_red_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
-23:06:06 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Blue_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Planks_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Red_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Mo_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_Mil_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
-23:06:06 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Moh_DE, lootmin: 3, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
-23:06:06 [CE][DynEvent] :: 52 types
-23:06:06 [00] AmbientHen
-23:06:06   Primary Spawner: "Ambient", active: yes, repeat: 1
-23:06:06 [01] AnimalBear
-23:06:06   Primary Spawner: "Animal", active: yes, repeat: 1
-23:06:06 [02] AnimalCow
-23:06:06   Primary Spawner: "Animal", active: yes, repeat: 1
-23:06:06 [03] AnimalDeer
-23:06:06   Primary Spawner: "Animal", active: yes, repeat: 1
-23:06:06 [04] AnimalGoat
-23:06:06   Primary Spawner: "Animal", active: yes, repeat: 1
-23:06:06 [05] AnimalPig
-23:06:06   Primary Spawner: "Animal", active: yes, repeat: 1
-23:06:06 [06] AnimalRoeDeer
-23:06:06   Primary Spawner: "Animal", active: yes, repeat: 1
-23:06:06 [07] AnimalSheep
-23:06:06   Primary Spawner: "Animal", active: yes, repeat: 1
-23:06:06 [08] AnimalWildBoar
-23:06:06   Primary Spawner: "Animal", active: yes, repeat: 1
-23:06:06 [09] AnimalWolf
-23:06:06   Primary Spawner: "Animal", active: yes, repeat: 1
-23:06:06 [10] InfectedArmy
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [11] InfectedArmyConvoy
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [12] InfectedArmyHard
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [13] InfectedCity
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [14] InfectedFirefighter
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [15] InfectedIndustrial
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [16] InfectedMedic
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [17] InfectedNBC
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [18] InfectedNBCYellow
-23:06:06   Primary Spawner: "Infected", active: no, repeat: 1
-23:06:06 [19] InfectedPolice
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [20] InfectedPoliceHard
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [21] InfectedPrisoner
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [22] InfectedReligious
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [23] InfectedSanta
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [24] InfectedSolitude
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [25] InfectedVillage
-23:06:06   Primary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [26] ItemPlanks
-23:06:06   Primary Spawner: "Item", active: yes, repeat: 1
-23:06:06 [27] Loot
-23:06:06   Primary Spawner: "Loot", active: yes, repeat: 2
-23:06:06 [28] StaticContaminatedArea
-23:06:06   Primary Spawner: "Static", active: yes, repeat: 1
-23:06:06 [29] StaticHeliCrash
-23:06:06   Primary Spawner: "Static", active: yes, repeat: 1
-23:06:06   Secondary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [30] StaticMilitaryConvoy
-23:06:06   Primary Spawner: "Static", active: yes, repeat: 1
-23:06:06   Secondary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [31] StaticPoliceSituation
-23:06:06   Primary Spawner: "Static", active: yes, repeat: 1
-23:06:06   Secondary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [32] StaticTrain
-23:06:06   Primary Spawner: "Static", active: yes, repeat: 1
-23:06:06   Secondary Spawner: "Infected", active: yes, repeat: 1
-23:06:06 [33] TrajectoryConiferous
-23:06:06   Primary Spawner: "Trajectory", active: yes, repeat: 1
-23:06:06 [34] TrajectoryDeciduous
-23:06:06   Primary Spawner: "Trajectory", active: yes, repeat: 1
-23:06:06 [35] TrajectoryHumus
-23:06:06   Primary Spawner: "Trajectory", active: yes, repeat: 1
-23:06:06 [36] TrajectoryStones
-23:06:06   Primary Spawner: "Trajectory", active: yes, repeat: 1
-23:06:06 [37] VehicleCivilianSedan
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [38] VehicleHatchback02
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [39] VehicleOffroad02
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [40] VehicleOffroadHatchback
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [41] VehicleSedan02
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [42] VehicleTruck01
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [43] VehicleUAZ
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [44] VehicleVodnik
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [45] VehicleBus
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [46] VehicleTractor
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [47] VehicleMH6Helicopter
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [48] VehicleMerlinHelicopter
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [49] VehicleUh1hHelicopter
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [50] VehicleGyroHelicopter
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [51] VehicleExpansionBoats
-23:06:06   Primary Spawner: "Vehicle", active: yes, repeat: 1
-23:06:06 [CE][Hive] :: Initializing of spawners done.
-23:06:06 [CE][Hive] :: Init sequence finished.
-23:06:07 Average server FPS: 0.11 (measured interval: 10 s)
-23:06:10 [IdleMode] Entering IN - save processed
-23:06:17 Average server FPS: 366.82 (measured interval: 10 s)
-23:06:27 Average server FPS: 1639.00 (measured interval: 10 s)
-23:06:37 Average server FPS: 772.40 (measured interval: 10 s)
-23:06:47 Average server FPS: 1198.28 (measured interval: 10 s)
-23:06:57 Average server FPS: 2028.60 (measured interval: 10 s)
-23:07:07 Average server FPS: 1637.10 (measured interval: 10 s)
-23:07:17 Average server FPS: 1801.00 (measured interval: 10 s)
-23:07:27 Average server FPS: 2461.45 (measured interval: 10 s)
-23:07:37 Average server FPS: 2224.70 (measured interval: 10 s)
-23:07:47 Average server FPS: 4316.30 (measured interval: 10 s)
-23:07:57 Average server FPS: 8618.33 (measured interval: 10 s)
-23:08:07 Average server FPS: 8645.50 (measured interval: 10 s)
-23:08:17 Average server FPS: 8762.50 (measured interval: 10 s)
-23:08:27 Average server FPS: 8661.00 (measured interval: 10 s)
-23:08:37 Average server FPS: 8567.40 (measured interval: 10 s)
-23:08:47 Average server FPS: 8470.20 (measured interval: 10 s)
-23:08:57 Average server FPS: 8224.90 (measured interval: 10 s)
-23:09:07 Average server FPS: 8729.30 (measured interval: 10 s)
-23:09:17 Average server FPS: 8262.80 (measured interval: 10 s)
-23:09:27 Average server FPS: 8438.10 (measured interval: 10 s)
-23:09:37 Average server FPS: 8692.30 (measured interval: 10 s)
-23:09:47 Average server FPS: 8499.60 (measured interval: 10 s)
-23:09:57 Average server FPS: 8512.40 (measured interval: 10 s)
-23:10:07 Average server FPS: 8623.30 (measured interval: 10 s)
-23:10:17 Average server FPS: 7576.70 (measured interval: 10 s)
-23:10:27 Average server FPS: 1581.80 (measured interval: 10 s)
-23:10:37 Average server FPS: 1585.40 (measured interval: 10 s)
-23:10:47 Average server FPS: 1590.00 (measured interval: 10 s)
-23:10:57 Average server FPS: 1581.00 (measured interval: 10 s)
-23:11:07 Average server FPS: 1582.20 (measured interval: 10 s)
-23:11:17 Average server FPS: 1552.80 (measured interval: 10 s)
-23:11:27 Average server FPS: 1528.00 (measured interval: 10 s)
-23:11:37 Average server FPS: 1513.10 (measured interval: 10 s)
-23:11:47 Average server FPS: 1510.50 (measured interval: 10 s)
-23:11:57 Average server FPS: 1507.80 (measured interval: 10 s)
-23:12:07 Average server FPS: 1489.20 (measured interval: 10 s)
-23:12:17 Average server FPS: 1496.90 (measured interval: 10 s)
-23:12:27 Average server FPS: 1523.80 (measured interval: 10 s)
-23:12:37 Average server FPS: 1532.40 (measured interval: 10 s)
-23:12:47 Average server FPS: 1534.40 (measured interval: 10 s)
-23:12:57 Average server FPS: 1534.50 (measured interval: 10 s)
-23:13:07 Average server FPS: 1529.40 (measured interval: 10 s)
-23:13:17 Average server FPS: 1528.70 (measured interval: 10 s)
-23:13:27 Average server FPS: 1491.50 (measured interval: 10 s)
-23:13:37 Average server FPS: 1493.10 (measured interval: 10 s)
-23:13:47 Average server FPS: 1506.00 (measured interval: 10 s)
-23:13:57 Average server FPS: 1516.20 (measured interval: 10 s)
-23:14:07 Average server FPS: 1532.70 (measured interval: 10 s)
-23:14:17 Average server FPS: 1536.70 (measured interval: 10 s)
-23:14:27 Average server FPS: 1535.80 (measured interval: 10 s)
-23:14:37 Average server FPS: 1534.70 (measured interval: 10 s)
-23:14:47 Average server FPS: 1486.50 (measured interval: 10 s)
-23:14:57 Average server FPS: 1531.90 (measured interval: 10 s)
-23:15:07 Average server FPS: 1504.20 (measured interval: 10 s)
-23:15:17 Average server FPS: 1521.50 (measured interval: 10 s)
-23:15:27 Average server FPS: 1527.30 (measured interval: 10 s)
-23:15:37 Average server FPS: 1483.50 (measured interval: 10 s)
-23:15:47 Average server FPS: 1496.00 (measured interval: 10 s)
-23:15:57 Average server FPS: 1538.20 (measured interval: 10 s)
-23:16:07 Average server FPS: 1538.60 (measured interval: 10 s)
-23:16:17 Average server FPS: 1526.60 (measured interval: 10 s)
-23:16:27 Average server FPS: 1510.30 (measured interval: 10 s)
-23:16:37 Average server FPS: 1524.60 (measured interval: 10 s)
-23:16:47 Average server FPS: 1484.80 (measured interval: 10 s)
-23:16:57 Average server FPS: 1519.30 (measured interval: 10 s)
-23:17:07 Average server FPS: 1480.90 (measured interval: 10 s)
-23:17:17 Average server FPS: 1540.80 (measured interval: 10 s)
-23:17:27 Average server FPS: 5817.70 (measured interval: 10 s)
-23:17:37 Average server FPS: 8295.00 (measured interval: 10 s)
-23:17:47 Average server FPS: 8476.30 (measured interval: 10 s)
-23:17:57 Average server FPS: 8428.10 (measured interval: 10 s)
-23:18:07 Average server FPS: 8076.70 (measured interval: 10 s)
-23:18:17 Average server FPS: 8330.30 (measured interval: 10 s)
-23:18:27 Average server FPS: 8428.30 (measured interval: 10 s)
-23:18:37 Average server FPS: 8372.70 (measured interval: 10 s)
-23:18:47 Average server FPS: 8258.00 (measured interval: 10 s)
-23:18:57 Average server FPS: 8462.60 (measured interval: 10 s)
-23:19:07 Average server FPS: 8311.00 (measured interval: 10 s)
-23:19:17 Average server FPS: 8230.30 (measured interval: 10 s)
-23:19:27 Average server FPS: 8346.10 (measured interval: 10 s)
-23:19:37 Average server FPS: 8272.30 (measured interval: 10 s)
-23:19:47 Average server FPS: 8156.80 (measured interval: 10 s)
-23:19:57 Average server FPS: 8332.50 (measured interval: 10 s)
-23:20:07 Average server FPS: 8470.50 (measured interval: 10 s)
-23:20:17 Average server FPS: 8362.90 (measured interval: 10 s)
-23:20:27 Average server FPS: 8004.10 (measured interval: 10 s)
-23:20:37 Average server FPS: 8314.30 (measured interval: 10 s)
-23:20:47 Average server FPS: 8002.50 (measured interval: 10 s)
-23:20:57 Average server FPS: 8233.80 (measured interval: 10 s)
-23:21:07 Average server FPS: 7913.10 (measured interval: 10 s)
-23:21:17 Average server FPS: 7979.40 (measured interval: 10 s)
-23:21:27 Average server FPS: 8266.20 (measured interval: 10 s)
-23:21:37 Average server FPS: 8188.40 (measured interval: 10 s)
-23:21:47 Average server FPS: 8551.30 (measured interval: 10 s)
-23:21:57 Average server FPS: 8640.20 (measured interval: 10 s)
-23:22:07 Average server FPS: 8449.60 (measured interval: 10 s)
-23:22:17 Average server FPS: 8532.80 (measured interval: 10 s)
-23:22:27 Average server FPS: 8467.30 (measured interval: 10 s)
-23:22:37 Average server FPS: 7991.80 (measured interval: 10 s)
-23:22:47 Average server FPS: 8297.70 (measured interval: 10 s)
-23:22:57 Average server FPS: 8175.00 (measured interval: 10 s)
-23:23:07 Average server FPS: 8006.00 (measured interval: 10 s)
-23:23:17 Average server FPS: 8403.60 (measured interval: 10 s)
-23:23:27 Average server FPS: 8207.70 (measured interval: 10 s)
-23:23:37 Average server FPS: 8204.40 (measured interval: 10 s)
-23:23:47 Average server FPS: 8161.70 (measured interval: 10 s)
-23:23:57 Average server FPS: 8108.20 (measured interval: 10 s)
-23:24:07 Average server FPS: 7978.90 (measured interval: 10 s)
-23:24:17 Average server FPS: 7996.90 (measured interval: 10 s)
-23:24:27 Average server FPS: 8138.20 (measured interval: 10 s)
-23:24:37 Average server FPS: 7984.50 (measured interval: 10 s)
-23:24:47 Average server FPS: 8049.20 (measured interval: 10 s)
-23:24:57 Average server FPS: 7767.20 (measured interval: 10 s)
-23:25:07 Average server FPS: 8024.40 (measured interval: 10 s)
-23:25:17 Average server FPS: 8168.10 (measured interval: 10 s)
-23:25:27 Average server FPS: 8185.70 (measured interval: 10 s)
-23:25:37 Average server FPS: 7987.20 (measured interval: 10 s)
-23:25:47 Average server FPS: 8077.90 (measured interval: 10 s)
-23:25:57 Average server FPS: 7794.90 (measured interval: 10 s)
-23:26:07 Average server FPS: 7714.30 (measured interval: 10 s)
-23:26:17 Average server FPS: 7825.40 (measured interval: 10 s)
-23:26:27 Average server FPS: 7366.50 (measured interval: 10 s)
-23:26:37 Average server FPS: 7772.30 (measured interval: 10 s)
-23:26:47 Average server FPS: 8062.60 (measured interval: 10 s)
-23:26:57 Average server FPS: 7924.40 (measured interval: 10 s)
-23:27:07 Average server FPS: 7952.60 (measured interval: 10 s)
-23:27:17 Average server FPS: 8027.80 (measured interval: 10 s)
-23:27:27 Average server FPS: 7965.30 (measured interval: 10 s)
-23:27:37 Average server FPS: 7772.40 (measured interval: 10 s)
-23:27:47 Average server FPS: 7696.10 (measured interval: 10 s)
-23:27:57 Average server FPS: 8165.50 (measured interval: 10 s)
-23:28:07 Average server FPS: 7628.90 (measured interval: 10 s)
-23:28:17 Average server FPS: 7634.60 (measured interval: 10 s)
-23:28:27 Average server FPS: 7795.20 (measured interval: 10 s)
-23:28:37 Average server FPS: 7988.30 (measured interval: 10 s)
-23:28:47 Average server FPS: 7957.70 (measured interval: 10 s)
-23:28:57 Average server FPS: 8116.30 (measured interval: 10 s)
-23:29:07 Average server FPS: 8009.80 (measured interval: 10 s)
-23:29:17 Average server FPS: 7648.30 (measured interval: 10 s)
-23:29:27 Average server FPS: 7715.60 (measured interval: 10 s)
-23:29:37 Average server FPS: 8023.30 (measured interval: 10 s)
-23:29:47 Average server FPS: 7848.50 (measured interval: 10 s)
-23:29:57 Average server FPS: 8136.20 (measured interval: 10 s)
-23:30:07 Average server FPS: 8056.70 (measured interval: 10 s)
-23:30:17 Average server FPS: 8033.20 (measured interval: 10 s)
-23:30:27 Average server FPS: 7898.50 (measured interval: 10 s)
-23:30:37 Average server FPS: 7969.00 (measured interval: 10 s)
-23:30:47 Average server FPS: 8042.60 (measured interval: 10 s)
-23:30:57 Average server FPS: 7658.80 (measured interval: 10 s)
-23:31:07 Average server FPS: 7892.20 (measured interval: 10 s)
-23:31:17 Average server FPS: 7777.60 (measured interval: 10 s)
-23:31:27 Average server FPS: 7919.90 (measured interval: 10 s)
-23:31:37 Average server FPS: 7989.80 (measured interval: 10 s)
-23:31:47 Average server FPS: 7892.20 (measured interval: 10 s)
-23:31:57 Average server FPS: 7984.20 (measured interval: 10 s)
-23:32:07 Average server FPS: 7919.50 (measured interval: 10 s)
-23:32:17 Average server FPS: 8069.10 (measured interval: 10 s)
-23:32:27 Average server FPS: 7960.80 (measured interval: 10 s)
-23:32:37 Average server FPS: 8143.60 (measured interval: 10 s)
-23:32:47 Average server FPS: 8030.70 (measured interval: 10 s)
-23:32:57 Average server FPS: 8054.40 (measured interval: 10 s)
-23:33:07 Average server FPS: 8022.10 (measured interval: 10 s)
-23:33:17 Average server FPS: 7863.50 (measured interval: 10 s)
-23:33:27 Average server FPS: 7968.40 (measured interval: 10 s)
-23:33:37 Average server FPS: 7925.90 (measured interval: 10 s)
-23:33:47 Average server FPS: 7919.00 (measured interval: 10 s)
-23:33:57 Average server FPS: 7885.60 (measured interval: 10 s)
-23:34:07 Average server FPS: 8095.20 (measured interval: 10 s)
-23:34:17 Average server FPS: 8070.20 (measured interval: 10 s)
-23:34:27 Average server FPS: 8025.30 (measured interval: 10 s)
-23:34:37 Average server FPS: 7869.20 (measured interval: 10 s)
-23:34:47 Average server FPS: 7898.20 (measured interval: 10 s)
-23:34:57 Average server FPS: 7906.80 (measured interval: 10 s)
-23:35:07 Average server FPS: 7842.80 (measured interval: 10 s)
-23:35:17 Average server FPS: 7957.50 (measured interval: 10 s)
-23:35:27 Average server FPS: 7915.40 (measured interval: 10 s)
-23:35:37 Average server FPS: 7756.00 (measured interval: 10 s)
-23:35:47 Average server FPS: 7933.40 (measured interval: 10 s)
-23:35:57 Average server FPS: 7598.80 (measured interval: 10 s)
-23:36:07 Average server FPS: 7989.80 (measured interval: 10 s)
-23:36:17 Average server FPS: 7882.20 (measured interval: 10 s)
-23:36:27 Average server FPS: 7964.40 (measured interval: 10 s)
-23:36:37 Average server FPS: 8011.70 (measured interval: 10 s)
-23:36:47 Average server FPS: 8091.70 (measured interval: 10 s)
-23:36:57 Average server FPS: 8094.50 (measured interval: 10 s)
-23:37:07 Average server FPS: 8036.10 (measured interval: 10 s)
-23:37:17 Average server FPS: 7962.50 (measured interval: 10 s)
-23:37:27 Average server FPS: 8070.30 (measured interval: 10 s)
-23:37:37 Average server FPS: 7909.60 (measured interval: 10 s)
-23:37:47 Average server FPS: 7656.00 (measured interval: 10 s)
-23:37:57 Average server FPS: 7799.90 (measured interval: 10 s)
-23:38:07 Average server FPS: 7955.30 (measured interval: 10 s)
-23:38:17 Average server FPS: 7791.40 (measured interval: 10 s)
-23:38:27 Average server FPS: 7722.80 (measured interval: 10 s)
-23:38:37 Average server FPS: 7824.50 (measured interval: 10 s)
-23:38:47 Average server FPS: 7916.00 (measured interval: 10 s)
-23:38:57 Average server FPS: 8042.50 (measured interval: 10 s)
-23:39:07 Average server FPS: 8103.10 (measured interval: 10 s)
-23:39:17 Average server FPS: 7990.70 (measured interval: 10 s)
-23:39:27 Average server FPS: 7914.00 (measured interval: 10 s)
-23:39:37 Average server FPS: 7868.60 (measured interval: 10 s)
-23:39:47 Average server FPS: 7938.50 (measured interval: 10 s)
-23:39:57 Average server FPS: 7781.60 (measured interval: 10 s)
-23:40:07 Average server FPS: 7919.00 (measured interval: 10 s)
-23:40:17 Average server FPS: 7960.00 (measured interval: 10 s)
-23:40:27 Average server FPS: 8010.30 (measured interval: 10 s)
-23:40:37 Average server FPS: 7966.40 (measured interval: 10 s)
-23:40:47 Average server FPS: 8073.30 (measured interval: 10 s)
-23:40:57 Average server FPS: 8050.80 (measured interval: 10 s)
-23:41:07 Average server FPS: 7813.60 (measured interval: 10 s)
-23:41:17 Average server FPS: 8028.60 (measured interval: 10 s)
-23:41:27 Average server FPS: 7782.30 (measured interval: 10 s)
-23:41:37 Average server FPS: 7981.80 (measured interval: 10 s)
-23:41:47 Average server FPS: 8013.00 (measured interval: 10 s)
-23:41:57 Average server FPS: 7970.40 (measured interval: 10 s)
-23:42:07 Average server FPS: 8107.90 (measured interval: 10 s)
-23:42:17 Average server FPS: 8229.90 (measured interval: 10 s)
-23:42:27 Average server FPS: 8074.60 (measured interval: 10 s)
-23:42:37 Average server FPS: 8216.40 (measured interval: 10 s)
-23:42:47 Average server FPS: 8212.30 (measured interval: 10 s)
-23:42:57 Average server FPS: 7984.50 (measured interval: 10 s)
-23:43:07 Average server FPS: 8280.00 (measured interval: 10 s)
-23:43:17 Average server FPS: 7715.20 (measured interval: 10 s)
-23:43:27 Average server FPS: 8034.50 (measured interval: 10 s)
-23:43:37 Average server FPS: 7853.00 (measured interval: 10 s)
-23:43:47 Average server FPS: 8110.90 (measured interval: 10 s)
-23:43:57 Average server FPS: 7942.10 (measured interval: 10 s)
-23:44:07 Average server FPS: 7920.40 (measured interval: 10 s)
-23:44:17 Average server FPS: 8069.60 (measured interval: 10 s)
-23:44:27 Average server FPS: 7964.10 (measured interval: 10 s)
-23:44:37 Average server FPS: 8182.90 (measured interval: 10 s)
-23:44:47 Average server FPS: 8156.30 (measured interval: 10 s)
-23:44:57 Average server FPS: 8069.40 (measured interval: 10 s)
-23:45:07 Average server FPS: 8210.50 (measured interval: 10 s)
-23:45:17 Average server FPS: 8242.90 (measured interval: 10 s)
-23:45:27 Average server FPS: 7957.00 (measured interval: 10 s)
-23:45:37 Average server FPS: 7799.50 (measured interval: 10 s)
-23:45:47 Average server FPS: 8064.10 (measured interval: 10 s)
-23:45:57 Average server FPS: 8176.20 (measured interval: 10 s)
-23:46:07 Average server FPS: 8137.90 (measured interval: 10 s)
-23:46:17 Average server FPS: 7695.30 (measured interval: 10 s)
-23:46:27 Average server FPS: 7997.60 (measured interval: 10 s)
-23:46:37 Average server FPS: 7887.30 (measured interval: 10 s)
-23:46:47 Average server FPS: 8045.30 (measured interval: 10 s)
-23:46:57 Average server FPS: 8106.10 (measured interval: 10 s)
-23:47:07 Average server FPS: 8068.80 (measured interval: 10 s)
-23:47:17 Average server FPS: 8047.50 (measured interval: 10 s)
-23:47:27 Average server FPS: 7734.70 (measured interval: 10 s)
-23:47:37 Average server FPS: 7966.80 (measured interval: 10 s)
-23:47:47 Average server FPS: 8158.10 (measured interval: 10 s)
-23:47:57 Average server FPS: 7898.70 (measured interval: 10 s)
-23:48:07 Average server FPS: 8198.40 (measured interval: 10 s)
-23:48:17 Average server FPS: 8183.50 (measured interval: 10 s)
-23:48:27 Average server FPS: 7815.60 (measured interval: 10 s)
-23:48:37 Average server FPS: 7967.10 (measured interval: 10 s)
-23:48:47 Average server FPS: 7964.40 (measured interval: 10 s)
-23:48:57 Average server FPS: 8200.50 (measured interval: 10 s)
-23:49:07 Average server FPS: 8263.20 (measured interval: 10 s)
-23:49:17 Average server FPS: 8173.20 (measured interval: 10 s)
-23:49:27 Average server FPS: 8137.90 (measured interval: 10 s)
-23:49:37 Average server FPS: 8104.20 (measured interval: 10 s)
-23:49:47 Average server FPS: 8160.30 (measured interval: 10 s)
-23:49:57 Average server FPS: 7986.60 (measured interval: 10 s)
-23:50:07 Average server FPS: 8073.80 (measured interval: 10 s)
-23:50:17 Average server FPS: 8040.70 (measured interval: 10 s)
-23:50:27 Average server FPS: 8209.00 (measured interval: 10 s)
-23:50:37 Average server FPS: 8024.80 (measured interval: 10 s)
-23:50:47 Average server FPS: 7988.40 (measured interval: 10 s)
-23:50:57 Average server FPS: 7882.30 (measured interval: 10 s)
-23:51:07 Average server FPS: 7987.70 (measured interval: 10 s)
-23:51:17 Average server FPS: 8096.60 (measured interval: 10 s)
-23:51:27 Average server FPS: 8147.60 (measured interval: 10 s)
-23:51:37 Average server FPS: 8006.20 (measured interval: 10 s)
-23:51:47 Average server FPS: 8017.30 (measured interval: 10 s)
-23:51:57 Average server FPS: 7949.00 (measured interval: 10 s)
-23:52:07 Average server FPS: 8022.80 (measured interval: 10 s)
-23:52:17 Average server FPS: 8031.20 (measured interval: 10 s)
-23:52:27 Average server FPS: 8158.30 (measured interval: 10 s)
-23:52:37 Average server FPS: 8377.20 (measured interval: 10 s)
-23:52:47 Average server FPS: 8058.00 (measured interval: 10 s)
-23:52:57 Average server FPS: 8057.80 (measured interval: 10 s)
-23:53:07 Average server FPS: 8119.90 (measured interval: 10 s)
-23:53:17 Average server FPS: 8267.70 (measured interval: 10 s)
-23:53:27 Average server FPS: 8195.90 (measured interval: 10 s)
-23:53:37 Average server FPS: 8394.10 (measured interval: 10 s)
-23:53:47 Average server FPS: 8184.60 (measured interval: 10 s)
-23:53:57 Average server FPS: 7979.77 (measured interval: 10 s)
-23:54:07 Average server FPS: 7907.80 (measured interval: 10 s)
-23:54:17 Average server FPS: 8133.00 (measured interval: 10 s)
-23:54:27 Average server FPS: 7946.70 (measured interval: 10 s)
-23:54:37 Average server FPS: 7979.10 (measured interval: 10 s)
-23:54:47 Average server FPS: 7882.70 (measured interval: 10 s)
-23:54:57 Average server FPS: 8284.80 (measured interval: 10 s)
-23:55:07 Average server FPS: 8228.70 (measured interval: 10 s)
-23:55:17 Average server FPS: 8201.90 (measured interval: 10 s)
-23:55:27 Average server FPS: 8305.90 (measured interval: 10 s)
-23:55:37 Average server FPS: 8277.80 (measured interval: 10 s)
-23:55:47 Average server FPS: 8196.40 (measured interval: 10 s)
-23:55:57 Average server FPS: 8183.70 (measured interval: 10 s)
-23:56:07 Average server FPS: 8215.40 (measured interval: 10 s)
-23:56:17 Average server FPS: 8085.40 (measured interval: 10 s)
-23:56:27 Average server FPS: 8155.70 (measured interval: 10 s)
-23:56:37 Average server FPS: 8098.90 (measured interval: 10 s)
-23:56:47 Average server FPS: 8188.20 (measured interval: 10 s)
-23:56:57 Average server FPS: 8199.90 (measured interval: 10 s)
-23:57:07 Average server FPS: 8221.80 (measured interval: 10 s)
-23:57:17 Average server FPS: 7941.80 (measured interval: 10 s)
-23:57:27 Average server FPS: 8118.90 (measured interval: 10 s)
-23:57:37 Average server FPS: 8064.90 (measured interval: 10 s)
-23:57:47 Average server FPS: 7914.30 (measured interval: 10 s)
-23:57:57 Average server FPS: 8163.70 (measured interval: 10 s)
-23:58:07 Average server FPS: 7739.50 (measured interval: 10 s)
-23:58:17 Average server FPS: 8116.00 (measured interval: 10 s)
-23:58:27 Average server FPS: 8218.30 (measured interval: 10 s)
-23:58:37 Average server FPS: 8366.10 (measured interval: 10 s)
-23:58:47 Average server FPS: 7955.90 (measured interval: 10 s)
-23:58:57 Average server FPS: 8131.60 (measured interval: 10 s)
-23:59:07 Average server FPS: 8184.90 (measured interval: 10 s)
-23:59:17 Average server FPS: 8170.90 (measured interval: 10 s)
-23:59:27 Average server FPS: 8200.90 (measured interval: 10 s)
-23:59:37 Average server FPS: 8104.30 (measured interval: 10 s)
-23:59:47 Average server FPS: 8153.10 (measured interval: 10 s)
-23:59:57 Average server FPS: 8315.20 (measured interval: 10 s)
- 0:00:07 Average server FPS: 8233.20 (measured interval: 10 s)
- 0:00:17 Average server FPS: 8271.10 (measured interval: 10 s)
- 0:00:27 Average server FPS: 8139.10 (measured interval: 10 s)
- 0:00:37 Average server FPS: 8295.20 (measured interval: 10 s)
- 0:00:47 Average server FPS: 8191.80 (measured interval: 10 s)
- 0:00:57 Average server FPS: 8155.00 (measured interval: 10 s)
- 0:01:07 Average server FPS: 8333.60 (measured interval: 10 s)
- 0:01:17 Average server FPS: 8181.30 (measured interval: 10 s)
- 0:01:27 Average server FPS: 8149.20 (measured interval: 10 s)
- 0:01:37 Average server FPS: 8144.00 (measured interval: 10 s)
- 0:01:47 Average server FPS: 8168.80 (measured interval: 10 s)
- 0:01:57 Average server FPS: 8210.40 (measured interval: 10 s)
- 0:02:07 Average server FPS: 8107.10 (measured interval: 10 s)
- 0:02:17 Average server FPS: 8279.40 (measured interval: 10 s)
- 0:02:27 Average server FPS: 8300.40 (measured interval: 10 s)
- 0:02:37 Average server FPS: 8119.80 (measured interval: 10 s)
- 0:02:47 Average server FPS: 8231.10 (measured interval: 10 s)
- 0:02:57 Average server FPS: 8045.10 (measured interval: 10 s)
- 0:03:07 Average server FPS: 7983.70 (measured interval: 10 s)
- 0:03:17 Average server FPS: 8012.90 (measured interval: 10 s)
- 0:03:27 Average server FPS: 8115.10 (measured interval: 10 s)
- 0:03:37 Average server FPS: 8062.70 (measured interval: 10 s)
- 0:03:47 Average server FPS: 7778.50 (measured interval: 10 s)
- 0:03:57 Average server FPS: 8148.30 (measured interval: 10 s)
- 0:04:07 Average server FPS: 8068.20 (measured interval: 10 s)
- 0:04:17 Average server FPS: 8205.70 (measured interval: 10 s)
- 0:04:27 Average server FPS: 8198.20 (measured interval: 10 s)
- 0:04:37 Average server FPS: 7912.50 (measured interval: 10 s)
- 0:04:47 Average server FPS: 8222.00 (measured interval: 10 s)
- 0:04:57 Average server FPS: 7809.80 (measured interval: 10 s)
- 0:05:07 Average server FPS: 7820.10 (measured interval: 10 s)
- 0:05:17 Average server FPS: 7823.10 (measured interval: 10 s)
- 0:05:27 Average server FPS: 8220.00 (measured interval: 10 s)
- 0:05:37 Average server FPS: 8264.10 (measured interval: 10 s)
- 0:05:47 Average server FPS: 8150.90 (measured interval: 10 s)
- 0:05:57 Average server FPS: 8185.10 (measured interval: 10 s)
- 0:06:07 Average server FPS: 8258.90 (measured interval: 10 s)
- 0:06:17 Average server FPS: 8152.40 (measured interval: 10 s)
- 0:06:27 Average server FPS: 8018.90 (measured interval: 10 s)
- 0:06:37 Average server FPS: 8198.70 (measured interval: 10 s)
- 0:06:47 Average server FPS: 8090.90 (measured interval: 10 s)
- 0:06:57 Average server FPS: 8336.50 (measured interval: 10 s)
- 0:07:07 Average server FPS: 8201.90 (measured interval: 10 s)
- 0:07:17 Average server FPS: 8258.10 (measured interval: 10 s)
- 0:07:27 Average server FPS: 8078.80 (measured interval: 10 s)
- 0:07:37 Average server FPS: 8197.90 (measured interval: 10 s)
- 0:07:47 Average server FPS: 8148.50 (measured interval: 10 s)
- 0:07:57 Average server FPS: 8235.50 (measured interval: 10 s)
- 0:08:07 Average server FPS: 7949.40 (measured interval: 10 s)
- 0:08:17 Average server FPS: 7109.10 (measured interval: 10 s)
- 0:08:27 Average server FPS: 8114.90 (measured interval: 10 s)
- 0:08:37 Average server FPS: 8222.00 (measured interval: 10 s)
- 0:08:47 Average server FPS: 8226.80 (measured interval: 10 s)
- 0:08:57 Average server FPS: 8351.40 (measured interval: 10 s)
- 0:09:07 Average server FPS: 8250.90 (measured interval: 10 s)
- 0:09:17 Average server FPS: 8158.20 (measured interval: 10 s)
- 0:09:27 Average server FPS: 8280.80 (measured interval: 10 s)
- 0:09:37 Average server FPS: 8249.60 (measured interval: 10 s)
- 0:09:47 Average server FPS: 8172.50 (measured interval: 10 s)
- 0:09:57 Average server FPS: 8245.30 (measured interval: 10 s)
- 0:10:07 Average server FPS: 8201.30 (measured interval: 10 s)
- 0:10:17 Average server FPS: 8158.40 (measured interval: 10 s)
- 0:10:27 Average server FPS: 8195.90 (measured interval: 10 s)
- 0:10:37 Average server FPS: 8293.10 (measured interval: 10 s)
- 0:10:47 Average server FPS: 8244.00 (measured interval: 10 s)
- 0:10:57 Average server FPS: 8203.00 (measured interval: 10 s)
- 0:11:07 Average server FPS: 8164.30 (measured interval: 10 s)
- 0:11:17 Average server FPS: 8169.80 (measured interval: 10 s)
- 0:11:27 Average server FPS: 8092.10 (measured interval: 10 s)
- 0:11:37 Average server FPS: 8022.60 (measured interval: 10 s)
- 0:11:47 Average server FPS: 8206.30 (measured interval: 10 s)
- 0:11:57 Average server FPS: 8194.80 (measured interval: 10 s)
- 0:12:07 Average server FPS: 8064.30 (measured interval: 10 s)
- 0:12:17 Average server FPS: 8158.90 (measured interval: 10 s)
- 0:12:27 Average server FPS: 8138.10 (measured interval: 10 s)
- 0:12:37 Average server FPS: 8154.30 (measured interval: 10 s)
- 0:12:47 Average server FPS: 8143.10 (measured interval: 10 s)
- 0:12:57 Average server FPS: 8128.10 (measured interval: 10 s)
- 0:13:07 Average server FPS: 8211.30 (measured interval: 10 s)
- 0:13:17 Average server FPS: 8104.80 (measured interval: 10 s)
- 0:13:27 Average server FPS: 8119.70 (measured interval: 10 s)
- 0:13:37 Average server FPS: 8144.50 (measured interval: 10 s)
- 0:13:47 Average server FPS: 8186.10 (measured interval: 10 s)
- 0:13:57 Average server FPS: 8043.80 (measured interval: 10 s)
- 0:14:07 Average server FPS: 7957.30 (measured interval: 10 s)
- 0:14:17 Average server FPS: 8041.30 (measured interval: 10 s)
- 0:14:27 Average server FPS: 8017.80 (measured interval: 10 s)
- 0:14:37 Average server FPS: 7997.60 (measured interval: 10 s)
- 0:14:47 Average server FPS: 8108.90 (measured interval: 10 s)
- 0:14:57 Average server FPS: 8265.40 (measured interval: 10 s)
- 0:15:07 Average server FPS: 8213.30 (measured interval: 10 s)
- 0:15:17 Average server FPS: 8108.20 (measured interval: 10 s)
- 0:15:27 Average server FPS: 8147.50 (measured interval: 10 s)
- 0:15:37 Average server FPS: 8184.20 (measured interval: 10 s)
- 0:15:47 Average server FPS: 8277.10 (measured interval: 10 s)
- 0:15:57 Average server FPS: 8185.40 (measured interval: 10 s)
- 0:16:07 Average server FPS: 8242.50 (measured interval: 10 s)
- 0:16:17 Average server FPS: 8089.10 (measured interval: 10 s)
- 0:16:27 Average server FPS: 8032.50 (measured interval: 10 s)
- 0:16:37 Average server FPS: 8223.30 (measured interval: 10 s)
- 0:16:47 Average server FPS: 8191.50 (measured interval: 10 s)
- 0:16:57 Average server FPS: 8135.30 (measured interval: 10 s)
- 0:17:07 Average server FPS: 8102.30 (measured interval: 10 s)
- 0:17:17 Average server FPS: 7943.30 (measured interval: 10 s)
- 0:17:27 Average server FPS: 8217.10 (measured interval: 10 s)
- 0:17:37 Average server FPS: 8131.60 (measured interval: 10 s)
- 0:17:47 Average server FPS: 8098.10 (measured interval: 10 s)
- 0:17:57 Average server FPS: 8114.50 (measured interval: 10 s)
- 0:18:07 Average server FPS: 8124.40 (measured interval: 10 s)
- 0:18:17 Average server FPS: 8106.70 (measured interval: 10 s)
- 0:18:27 Average server FPS: 7969.90 (measured interval: 10 s)
- 0:18:37 Average server FPS: 8089.60 (measured interval: 10 s)
- 0:18:47 Average server FPS: 8103.70 (measured interval: 10 s)
- 0:18:57 Average server FPS: 8068.60 (measured interval: 10 s)
- 0:19:07 Average server FPS: 8132.20 (measured interval: 10 s)
- 0:19:17 Average server FPS: 8106.60 (measured interval: 10 s)
- 0:19:27 Average server FPS: 7707.50 (measured interval: 10 s)
- 0:19:37 Average server FPS: 7925.10 (measured interval: 10 s)
- 0:19:47 Average server FPS: 7973.40 (measured interval: 10 s)
- 0:19:57 Average server FPS: 8071.60 (measured interval: 10 s)
- 0:20:07 Average server FPS: 7790.00 (measured interval: 10 s)
- 0:20:17 Average server FPS: 8143.90 (measured interval: 10 s)
- 0:20:27 Average server FPS: 8054.30 (measured interval: 10 s)
- 0:20:37 Average server FPS: 7771.75 (measured interval: 10 s)
- 0:20:47 Average server FPS: 8042.10 (measured interval: 10 s)
- 0:20:57 Average server FPS: 7977.30 (measured interval: 10 s)
- 0:21:07 Average server FPS: 8137.20 (measured interval: 10 s)
- 0:21:17 Average server FPS: 8252.90 (measured interval: 10 s)
- 0:21:27 Average server FPS: 8079.40 (measured interval: 10 s)
- 0:21:37 Average server FPS: 7959.00 (measured interval: 10 s)
- 0:21:47 Average server FPS: 7880.90 (measured interval: 10 s)
- 0:21:57 Average server FPS: 8274.40 (measured interval: 10 s)
- 0:22:07 Average server FPS: 8117.60 (measured interval: 10 s)
- 0:22:17 Average server FPS: 8065.20 (measured interval: 10 s)
- 0:22:27 Average server FPS: 8202.90 (measured interval: 10 s)
- 0:22:37 Average server FPS: 8103.60 (measured interval: 10 s)
- 0:22:47 Average server FPS: 8213.60 (measured interval: 10 s)
- 0:22:57 Average server FPS: 8094.10 (measured interval: 10 s)
- 0:23:07 Average server FPS: 8131.60 (measured interval: 10 s)
- 0:23:17 Average server FPS: 8151.30 (measured interval: 10 s)
- 0:23:27 Average server FPS: 8103.00 (measured interval: 10 s)
- 0:23:37 Average server FPS: 8298.20 (measured interval: 10 s)
- 0:23:47 Average server FPS: 8130.30 (measured interval: 10 s)
- 0:23:57 Average server FPS: 8214.58 (measured interval: 10 s)
- 0:24:07 Average server FPS: 8142.90 (measured interval: 10 s)
- 0:24:17 Average server FPS: 8234.90 (measured interval: 10 s)
- 0:24:27 Average server FPS: 8056.10 (measured interval: 10 s)
- 0:24:37 Average server FPS: 8097.70 (measured interval: 10 s)
- 0:24:47 Average server FPS: 8171.50 (measured interval: 10 s)
- 0:24:57 Average server FPS: 8241.30 (measured interval: 10 s)
- 0:25:07 Average server FPS: 8237.10 (measured interval: 10 s)
- 0:25:17 Average server FPS: 8079.60 (measured interval: 10 s)
- 0:25:27 Average server FPS: 8110.50 (measured interval: 10 s)
- 0:25:37 Average server FPS: 8211.70 (measured interval: 10 s)
- 0:25:47 Average server FPS: 8106.00 (measured interval: 10 s)
- 0:25:57 Average server FPS: 8139.50 (measured interval: 10 s)
- 0:26:07 Average server FPS: 8112.30 (measured interval: 10 s)
- 0:26:17 Average server FPS: 7996.60 (measured interval: 10 s)
- 0:26:27 Average server FPS: 8143.20 (measured interval: 10 s)
- 0:26:37 Average server FPS: 8278.10 (measured interval: 10 s)
- 0:26:47 Average server FPS: 8133.80 (measured interval: 10 s)
- 0:26:57 Average server FPS: 8085.00 (measured interval: 10 s)
- 0:27:07 Average server FPS: 8021.20 (measured interval: 10 s)
- 0:27:17 Average server FPS: 7946.00 (measured interval: 10 s)
- 0:27:27 Average server FPS: 7715.00 (measured interval: 10 s)
- 0:27:37 Average server FPS: 8170.20 (measured interval: 10 s)
- 0:27:47 Average server FPS: 8159.30 (measured interval: 10 s)
- 0:27:57 Average server FPS: 8211.10 (measured interval: 10 s)
- 0:28:07 Average server FPS: 7916.80 (measured interval: 10 s)
- 0:28:17 Average server FPS: 8037.60 (measured interval: 10 s)
- 0:28:27 Average server FPS: 8099.50 (measured interval: 10 s)
- 0:28:37 Average server FPS: 8054.70 (measured interval: 10 s)
- 0:28:41 [Login]: Adding player [Admin] Bunker (23874305) to login queue at position 0
- 0:28:41 [LoginMachine]: Add player [Admin] Bunker (23874305 192.168.1.64:2604)
- 0:28:41 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering AuthPlayerLoginState
- 0:28:41 BattlEye Server: Player #0 [Admin] Bunker (192.168.1.64:2604) connected
- 0:28:41 Player [Admin] Bunker connecting.
- 0:28:41 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering WaitAuthPlayerLoginState
- 0:28:42 BattlEye Server: Connected to BE Master
- 0:28:42 BattlEye Server: Player #0 [Admin] Bunker - BE GUID: de14957533e35de36c2632310be2da2e
- 0:28:43 [IdleMode] Leaving OUT
- 0:28:44 BattlEye Server: Verified GUID (de14957533e35de36c2632310be2da2e) of player #0 [Admin] Bunker
- 0:28:44 Player [Admin] Bunker connected (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=).
- 0:28:44 Player "[Admin] Bunker" is connected (steamID=76561198036774377)
- 0:28:44 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering WaitPlayerAssignedLoginState
- 0:28:45 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetLoginTimeLoginState
- 0:28:45 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBWaitLoginTimeLoginState
- 0:28:47 Average server FPS: 7954.30 (measured interval: 10 s)
- 0:28:57 Average server FPS: 7496.70 (measured interval: 10 s)
- 0:29:00 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering DBGetCharacterLoginState
- 0:29:00 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering CreateNetObjectsLoginState
- 0:29:00 Player [Admin] Bunker dpid=23874305 at pos (5110.6, 0.0, 10143.6) 
- 0:29:00 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering PreloadCamLoginState
- 0:29:00 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering WaitPreloadCamLoginState
- 0:29:07 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) Entering GetNewCharLoginState
- 0:29:07 <CREATE NEW CHAR>:
-    charID 1
-    playerID 1
-    dpnid 23874305
-    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
- 0:29:07 Average server FPS: 7515.10 (measured interval: 10 s)
- 0:29:13 Respawn: Add player [Admin] Bunker (23874305) to respawn machine
- 0:29:13 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering GetCharacterRespawnState
- 0:29:13 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering PreloadCamRespawnState
- 0:29:13 Player [Admin] Bunker dpid=23874305 at pos (5339.8, 0.0, 9936.5) 
- 0:29:13 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering WaitPreloadCamRespawnState
- 0:29:17 Average server FPS: 6485.00 (measured interval: 10 s)
- 0:29:27 Average server FPS: 7043.60 (measured interval: 10 s)
- 0:29:29 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering GetNewCharRespawnState
- 0:29:29 <RESPAWN NEW CHAR>:
-    charID 1
-    playerID 1
-    dpnid 23874305
-    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
- 0:29:34 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
- 0:29:37 Average server FPS: 6208.50 (measured interval: 10 s)
- 0:29:40 Respawn: Add player [Admin] Bunker (23874305) to respawn machine
- 0:29:40 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering GetCharacterRespawnState
- 0:29:40 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering PreloadCamRespawnState
- 0:29:40 Player [Admin] Bunker dpid=23874305 at pos (5196.6, 0.0, 10226.5) 
- 0:29:40 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering WaitPreloadCamRespawnState
- 0:29:47 Average server FPS: 7176.10 (measured interval: 10 s)
- 0:29:55 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering GetNewCharRespawnState
- 0:29:55 <RESPAWN NEW CHAR>:
-    charID 1
-    playerID 1
-    dpnid 23874305
-    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
- 0:29:57 Average server FPS: 7161.70 (measured interval: 10 s)
- 0:29:58 Respawn: Add player [Admin] Bunker (23874305) to respawn machine
- 0:29:58 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering GetCharacterRespawnState
- 0:29:58 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering PreloadCamRespawnState
- 0:29:58 Player [Admin] Bunker dpid=23874305 at pos (5296.6, 0.0, 10326.5) 
- 0:29:58 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering WaitPreloadCamRespawnState
- 0:30:07 Average server FPS: 7424.40 (measured interval: 10 s)
- 0:30:14 [StateMachine]: Player [Admin] Bunker (dpnid 23874305 uid ) Entering GetNewCharRespawnState
- 0:30:14 <RESPAWN NEW CHAR>:
-    charID 1
-    playerID 1
-    dpnid 23874305
-    uid mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
- 0:30:17 Average server FPS: 6597.26 (measured interval: 10 s)
- 0:30:27 Average server FPS: 6112.50 (measured interval: 10 s)
- 0:30:28 [Disconnect]: Start script disconnect 23874305 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
- 0:30:32 [Disconnect]: Client 23874305 disconnecting
- 0:30:32 [Disconnect]: Client 23874305 early disconnect
- 0:30:32 [Disconnect]: Start script disconnect 23874305 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
- 0:30:37 Average server FPS: 6415.70 (measured interval: 10 s)
- 0:30:43 [Disconnect]: Finish script disconnect 23874305 (mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=)
- 0:30:43 [Disconnect]: DisconnectPlayerFinish 23874305
- 0:30:43 [Disconnect]: Remove player info 23874305
- 0:30:43 [Disconnect]: Player destroy 23874305 
- 0:30:43 Player [Admin] Bunker disconnected.
- 0:30:43 BattlEye Server: Player #0 [Admin] Bunker disconnected
- 0:30:47 Average server FPS: 6631.80 (measured interval: 10 s)
- 0:30:57 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
- 0:30:57 Average server FPS: 7291.30 (measured interval: 10 s)
- 0:31:07 Average server FPS: 7748.10 (measured interval: 10 s)
- 0:31:17 Average server FPS: 7238.00 (measured interval: 10 s)
- 0:31:27 Average server FPS: 7728.50 (measured interval: 10 s)
- 0:31:37 Average server FPS: 7625.60 (measured interval: 10 s)
- 0:31:47 Average server FPS: 7476.00 (measured interval: 10 s)
- 0:31:57 Average server FPS: 7967.90 (measured interval: 10 s)
- 0:31:59 [IdleMode] Entering IN - save processed
- 0:32:07 Average server FPS: 6979.00 (measured interval: 10 s)
- 0:32:17 Average server FPS: 7771.30 (measured interval: 10 s)
- 0:32:27 Average server FPS: 7843.30 (measured interval: 10 s)
- 0:32:37 Average server FPS: 7859.80 (measured interval: 10 s)
- 0:32:47 Average server FPS: 7916.20 (measured interval: 10 s)
- 0:32:57 Average server FPS: 7792.70 (measured interval: 10 s)
- 0:33:07 Average server FPS: 7912.80 (measured interval: 10 s)
- 0:33:17 Average server FPS: 8029.40 (measured interval: 10 s)
- 0:33:27 Average server FPS: 8014.00 (measured interval: 10 s)
- 0:33:37 Average server FPS: 8018.00 (measured interval: 10 s)
- 0:33:47 Average server FPS: 7931.50 (measured interval: 10 s)
- 0:33:57 Average server FPS: 7824.30 (measured interval: 10 s)
- 0:34:07 Average server FPS: 7907.50 (measured interval: 10 s)
- 0:34:17 Average server FPS: 8013.90 (measured interval: 10 s)
- 0:34:27 Average server FPS: 7858.50 (measured interval: 10 s)
- 0:34:37 Average server FPS: 8004.40 (measured interval: 10 s)
- 0:34:47 Average server FPS: 7823.10 (measured interval: 10 s)
- 0:34:57 Average server FPS: 7821.90 (measured interval: 10 s)
- 0:35:07 Average server FPS: 7995.20 (measured interval: 10 s)
- 0:35:17 Average server FPS: 7842.60 (measured interval: 10 s)
- 0:35:27 Average server FPS: 7997.70 (measured interval: 10 s)
- 0:35:37 Average server FPS: 8076.30 (measured interval: 10 s)
- 0:35:47 Average server FPS: 7993.50 (measured interval: 10 s)
- 0:35:57 Average server FPS: 7901.00 (measured interval: 10 s)
- 0:36:07 Average server FPS: 7909.60 (measured interval: 10 s)
- 0:36:17 Average server FPS: 7928.60 (measured interval: 10 s)
- 0:36:27 Average server FPS: 7532.70 (measured interval: 10 s)
- 0:36:37 Average server FPS: 8028.10 (measured interval: 10 s)
- 0:36:47 Average server FPS: 7989.60 (measured interval: 10 s)
- 0:36:57 Average server FPS: 7663.40 (measured interval: 10 s)
- 0:37:07 Average server FPS: 7770.40 (measured interval: 10 s)
- 0:37:17 Average server FPS: 7785.10 (measured interval: 10 s)
- 0:37:27 Average server FPS: 8044.70 (measured interval: 10 s)
- 0:37:37 Average server FPS: 8066.20 (measured interval: 10 s)
- 0:37:47 Average server FPS: 7951.30 (measured interval: 10 s)
- 0:37:57 Average server FPS: 7941.40 (measured interval: 10 s)
- 0:38:07 Average server FPS: 7794.30 (measured interval: 10 s)
- 0:38:17 Average server FPS: 7838.80 (measured interval: 10 s)
- 0:38:27 Average server FPS: 7903.50 (measured interval: 10 s)
- 0:38:37 Average server FPS: 7940.50 (measured interval: 10 s)
- 0:38:47 Average server FPS: 7868.70 (measured interval: 10 s)
- 0:38:57 Average server FPS: 7966.60 (measured interval: 10 s)
- 0:39:07 Average server FPS: 7851.20 (measured interval: 10 s)
- 0:39:17 Average server FPS: 7767.90 (measured interval: 10 s)
- 0:39:27 Average server FPS: 7805.70 (measured interval: 10 s)
- 0:39:37 Average server FPS: 7915.30 (measured interval: 10 s)
- 0:39:47 Average server FPS: 7932.30 (measured interval: 10 s)
- 0:39:57 Average server FPS: 7967.40 (measured interval: 10 s)
- 0:40:07 Average server FPS: 7821.70 (measured interval: 10 s)
- 0:40:17 Average server FPS: 7834.90 (measured interval: 10 s)
- 0:40:27 Average server FPS: 7949.00 (measured interval: 10 s)
- 0:40:37 Average server FPS: 7923.50 (measured interval: 10 s)
- 0:40:47 Average server FPS: 7897.70 (measured interval: 10 s)
- 0:40:57 Average server FPS: 7994.50 (measured interval: 10 s)
- 0:41:07 Average server FPS: 7715.60 (measured interval: 10 s)
- 0:41:17 Average server FPS: 7742.00 (measured interval: 10 s)
- 0:41:27 Average server FPS: 7712.40 (measured interval: 10 s)
- 0:41:37 Average server FPS: 7538.80 (measured interval: 10 s)
- 0:41:47 Average server FPS: 7549.40 (measured interval: 10 s)
- 0:41:57 Average server FPS: 7737.20 (measured interval: 10 s)
- 0:42:07 Average server FPS: 7672.90 (measured interval: 10 s)
- 0:42:17 Average server FPS: 7622.70 (measured interval: 10 s)
- 0:42:27 Average server FPS: 7630.20 (measured interval: 10 s)
- 0:42:37 Average server FPS: 7333.80 (measured interval: 10 s)
- 0:42:47 Average server FPS: 7648.30 (measured interval: 10 s)
- 0:42:57 Average server FPS: 7584.40 (measured interval: 10 s)
- 0:43:07 Average server FPS: 7567.10 (measured interval: 10 s)
- 0:43:17 Average server FPS: 7530.30 (measured interval: 10 s)
- 0:43:27 Average server FPS: 7682.30 (measured interval: 10 s)
- 0:43:37 Average server FPS: 7662.60 (measured interval: 10 s)
- 0:43:47 Average server FPS: 7649.00 (measured interval: 10 s)
- 0:43:57 Average server FPS: 7528.40 (measured interval: 10 s)
- 0:44:07 Average server FPS: 7669.30 (measured interval: 10 s)
- 0:44:17 Average server FPS: 7623.90 (measured interval: 10 s)
- 0:44:27 Average server FPS: 7559.00 (measured interval: 10 s)
- 0:44:37 Average server FPS: 7507.10 (measured interval: 10 s)
- 0:44:47 Average server FPS: 7213.60 (measured interval: 10 s)
- 0:44:57 Average server FPS: 7555.10 (measured interval: 10 s)
- 0:45:07 Average server FPS: 7304.80 (measured interval: 10 s)
- 0:45:17 Average server FPS: 7173.89 (measured interval: 10 s)
- 0:45:27 Average server FPS: 7444.50 (measured interval: 10 s)
- 0:45:37 Average server FPS: 7384.90 (measured interval: 10 s)
- 0:45:47 Average server FPS: 7371.80 (measured interval: 10 s)
- 0:45:57 Average server FPS: 7293.50 (measured interval: 10 s)
- 0:46:07 Average server FPS: 7482.70 (measured interval: 10 s)
- 0:46:17 Average server FPS: 7380.50 (measured interval: 10 s)
- 0:46:27 Average server FPS: 7577.70 (measured interval: 10 s)
- 0:46:37 Average server FPS: 7521.40 (measured interval: 10 s)
- 0:46:47 Average server FPS: 7344.10 (measured interval: 10 s)
- 0:46:57 Average server FPS: 7505.00 (measured interval: 10 s)
- 0:47:07 Average server FPS: 7472.80 (measured interval: 10 s)
- 0:47:17 Average server FPS: 7428.50 (measured interval: 10 s)
- 0:47:27 Average server FPS: 7441.40 (measured interval: 10 s)
- 0:47:37 Average server FPS: 7569.20 (measured interval: 10 s)
- 0:47:47 Average server FPS: 7473.50 (measured interval: 10 s)
- 0:47:57 Average server FPS: 7396.60 (measured interval: 10 s)
- 0:48:07 Average server FPS: 7487.20 (measured interval: 10 s)
- 0:48:17 Average server FPS: 7620.10 (measured interval: 10 s)
- 0:48:27 Average server FPS: 7507.70 (measured interval: 10 s)
- 0:48:37 Average server FPS: 7500.50 (measured interval: 10 s)
- 0:48:47 Average server FPS: 7483.70 (measured interval: 10 s)
- 0:48:57 Average server FPS: 7379.93 (measured interval: 10 s)
- 0:49:07 Average server FPS: 7023.30 (measured interval: 10 s)
- 0:49:17 Average server FPS: 7018.10 (measured interval: 10 s)
- 0:49:27 Average server FPS: 7512.80 (measured interval: 10 s)
- 0:49:37 Average server FPS: 7244.70 (measured interval: 10 s)
- 0:49:47 Average server FPS: 7418.80 (measured interval: 10 s)
- 0:49:57 Average server FPS: 7227.30 (measured interval: 10 s)
- 0:50:07 Average server FPS: 7039.30 (measured interval: 10 s)
- 0:50:17 Average server FPS: 7208.40 (measured interval: 10 s)
- 0:50:27 Average server FPS: 7537.00 (measured interval: 10 s)
- 0:50:37 Average server FPS: 7245.40 (measured interval: 10 s)
- 0:50:47 Average server FPS: 7078.20 (measured interval: 10 s)
- 0:50:57 Average server FPS: 7244.40 (measured interval: 10 s)
- 0:51:07 Average server FPS: 7128.70 (measured interval: 10 s)
- 0:51:17 Average server FPS: 7380.00 (measured interval: 10 s)
- 0:51:27 Average server FPS: 7163.60 (measured interval: 10 s)
- 0:51:37 Average server FPS: 7309.30 (measured interval: 10 s)
- 0:51:47 Average server FPS: 7283.70 (measured interval: 10 s)
- 0:51:57 Average server FPS: 7371.20 (measured interval: 10 s)
- 0:52:07 Average server FPS: 7401.20 (measured interval: 10 s)
- 0:52:17 Average server FPS: 7516.70 (measured interval: 10 s)
- 0:52:27 Average server FPS: 7370.60 (measured interval: 10 s)
- 0:52:37 Average server FPS: 7537.50 (measured interval: 10 s)
- 0:52:47 Average server FPS: 7742.50 (measured interval: 10 s)
- 0:52:57 Average server FPS: 7554.30 (measured interval: 10 s)
- 0:53:07 Average server FPS: 7684.80 (measured interval: 10 s)
- 0:53:17 Average server FPS: 7749.40 (measured interval: 10 s)
- 0:53:27 Average server FPS: 7704.80 (measured interval: 10 s)
- 0:53:37 Average server FPS: 7716.40 (measured interval: 10 s)
- 0:53:47 Average server FPS: 7781.10 (measured interval: 10 s)
- 0:53:57 Average server FPS: 7803.70 (measured interval: 10 s)
- 0:54:07 Average server FPS: 7644.90 (measured interval: 10 s)
- 0:54:17 Average server FPS: 7732.80 (measured interval: 10 s)
- 0:54:27 Average server FPS: 7817.20 (measured interval: 10 s)
- 0:54:37 Average server FPS: 7647.50 (measured interval: 10 s)
- 0:54:47 Average server FPS: 7725.30 (measured interval: 10 s)
- 0:54:57 Average server FPS: 7800.00 (measured interval: 10 s)
- 0:55:07 Average server FPS: 7565.20 (measured interval: 10 s)
- 0:55:17 Average server FPS: 7655.20 (measured interval: 10 s)
- 0:55:27 Average server FPS: 7765.80 (measured interval: 10 s)
- 0:55:37 Average server FPS: 7702.50 (measured interval: 10 s)
- 0:55:47 Average server FPS: 7772.30 (measured interval: 10 s)
- 0:55:57 Average server FPS: 7517.60 (measured interval: 10 s)
- 0:56:07 Average server FPS: 7658.60 (measured interval: 10 s)
- 0:56:17 Average server FPS: 7667.20 (measured interval: 10 s)
- 0:56:27 Average server FPS: 7640.60 (measured interval: 10 s)
- 0:56:37 Average server FPS: 7667.90 (measured interval: 10 s)
- 0:56:47 Average server FPS: 7789.10 (measured interval: 10 s)
- 0:56:57 Average server FPS: 7311.90 (measured interval: 10 s)
- 0:57:07 Average server FPS: 7675.30 (measured interval: 10 s)
- 0:57:17 Average server FPS: 7732.90 (measured interval: 10 s)
- 0:57:27 Average server FPS: 7641.50 (measured interval: 10 s)
- 0:57:37 Average server FPS: 7750.60 (measured interval: 10 s)
- 0:57:47 Average server FPS: 7701.90 (measured interval: 10 s)
- 0:57:57 Average server FPS: 7719.70 (measured interval: 10 s)
- 0:58:07 Average server FPS: 7731.40 (measured interval: 10 s)
- 0:58:17 Average server FPS: 7483.60 (measured interval: 10 s)
- 0:58:27 Average server FPS: 7578.90 (measured interval: 10 s)
- 0:58:37 Average server FPS: 7594.50 (measured interval: 10 s)
- 0:58:47 Average server FPS: 7657.30 (measured interval: 10 s)
- 0:58:57 Average server FPS: 7382.40 (measured interval: 10 s)
- 0:59:07 Average server FPS: 7582.80 (measured interval: 10 s)
- 0:59:17 Average server FPS: 7639.70 (measured interval: 10 s)
- 0:59:27 Average server FPS: 7623.40 (measured interval: 10 s)
- 0:59:37 Average server FPS: 7688.70 (measured interval: 10 s)
- 0:59:47 Average server FPS: 7591.90 (measured interval: 10 s)
- 0:59:57 Average server FPS: 7252.90 (measured interval: 10 s)
- 1:00:07 Average server FPS: 7730.70 (measured interval: 10 s)
- 1:00:17 Average server FPS: 7283.00 (measured interval: 10 s)
- 1:00:27 Average server FPS: 7840.60 (measured interval: 10 s)
- 1:00:37 Average server FPS: 7661.40 (measured interval: 10 s)
- 1:00:47 Average server FPS: 7697.80 (measured interval: 10 s)
- 1:00:57 Average server FPS: 7729.80 (measured interval: 10 s)
- 1:01:07 Average server FPS: 7691.60 (measured interval: 10 s)
- 1:01:17 Average server FPS: 7735.80 (measured interval: 10 s)
- 1:01:27 Average server FPS: 7701.90 (measured interval: 10 s)
- 1:01:37 Average server FPS: 7656.80 (measured interval: 10 s)
- 1:01:47 Average server FPS: 7627.60 (measured interval: 10 s)
- 1:01:57 Average server FPS: 7241.60 (measured interval: 10 s)
- 1:02:07 Average server FPS: 7764.10 (measured interval: 10 s)
- 1:02:17 Average server FPS: 7821.00 (measured interval: 10 s)
- 1:02:27 Average server FPS: 7715.80 (measured interval: 10 s)
- 1:02:37 Average server FPS: 7769.10 (measured interval: 10 s)
- 1:02:47 Average server FPS: 7756.10 (measured interval: 10 s)
- 1:02:57 Average server FPS: 7873.10 (measured interval: 10 s)
- 1:03:07 Average server FPS: 7801.20 (measured interval: 10 s)
- 1:03:17 Average server FPS: 7815.50 (measured interval: 10 s)
- 1:03:27 Average server FPS: 7872.40 (measured interval: 10 s)
- 1:03:37 Average server FPS: 7747.10 (measured interval: 10 s)
- 1:03:47 Average server FPS: 7963.70 (measured interval: 10 s)
- 1:03:57 Average server FPS: 7677.20 (measured interval: 10 s)
- 1:04:07 Average server FPS: 7529.80 (measured interval: 10 s)
- 1:04:17 Average server FPS: 7779.90 (measured interval: 10 s)
- 1:04:27 Average server FPS: 7811.50 (measured interval: 10 s)
- 1:04:37 Average server FPS: 7546.60 (measured interval: 10 s)
- 1:04:47 Average server FPS: 7737.00 (measured interval: 10 s)
- 1:04:57 Average server FPS: 7586.30 (measured interval: 10 s)
- 1:05:07 Average server FPS: 7530.40 (measured interval: 10 s)
- 1:05:17 Average server FPS: 7732.50 (measured interval: 10 s)
- 1:05:27 Average server FPS: 7528.40 (measured interval: 10 s)
- 1:05:37 Average server FPS: 7661.90 (measured interval: 10 s)
- 1:05:47 Average server FPS: 7835.60 (measured interval: 10 s)
- 1:05:57 Average server FPS: 7953.10 (measured interval: 10 s)
- 1:06:07 Average server FPS: 7859.90 (measured interval: 10 s)
- 1:06:17 Average server FPS: 7824.70 (measured interval: 10 s)
- 1:06:27 Average server FPS: 7473.80 (measured interval: 10 s)
- 1:06:37 Average server FPS: 7805.70 (measured interval: 10 s)
- 1:06:47 Average server FPS: 7597.70 (measured interval: 10 s)
- 1:06:57 Average server FPS: 7873.30 (measured interval: 10 s)
- 1:07:07 Average server FPS: 7794.90 (measured interval: 10 s)
- 1:07:17 Average server FPS: 7491.50 (measured interval: 10 s)
- 1:07:27 Average server FPS: 7410.00 (measured interval: 10 s)
- 1:07:37 Average server FPS: 7819.40 (measured interval: 10 s)
- 1:07:47 Average server FPS: 7486.30 (measured interval: 10 s)
- 1:07:57 Average server FPS: 7770.90 (measured interval: 10 s)
- 1:08:07 Average server FPS: 7506.60 (measured interval: 10 s)
- 1:08:17 Average server FPS: 7663.80 (measured interval: 10 s)
- 1:08:27 Average server FPS: 7884.70 (measured interval: 10 s)
- 1:08:37 Average server FPS: 7584.50 (measured interval: 10 s)
- 1:08:47 Average server FPS: 7858.40 (measured interval: 10 s)
- 1:08:57 Average server FPS: 7790.60 (measured interval: 10 s)
- 1:09:07 Average server FPS: 7624.40 (measured interval: 10 s)
- 1:09:17 Average server FPS: 7925.50 (measured interval: 10 s)
- 1:09:27 Average server FPS: 7770.80 (measured interval: 10 s)
- 1:09:37 Average server FPS: 7814.30 (measured interval: 10 s)
- 1:09:47 Average server FPS: 7804.60 (measured interval: 10 s)
- 1:09:57 Average server FPS: 7901.90 (measured interval: 10 s)
- 1:10:07 Average server FPS: 7864.80 (measured interval: 10 s)
- 1:10:17 Average server FPS: 7807.10 (measured interval: 10 s)
- 1:10:27 Average server FPS: 7617.10 (measured interval: 10 s)
- 1:10:37 Average server FPS: 7648.10 (measured interval: 10 s)
- 1:10:47 Average server FPS: 7887.70 (measured interval: 10 s)
- 1:10:57 Average server FPS: 7585.00 (measured interval: 10 s)
- 1:11:07 Average server FPS: 7840.10 (measured interval: 10 s)
- 1:11:17 Average server FPS: 7838.40 (measured interval: 10 s)
- 1:11:27 Average server FPS: 7580.70 (measured interval: 10 s)
- 1:11:37 Average server FPS: 7583.90 (measured interval: 10 s)
- 1:11:47 Average server FPS: 7760.60 (measured interval: 10 s)
- 1:11:57 Average server FPS: 7766.70 (measured interval: 10 s)
- 1:12:07 Average server FPS: 7861.30 (measured interval: 10 s)
- 1:12:17 Average server FPS: 7830.50 (measured interval: 10 s)
- 1:12:27 Average server FPS: 7812.30 (measured interval: 10 s)
- 1:12:37 Average server FPS: 7811.50 (measured interval: 10 s)
- 1:12:47 Average server FPS: 7896.90 (measured interval: 10 s)
- 1:12:57 Average server FPS: 7979.50 (measured interval: 10 s)
- 1:13:07 Average server FPS: 7871.80 (measured interval: 10 s)
- 1:13:17 Average server FPS: 7841.80 (measured interval: 10 s)
- 1:13:27 Average server FPS: 7873.60 (measured interval: 10 s)
- 1:13:37 Average server FPS: 7831.80 (measured interval: 10 s)
- 1:13:47 Average server FPS: 7925.90 (measured interval: 10 s)
- 1:13:57 Average server FPS: 8039.10 (measured interval: 10 s)
- 1:14:07 Average server FPS: 7930.70 (measured interval: 10 s)
- 1:14:17 Average server FPS: 7853.40 (measured interval: 10 s)
- 1:14:27 Average server FPS: 7659.40 (measured interval: 10 s)
- 1:14:37 Average server FPS: 7835.60 (measured interval: 10 s)
- 1:14:47 Average server FPS: 7793.20 (measured interval: 10 s)
- 1:14:57 Average server FPS: 7755.10 (measured interval: 10 s)
- 1:15:03 [Login]: Adding player [Admin] Bunker (23894997) to login queue at position 0
- 1:15:03 [LoginMachine]: Add player [Admin] Bunker (23894997 192.168.1.64:2604)
- 1:15:03 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering AuthPlayerLoginState
- 1:15:04 BattlEye Server: Player #0 [Admin] Bunker (192.168.1.64:2604) connected
- 1:15:04 Player [Admin] Bunker connecting.
- 1:15:04 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering WaitAuthPlayerLoginState
- 1:15:05 [IdleMode] Leaving OUT
- 1:15:05 BattlEye Server: Player #0 [Admin] Bunker - BE GUID: f03027f3c4a1fc307650b9e64a3a689c
- 1:15:06 BattlEye Server: Verified GUID (f03027f3c4a1fc307650b9e64a3a689c) of player #0 [Admin] Bunker
- 1:15:06 Player [Admin] Bunker connected (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=).
- 1:15:06 Player "[Admin] Bunker" is connected (steamID=76561199112746320)
- 1:15:06 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering WaitPlayerAssignedLoginState
- 1:15:07 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBGetLoginTimeLoginState
- 1:15:07 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBWaitLoginTimeLoginState
- 1:15:07 Average server FPS: 7828.60 (measured interval: 10 s)
- 1:15:17 Average server FPS: 7590.90 (measured interval: 10 s)
- 1:15:22 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering DBGetCharacterLoginState
- 1:15:22 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering CreateNetObjectsLoginState
- 1:15:22 Player [Admin] Bunker dpid=23894997 at pos (6095.0, 0.0, 10151.0) 
- 1:15:22 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering PreloadCamLoginState
- 1:15:22 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering WaitPreloadCamLoginState
- 1:15:27 Average server FPS: 7351.30 (measured interval: 10 s)
- 1:15:37 Average server FPS: 7439.80 (measured interval: 10 s)
- 1:15:38 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) Entering GetNewCharLoginState
- 1:15:38 <CREATE NEW CHAR>:
-    charID 2
-    playerID 2
-    dpnid 23894997
-    uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
- 1:15:47 Average server FPS: 6498.20 (measured interval: 10 s)
- 1:15:53 Respawn: Add player [Admin] Bunker (23894997) to respawn machine
- 1:15:53 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering GetCharacterRespawnState
- 1:15:53 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering PreloadCamRespawnState
- 1:15:53 Player [Admin] Bunker dpid=23894997 at pos (6145.0, 0.0, 10201.0) 
- 1:15:53 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering WaitPreloadCamRespawnState
- 1:15:56 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
- 1:15:57 Average server FPS: 6439.80 (measured interval: 10 s)
- 1:16:07 Average server FPS: 7538.04 (measured interval: 10 s)
- 1:16:09 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering GetNewCharRespawnState
- 1:16:09 <RESPAWN NEW CHAR>:
-    charID 2
-    playerID 2
-    dpnid 23894997
-    uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
- 1:16:12 Respawn: Add player [Admin] Bunker (23894997) to respawn machine
- 1:16:12 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering GetCharacterRespawnState
- 1:16:12 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering PreloadCamRespawnState
- 1:16:12 Player [Admin] Bunker dpid=23894997 at pos (6296.0, 0.0, 10078.2) 
- 1:16:12 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering WaitPreloadCamRespawnState
- 1:16:17 Average server FPS: 6749.60 (measured interval: 10 s)
- 1:16:27 Average server FPS: 7401.80 (measured interval: 10 s)
- 1:16:28 [StateMachine]: Player [Admin] Bunker (dpnid 23894997 uid ) Entering GetNewCharRespawnState
- 1:16:28 <RESPAWN NEW CHAR>:
-    charID 2
-    playerID 2
-    dpnid 23894997
-    uid BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
- 1:16:33 [Disconnect]: Start script disconnect 23894997 (dbCharacterId 2 dbPlayerId 2) logoutTime 15
- 1:16:35 [Disconnect]: Client 23894997 disconnecting
- 1:16:35 [Disconnect]: Client 23894997 early disconnect
- 1:16:35 [Disconnect]: Start script disconnect 23894997 (dbCharacterId 2 dbPlayerId 2) logoutTime 15
- 1:16:35 [Disconnect]: Remove player info 23894997
- 1:16:35 [Disconnect]: Player destroy 23894997 
- 1:16:35 Player [Admin] Bunker disconnected.
- 1:16:35 BattlEye Server: Player #0 [Admin] Bunker disconnected
- 1:16:37 Average server FPS: 6569.60 (measured interval: 10 s)
- 1:16:47 Average server FPS: 7261.87 (measured interval: 10 s)
- 1:16:48 [Disconnect]: Finish script disconnect -1 (BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=)
- 1:16:57 Average server FPS: 7637.30 (measured interval: 10 s)
- 1:17:07 Average server FPS: 7517.70 (measured interval: 10 s)
- 1:17:17 Average server FPS: 7433.60 (measured interval: 10 s)
- 1:17:19 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
- 1:17:27 Average server FPS: 7601.50 (measured interval: 10 s)
- 1:17:37 Average server FPS: 7262.60 (measured interval: 10 s)
- 1:17:47 Average server FPS: 7630.20 (measured interval: 10 s)
- 1:17:54 [IdleMode] Entering IN - save processed
- 1:17:57 Average server FPS: 7258.10 (measured interval: 10 s)
- 1:18:07 Average server FPS: 7747.40 (measured interval: 10 s)
- 1:18:17 Average server FPS: 7651.60 (measured interval: 10 s)
- 1:18:27 Average server FPS: 7454.20 (measured interval: 10 s)
- 1:18:37 Average server FPS: 7503.40 (measured interval: 10 s)
- 1:18:47 Average server FPS: 7756.30 (measured interval: 10 s)
- 1:18:57 Average server FPS: 7845.20 (measured interval: 10 s)
- 1:19:07 Average server FPS: 7820.80 (measured interval: 10 s)
- 1:19:17 Average server FPS: 7795.20 (measured interval: 10 s)
- 1:19:27 Average server FPS: 7777.50 (measured interval: 10 s)
- 1:19:37 Average server FPS: 7842.40 (measured interval: 10 s)
- 1:19:47 Average server FPS: 7767.70 (measured interval: 10 s)
- 1:19:57 Average server FPS: 7813.70 (measured interval: 10 s)
- 1:20:07 Average server FPS: 7872.10 (measured interval: 10 s)
- 1:20:17 Average server FPS: 7835.20 (measured interval: 10 s)
- 1:20:27 Average server FPS: 7811.30 (measured interval: 10 s)
- 1:20:37 Average server FPS: 7783.20 (measured interval: 10 s)
- 1:20:47 Average server FPS: 7703.60 (measured interval: 10 s)
- 1:20:57 Average server FPS: 7648.00 (measured interval: 10 s)
- 1:21:07 Average server FPS: 7716.10 (measured interval: 10 s)
- 1:21:17 Average server FPS: 7798.10 (measured interval: 10 s)
- 1:21:27 Average server FPS: 7815.80 (measured interval: 10 s)
- 1:21:37 Average server FPS: 7761.00 (measured interval: 10 s)
- 1:21:47 Average server FPS: 7823.30 (measured interval: 10 s)
- 1:21:57 Average server FPS: 7715.60 (measured interval: 10 s)
- 1:22:07 Average server FPS: 7769.20 (measured interval: 10 s)
- 1:22:17 Average server FPS: 7765.30 (measured interval: 10 s)
- 1:22:27 Average server FPS: 7782.90 (measured interval: 10 s)
- 1:22:37 Average server FPS: 7745.20 (measured interval: 10 s)
- 1:22:47 Average server FPS: 7866.60 (measured interval: 10 s)
- 1:22:57 Average server FPS: 7865.70 (measured interval: 10 s)
- 1:23:07 Average server FPS: 7788.90 (measured interval: 10 s)
- 1:23:17 Average server FPS: 7803.00 (measured interval: 10 s)
- 1:23:27 Average server FPS: 7757.00 (measured interval: 10 s)
- 1:23:37 Average server FPS: 7655.90 (measured interval: 10 s)
- 1:23:47 Average server FPS: 7590.60 (measured interval: 10 s)
- 1:23:57 Average server FPS: 7541.00 (measured interval: 10 s)
- 1:24:07 Average server FPS: 7802.10 (measured interval: 10 s)
- 1:24:17 Average server FPS: 7788.80 (measured interval: 10 s)
- 1:24:27 Average server FPS: 7535.70 (measured interval: 10 s)
- 1:24:37 Average server FPS: 7716.00 (measured interval: 10 s)
- 1:24:47 Average server FPS: 7522.90 (measured interval: 10 s)
- 1:24:57 Average server FPS: 7677.00 (measured interval: 10 s)
- 1:25:07 Average server FPS: 7675.50 (measured interval: 10 s)
- 1:25:17 Average server FPS: 7742.60 (measured interval: 10 s)
- 1:25:27 Average server FPS: 7438.90 (measured interval: 10 s)
- 1:25:37 Average server FPS: 7691.70 (measured interval: 10 s)
- 1:25:47 Average server FPS: 7744.30 (measured interval: 10 s)
- 1:25:57 Average server FPS: 7801.00 (measured interval: 10 s)
- 1:26:07 Average server FPS: 7882.20 (measured interval: 10 s)
- 1:26:17 Average server FPS: 7852.30 (measured interval: 10 s)
- 1:26:27 Average server FPS: 7293.80 (measured interval: 10 s)
- 1:26:37 Average server FPS: 7683.60 (measured interval: 10 s)
- 1:26:47 Average server FPS: 7642.10 (measured interval: 10 s)
- 1:26:57 Average server FPS: 7411.90 (measured interval: 10 s)
- 1:27:07 Average server FPS: 7770.40 (measured interval: 10 s)
- 1:27:17 Average server FPS: 7918.30 (measured interval: 10 s)
- 1:27:27 Average server FPS: 7775.10 (measured interval: 10 s)
- 1:27:37 Average server FPS: 7709.70 (measured interval: 10 s)
- 1:27:47 Average server FPS: 7850.00 (measured interval: 10 s)
- 1:27:57 Average server FPS: 7753.20 (measured interval: 10 s)
- 1:28:07 Average server FPS: 7835.80 (measured interval: 10 s)
- 1:28:17 Average server FPS: 7703.40 (measured interval: 10 s)
- 1:28:27 Average server FPS: 7716.20 (measured interval: 10 s)
- 1:28:37 Average server FPS: 7755.10 (measured interval: 10 s)
- 1:28:47 Average server FPS: 7830.00 (measured interval: 10 s)
- 1:28:57 Average server FPS: 7943.70 (measured interval: 10 s)
- 1:29:07 Average server FPS: 7787.60 (measured interval: 10 s)
- 1:29:17 Average server FPS: 7761.30 (measured interval: 10 s)
- 1:29:27 Average server FPS: 7773.80 (measured interval: 10 s)
- 1:29:37 Average server FPS: 7764.70 (measured interval: 10 s)
- 1:29:47 Average server FPS: 7704.30 (measured interval: 10 s)
- 1:29:57 Average server FPS: 7930.60 (measured interval: 10 s)
- 1:30:07 Average server FPS: 7821.90 (measured interval: 10 s)
- 1:30:17 Average server FPS: 7760.40 (measured interval: 10 s)
- 1:30:27 Average server FPS: 7744.50 (measured interval: 10 s)
- 1:30:37 Average server FPS: 7777.30 (measured interval: 10 s)
- 1:30:47 Average server FPS: 7794.90 (measured interval: 10 s)
- 1:30:57 Average server FPS: 7824.30 (measured interval: 10 s)
- 1:31:07 Average server FPS: 7737.40 (measured interval: 10 s)
- 1:31:17 Average server FPS: 7705.00 (measured interval: 10 s)
- 1:31:27 Average server FPS: 7787.70 (measured interval: 10 s)
- 1:31:37 Average server FPS: 7725.30 (measured interval: 10 s)
- 1:31:47 Average server FPS: 7760.20 (measured interval: 10 s)
- 1:31:57 Average server FPS: 7671.60 (measured interval: 10 s)
- 1:32:07 Average server FPS: 7691.70 (measured interval: 10 s)
- 1:32:17 Average server FPS: 7442.20 (measured interval: 10 s)
- 1:32:27 Average server FPS: 7627.40 (measured interval: 10 s)
- 1:32:37 Average server FPS: 7765.40 (measured interval: 10 s)
- 1:32:47 Average server FPS: 7929.10 (measured interval: 10 s)
- 1:32:57 Average server FPS: 5295.80 (measured interval: 10 s)
- 1:33:07 Average server FPS: 7014.20 (measured interval: 10 s)
- 1:33:17 Average server FPS: 7638.80 (measured interval: 10 s)
- 1:33:27 Average server FPS: 7736.40 (measured interval: 10 s)
- 1:33:37 Average server FPS: 7759.10 (measured interval: 10 s)
- 1:33:47 Average server FPS: 7678.10 (measured interval: 10 s)
- 1:33:57 Average server FPS: 7780.40 (measured interval: 10 s)
- 1:34:07 Average server FPS: 7874.00 (measured interval: 10 s)
- 1:34:17 Average server FPS: 7825.60 (measured interval: 10 s)
- 1:34:27 Average server FPS: 7731.50 (measured interval: 10 s)
- 1:34:37 Average server FPS: 7367.90 (measured interval: 10 s)
- 1:34:47 Average server FPS: 7470.10 (measured interval: 10 s)
- 1:34:57 Average server FPS: 7259.11 (measured interval: 10 s)
- 1:35:07 Average server FPS: 7452.70 (measured interval: 10 s)
- 1:35:17 Average server FPS: 7141.60 (measured interval: 10 s)
- 1:35:27 Average server FPS: 7428.20 (measured interval: 10 s)
- 1:35:37 Average server FPS: 6922.70 (measured interval: 10 s)
- 1:35:47 Average server FPS: 7399.10 (measured interval: 10 s)
- 1:35:57 Average server FPS: 7378.60 (measured interval: 10 s)
- 1:36:07 Average server FPS: 7557.70 (measured interval: 10 s)
- 1:36:17 Average server FPS: 7192.00 (measured interval: 10 s)
- 1:36:27 Ave
+﻿10:09:42 BattlEye Server: Initialized (v1.219, DayZ 1.23.157045)
+10:09:42 SUCCESS: SteamGameServer_Init(0,8766,2602,27016,3,1.23.157045)
+10:09:42 BattlEye Server: Config entry: RConPassword 4c73fb7edd3f805859e973c8879ae87e
+10:09:42 BattlEye Server: Config entry: RConPort 2605
+10:09:42 BattlEye Server: Config entry: RestrictRCon 0
+10:09:42 Roles assigned.
+10:09:42 Reading mission ...
+10:09:50 [CE][Hive] :: Initializing OFFLINE
+10:09:50 [StorageDirs] :: Selected storage directory: C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\
+10:09:50 [CE][Hive] :: Loading core data ... 
+10:09:50 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
+10:09:50 [CE][offlineDB] :: Conversion of characters started.
+10:09:50 [CE][offlineDB] :: Processing 0 players.
+10:09:50 [CE][offlineDB] :: Conversion of characters successfully completed.
+10:09:53 [CE][TypeSetup] :: 527 classes setuped...
+10:09:53 [CE][TypeSetup] :: 97 classes setuped...
+10:09:54 [CE][RegisterBind] :: 0 classes binded...
+10:09:54 [CE][RegisterConfig] :: 11582 config classes registered, 0 sub-counters...
+10:09:54 [CE][Hive] :: Loading map data ... 
+10:09:54 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+10:09:54 [CE][LoadPrototype] :: loaded 445 prototypes
+10:09:54   842 containers, 11087 points
+10:09:54   83 dispatches, 324 proxies
+10:09:54 !!! [CE][LoadPrototype] 4 groups have no points...
+10:09:54 !!! [CE][LoadPrototype] 1 groups have wrong points...
+10:09:54 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+10:09:54 [CE][LoadPrototype] :: loaded 0 prototypes
+10:09:54   50 containers, 276 points
+10:09:54   0 dispatches, 0 proxies
+10:09:54 [CE][LoadPrototype] :: last group name: PathD_7100...
+10:09:54 [CE][LoadMap] "Group" :: loaded 5753 groups, groups failed: 0, largest group range: 26.6
+10:09:54 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 26.6
+10:09:54 [CE][LoadClusters] "Cluster" :: Loading files...
+10:09:54 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 4 types, 50000 instances
+10:09:54 [CE][LoadClusters] :: file: "mapgroupcluster01", 4 types, 50000 instances
+10:09:54 [CE][LoadClusters] :: file: "mapgroupcluster02", 4 types, 50000 instances
+10:09:55 [CE][LoadClusters] :: file: "mapgroupcluster03", 4 types, 50000 instances
+10:09:55 [CE][LoadClusters] :: file: "mapgroupcluster04", 4 types, 25015 instances
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\types.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\types.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\types.002"
+10:09:55 !!! [CE][offlineDB] :: No Shutdown message present.
+10:09:55 [CE][offlineDB] :: Loaded 43 dynamic events 235 total types.
+10:09:55 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+10:09:55 [CE][offlineDB] :: Loaded 52 dynamic events 292 total types.
+10:09:55 !!! [CE][offlineDB] :: Type 'AntiChemInjector' will be ignored. (Not spawnable. (Scope is not public?))
+10:09:55 !!! [CE][offlineDB] :: Type 'CharcoalTablets' will be ignored. (Not spawnable. (Scope is not public?))
+10:09:55 !!! [CE][offlineDB] :: Type 'ChristmasTree_Green' will be ignored. (Not spawnable. (Scope is not public?))
+10:09:55 !!! [CE][offlineDB] :: Type 'Epinephrine' will be ignored. (Not spawnable. (Scope is not public?))
+10:09:55 !!! [CE][offlineDB] :: Type 'Morphine' will be ignored. (Not spawnable. (Scope is not public?))
+10:09:55 !!! [CE][offlineDB] :: Type 'PainkillerTablets' will be ignored. (Not spawnable. (Scope is not public?))
+10:09:55 !!! [CE][offlineDB] :: Type 'TetracyclineAntibiotics' will be ignored. (Not spawnable. (Scope is not public?))
+10:09:55 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Black' will be ignored. (Type does not exist. (Typo?))
+10:09:55 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Brown' will be ignored. (Type does not exist. (Typo?))
+10:09:55 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Red' will be ignored. (Type does not exist. (Typo?))
+10:09:55 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+10:09:55 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+10:09:55 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Not spawnable. (Scope is not public?))
+10:09:55 !!! [CE] :: Unknown usage: 'Historical'.
+10:09:55 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+10:09:55 [CE][DE][SPAWNS] :: Total positions: 529
+10:09:55 [CE][DE][GROUPS] :: Total eventgroups defined: 61, Eventgroups in use: 61
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\events.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\events.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\events.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\building.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\building.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\building.002"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.bin"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.001"
+10:09:55 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\Users\rylic\OneDrive\Documents\Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.002"
+10:09:55 [CE][Hive] :: Empty storage folder, reinitializing ... 
+10:09:55 [CE][Hive] :: Initializing ... 
+10:09:55 [CE][InitializeMap] :: initialized: 0
+10:09:55 [CE][Hive] :: Initializing spawners ... 
+10:09:55 !!! [CE][DE] DynamicEvent "InfectedNBCYellow" has no children defined, at least one is required for this type of event.
+10:09:55 !!!!!! [CE][DE] DynamicEvent "InfectedNBCYellow" setup is invalid, event will be disabled.
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "Truck_01_Door_1_1_GreenRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "CivSedanTrunk_WineRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "CivSedanTrunk_WineRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "CivSedanTrunk_WineRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "CivSedanTrunk_WineRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "CivSedanTrunk_WineRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "CivSedanTrunk_WineRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "CivSedanTrunk_WineRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "CivSedanTrunk_WineRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "CivSedanTrunk_WineRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "Sedan_02_Door_2_1_GreyRust"
+10:09:55 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "Sedan_02_Door_2_1_GreyRust"
+10:09:55 !!! [CE][Point] Removing 610.545593, 1144.913940 from Land_Wreck_truck01_aban1_green
+10:09:55 !!! [CE][Point] Removing 599.014771, 1143.951904 from Land_Wreck_truck01_aban2_green
+10:09:55 !!! [CE][Point] Removing 614.292786, 1148.432373 from Land_Wreck_truck01_aban1_green
+10:09:55 !!! [CE][Point] Removing 707.855896, 1184.662598 from Land_Wreck_truck01_aban1_green
+10:09:56 !!! [CE][Point] Removing 705.516479, 1182.057739 from Land_Wreck_truck01_aban1_green
+10:09:56 !!! [CE][Point] Removing 611.490173, 1147.956665 from Land_Wreck_truck01_aban1_green
+10:09:56 !!! [CE][Point] Removing 597.063293, 1141.367554 from Land_Wreck_truck01_aban2_green
+10:09:56 !!! [CE][Point] Removing 596.386841, 1144.632446 from Land_Wreck_truck01_aban2_green
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "GasMask_Filter"
+10:09:56 !!! [CE][Point] Removing 706.733337, 1181.260254 from Land_Wreck_truck01_aban1_green
+10:09:56 !!! [CE][Point] Removing 704.672974, 1183.113647 from Land_Wreck_truck01_aban1_green
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "M9A1_Bayonet"
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "ParamedicJacket_Green"
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "ParamedicJacket_Green"
+10:09:56 !!! [CE][Point] Removing 711.076477, 1184.009399 from Land_Wreck_truck01_aban1_green
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "PressVest_LightBlue"
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "PressVest_LightBlue"
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "PressVest_LightBlue"
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "NurseDress_White"
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "NurseDress_White"
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "NurseDress_White"
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "NurseDress_White"
+10:09:56 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "NurseDress_White"
+10:09:57 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "DisinfectantSpray"
+10:09:57 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "Saiga"
+10:09:57 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "AviatorGlasses"
+10:09:57 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "LabCoat"
+10:09:57 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "LabCoat"
+10:09:57 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "LabCoat"
+10:09:57 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "LabCoat"
+10:09:57 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "LabCoat"
+10:09:59 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:16846, Nominal:17178, Total in Map: 15749 at 3 (sec)
+10:09:59   tests:17072, repeats:41 fails:185, overtime:1541
+10:09:59 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+10:09:59 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 13, deloot: 2, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 14, deloot: 2, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban2_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_T72_Chassis_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP1_NoPlacement_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban2_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban2_grey_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_Tractor_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 4
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: !!! No group configured for 'StaticObj_Wreck_Trailer_Flat_DE', failed to spawn loot
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_wine_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban2_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban2_orange_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 3
+10:09:59 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Blue_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Flat_DE, lootmin: 1, lootmax: 3, wanted: 1, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Train_Wagon_Flat_Industrial_Planks_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Aoh_DE, lootmin: 3, lootmax: 5, wanted: 3, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Container_1Bo_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_742_Blue_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: Land_Train_Wagon_Box_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][SpawnRandomLoot] (StaticTrain) :: Type: StaticObj_Wreck_Train_Wagon_Tanker_DE, lootmin: 1, lootmax: 3, wanted: 2, deloot: 0, containermaxsum: 15
+10:09:59 [CE][DynEvent] :: 52 types
+10:09:59 [00] AmbientHen
+10:09:59   Primary Spawner: "Ambient", active: yes, repeat: 1
+10:09:59 [01] AnimalBear
+10:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+10:09:59 [02] AnimalCow
+10:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+10:09:59 [03] AnimalDeer
+10:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+10:09:59 [04] AnimalGoat
+10:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+10:09:59 [05] AnimalPig
+10:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+10:09:59 [06] AnimalRoeDeer
+10:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+10:09:59 [07] AnimalSheep
+10:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+10:09:59 [08] AnimalWildBoar
+10:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+10:09:59 [09] AnimalWolf
+10:09:59   Primary Spawner: "Animal", active: yes, repeat: 1
+10:09:59 [10] InfectedArmy
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [11] InfectedArmyConvoy
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [12] InfectedArmyHard
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [13] InfectedCity
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [14] InfectedFirefighter
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [15] InfectedIndustrial
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [16] InfectedMedic
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [17] InfectedNBC
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [18] InfectedNBCYellow
+10:09:59   Primary Spawner: "Infected", active: no, repeat: 1
+10:09:59 [19] InfectedPolice
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [20] InfectedPoliceHard
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [21] InfectedPrisoner
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [22] InfectedReligious
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [23] InfectedSanta
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [24] InfectedSolitude
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [25] InfectedVillage
+10:09:59   Primary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [26] ItemPlanks
+10:09:59   Primary Spawner: "Item", active: yes, repeat: 1
+10:09:59 [27] Loot
+10:09:59   Primary Spawner: "Loot", active: yes, repeat: 2
+10:09:59 [28] StaticContaminatedArea
+10:09:59   Primary Spawner: "Static", active: yes, repeat: 1
+10:09:59 [29] StaticHeliCrash
+10:09:59   Primary Spawner: "Static", active: yes, repeat: 1
+10:09:59   Secondary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [30] StaticMilitaryConvoy
+10:09:59   Primary Spawner: "Static", active: yes, repeat: 1
+10:09:59   Secondary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [31] StaticPoliceSituation
+10:09:59   Primary Spawner: "Static", active: yes, repeat: 1
+10:09:59   Secondary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [32] StaticTrain
+10:09:59   Primary Spawner: "Static", active: yes, repeat: 1
+10:09:59   Secondary Spawner: "Infected", active: yes, repeat: 1
+10:09:59 [33] TrajectoryConiferous
+10:09:59   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:09:59 [34] TrajectoryDeciduous
+10:09:59   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:09:59 [35] TrajectoryHumus
+10:09:59   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:09:59 [36] TrajectoryStones
+10:09:59   Primary Spawner: "Trajectory", active: yes, repeat: 1
+10:09:59 [37] VehicleCivilianSedan
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [38] VehicleHatchback02
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [39] VehicleOffroad02
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [40] VehicleOffroadHatchback
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [41] VehicleSedan02
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [42] VehicleTruck01
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [43] VehicleUAZ
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [44] VehicleVodnik
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [45] VehicleBus
+10:09:59   Primary Spawner: "Vehicle", active: yes, repeat: 1
+10:09:59 [46] VehicleTractor
+10:09:
