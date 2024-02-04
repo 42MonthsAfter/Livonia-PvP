@@ -1,0 +1,12 @@
+14:06:41.757 [VehicleDestroyed] ExpansionUh1h (id=3A34A569E94F1050020EDC9F9E16918F pos=<1228.393433, 169.074783, 7566.367188>)
+14:06:41.992 [VehicleDeleted] ExpansionUh1h (id=B9460DCD434BB3B18FD41CA54817501F pos=<1228.393433, 169.074783, 7566.367188>)
+14:08:25.164 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:08:25.164 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:08:25.164 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:08:25.164 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:08:25.164 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:09:00.906 [Killfeed] [Admin] Bunker got killed.
+14:09:20.757 [Killfeed] [Admin] Bunker got killed.
+14:09:48.246 [VehicleDestroyed] ExpansionUh1h_Resistance (id=83C23D10F647C625EE6997821DD864FE pos=<7924.714355, 169.626816, 11833.703125>)
+14:11:42.351 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Medical
+15:39:01.347 [MissionAirdrop] An airdrop is heading towards "Topolin" (pos=<1367.000000, 0.000000, 7057.000000> type=Random_Topolin) with a ExpansionAirdropContainer_Military

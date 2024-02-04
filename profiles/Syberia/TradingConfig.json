@@ -10,12 +10,12 @@
       "m_buyFilter": [],
       "m_sellFilter": [],
       "m_storageMaxSize": 0,
-      "m_storageCommission": 0,
+      "m_storageCommission": 0.0,
       "m_dumpingByAmountAlgorithm": "linear",
-      "m_dumpingByAmountModifier": 0,
-      "m_dumpingByBadQuality": 0,
-      "m_sellMaxQuantityPercent": 0,
-      "m_buyMaxQuantityPercent": 0
+      "m_dumpingByAmountModifier": 0.0,
+      "m_dumpingByBadQuality": 0.0,
+      "m_sellMaxQuantityPercent": 0.0,
+      "m_buyMaxQuantityPercent": 0.0
     }
   ]
 }

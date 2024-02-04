@@ -1,0 +1,12 @@
+************************** 2024-02-04T04:24:02+00:00 **************************
+2024-02-04T04:24:02+00:00 | [INFO	] GameLabs v1.920 start for server ea79dbbd-fb35-4be8-9351-0cd5594f77c8
+2024-02-04T04:24:08+00:00 | [INFO	] Server up (GameLabs v1.920)
+2024-02-04T04:24:08+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-02-04T04:24:08+00:00 | [INFO	] Experimental speed check is enabled
+2024-02-04T04:31:53+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-02-04T04:31:53+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-04T04:31:53+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=6656.61u, unitsPerSecond=2662.64 [threshold=8, inVehicle=0, triggers=1])
+2024-02-04T04:31:53+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-04T04:31:53+00:00 | [WARN	] ****************************************
+2024-02-04T04:34:57+00:00 | [INFO	] (Reporter) Disabled
+2024-02-04T04:34:57+00:00 | [INFO	] (Core) Attempting graceful exit

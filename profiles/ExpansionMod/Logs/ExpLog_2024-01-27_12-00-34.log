@@ -1,0 +1,9 @@
+12:05:48.128 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Military
+13:08:25.003 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+13:08:25.003 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+13:08:25.003 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+13:08:25.003 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+13:08:25.003 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+13:08:29.269 [Killfeed] (ADMIN)BLUE got killed.
+13:08:57.582 [Killfeed] (ADMIN)BLUE got killed.
+13:09:48.140 [VehicleDestroyed] ExpansionUh1h_Resistance (id=A03418E7A9472458A14AD6BDE24A0210 pos=<1227.713257, 169.339844, 7566.574219>)

@@ -1,0 +1,14 @@
+16:14:06.300 [VehicleDestroyed] ExpansionUh1h_Resistance (id=3F718895F845AC05A0F95EBE3DED12C4 pos=<7924.860840, 169.383713, 11833.624023>)
+16:14:06.585 [VehicleDeleted] ExpansionUh1h_Resistance (id=83C23D10F647C625EE6997821DD864FE pos=<7924.860840, 169.383713, 11833.624023>)
+16:19:07.070 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Basebuilding
+16:21:33.574 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+16:21:33.578 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+16:21:33.578 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+16:21:33.578 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+16:21:33.578 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+16:22:27.511 [Killfeed] Blue got killed.
+16:22:45.679 [Killfeed] Blue got killed.
+16:22:55.738 [VehicleDestroyed] ExpansionUh1h (id=98B9BAE5FC467BFD3F2ED3BC3CCA337F pos=<1227.717896, 169.338287, 7566.581543>)
+16:26:45.867 [VehicleDeleted] ExpansionMh6_Wasp (id=C75E291CE246ED5D47162E9D5D916D4B pos=<4109.384277, 238.431580, 10388.725586>)
+16:28:50.242 [VehicleDeleted] ExpansionUh1h (id=98B9BAE5FC467BFD3F2ED3BC3CCA337F pos=<1231.062500, 168.755371, 7566.858398>)
+17:48:37.140 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Basebuilding

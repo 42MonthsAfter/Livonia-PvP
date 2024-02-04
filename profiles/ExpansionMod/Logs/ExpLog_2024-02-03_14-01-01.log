@@ -1,0 +1,9 @@
+14:01:24.417 [VehicleDestroyed] ExpansionUh1h_Resistance (id=36BE1DC9CD473D201AE7309605C21744 pos=<1230.624634, 168.748611, 7567.021973>)
+14:01:24.683 [VehicleDeleted] ExpansionUh1h_Resistance (id=4AE7BB54234D804B122978ACB08F22A5 pos=<1230.624634, 168.748611, 7567.021973>)
+14:02:28.246 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:02:28.246 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:02:28.246 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:02:28.246 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:02:28.246 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:03:43.511 [Killfeed] [Admin] Bunker got killed.
+14:04:02.750 [VehicleDestroyed] ExpansionUh1h (id=B9460DCD434BB3B18FD41CA54817501F pos=<1227.717773, 169.338455, 7566.581543>)

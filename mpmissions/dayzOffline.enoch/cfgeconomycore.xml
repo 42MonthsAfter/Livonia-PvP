@@ -43,7 +43,28 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<ce folder="ModTypes/SyberiaMod">
 		<file name="types.xml" type="types" />
 	</ce>
-		<ce folder="ModTypes/UndergroundBases">
+	<ce folder="ModTypes/UndergroundBases">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MADocsGuns">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MADocsTextures">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MAModPack">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MAVanillaClothing">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MAVehicleParts">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/42MAVehicles">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/FlipTransport">
 		<file name="types.xml" type="types" />
 	</ce>
 </economycore>

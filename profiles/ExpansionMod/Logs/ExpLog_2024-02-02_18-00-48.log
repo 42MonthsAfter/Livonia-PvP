@@ -1,0 +1,9 @@
+18:06:10.011 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Basebuilding
+19:33:16.007 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Medical
+20:59:23.015 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Military
+21:16:26.273 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+21:16:26.273 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+21:16:26.289 [Expansion Quests] - CompleteQuest - Player with UID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= has completed quest 14
+21:17:12.742 [VehicleDestroyed] ExpansionUh1h (id=42AEC8587F4886003EDFFFAE27B8C502 pos=<1227.716064, 169.338959, 7566.578125>)
+21:20:03.375 [Killfeed] Captain Chaos got killed.
+22:29:34.367 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military

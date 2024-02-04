@@ -1,0 +1,33 @@
+18:06:10.667 [MissionAirdrop] An airdrop is heading towards "Tarnow" (pos=<9976.000000, 0.000000, 11000.000000> type=Random_Tarnow) with a ExpansionAirdropContainer
+19:34:45.664 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer
+20:24:03.328 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: s0A8AXJpiPDUSjrqXrqLgYstCVPuKejliAVB28jI9f8=
+20:24:03.328 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+20:24:03.343 [Expansion Quests] - CompleteQuest - Player with UID s0A8AXJpiPDUSjrqXrqLgYstCVPuKejliAVB28jI9f8= has completed quest 14
+20:25:52.828 [VehicleDestroyed] ExpansionUh1h (id=D479068F6344A52A591EC28D11AD55A3 pos=<1227.714966, 169.339432, 7566.577637>)
+20:26:02.476 [Killfeed] Logical Artist got killed.
+20:26:44.195 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: EZGsTmkYOjMy3rdJuyIXM5B507WBvU1jrAbhDUHP4Mc=
+20:26:44.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:26:44.203 [Expansion Quests] - CompleteQuest - Player with UID EZGsTmkYOjMy3rdJuyIXM5B507WBvU1jrAbhDUHP4Mc= has completed quest 14
+20:27:17.429 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: s0A8AXJpiPDUSjrqXrqLgYstCVPuKejliAVB28jI9f8=
+20:27:17.429 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:29:24.515 [Killfeed] Logical Artist got killed.
+20:30:51.437 [Killfeed] SWAT_CDN got killed.
+20:33:32.390 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: s0A8AXJpiPDUSjrqXrqLgYstCVPuKejliAVB28jI9f8=
+20:33:32.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:34:13.101 [VehicleDeleted] ExpansionUh1h (id=D479068F6344A52A591EC28D11AD55A3 pos=<1231.319458, 168.758911, 7566.764648>)
+20:34:52.265 [Killfeed] Logical Artist got killed.
+20:35:27.328 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: EZGsTmkYOjMy3rdJuyIXM5B507WBvU1jrAbhDUHP4Mc=
+20:35:27.328 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:35:40.453 [VehicleDestroyed] ExpansionUh1h (id=12FE178185477CDCF13B81A6AC433750 pos=<1227.698730, 169.339203, 7566.574219>)
+20:36:06.218 [Killfeed] SWAT_CDN got killed.
+21:03:25.140 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+22:32:06.140 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Medical
+22:52:35.726 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: B4yFelDgFVvxFuDxVAm6OrjrBlvIgciAD3uz1H4PyVs=
+22:52:35.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:52:35.734 [Expansion Quests] - CompleteQuest - Player with UID B4yFelDgFVvxFuDxVAm6OrjrBlvIgciAD3uz1H4PyVs= has completed quest 14
+22:55:50.765 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: uNIIq2HJ_OBkULY5Y3QtQkeu6bxGsWy2MdNUHl1bj6M=
+22:55:50.765 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:55:50.781 [Expansion Quests] - CompleteQuest - Player with UID uNIIq2HJ_OBkULY5Y3QtQkeu6bxGsWy2MdNUHl1bj6M= has completed quest 14
+22:57:55.078 [Killfeed] zedrunner1 got killed.
+22:57:55.507 [Killfeed] BioShnev got killed.
+22:58:09.492 [VehicleDeleted] ExpansionUh1h (id=12FE178185477CDCF13B81A6AC433750 pos=<1232.967285, 168.692184, 7566.741699>)

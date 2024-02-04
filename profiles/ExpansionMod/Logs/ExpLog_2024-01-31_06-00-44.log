@@ -1,0 +1,10 @@
+06:06:04.210 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer
+07:33:47.208 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+09:00:32.208 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Military
+10:25:47.210 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Medical
+11:25:44.375 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 32ybhsOtQplyAd9d8ybn-WcDUOL6JwNtqfN1jDWvaVc=
+11:25:44.375 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+11:25:44.390 [Expansion Quests] - CompleteQuest - Player with UID 32ybhsOtQplyAd9d8ybn-WcDUOL6JwNtqfN1jDWvaVc= has completed quest 14
+11:27:09.421 [VehicleDestroyed] ExpansionUh1h (id=E334612E0C4B9C4F52A42C826DEE23F2 pos=<1227.713501, 169.339920, 7566.574219>)
+11:28:41.800 [Killfeed] A_n_t_o_n got killed.
+11:54:34.417 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer

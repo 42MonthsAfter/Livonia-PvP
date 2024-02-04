@@ -1,0 +1,10 @@
+12:06:04.949 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Military
+13:36:12.945 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+14:43:59.843 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: NW5Z9Ho-5rQQiF-007A6AEZWplguBoh55CdqFb7iX3U=
+14:43:59.843 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:43:59.851 [Expansion Quests] - CompleteQuest - Player with UID NW5Z9Ho-5rQQiF-007A6AEZWplguBoh55CdqFb7iX3U= has completed quest 14
+14:45:21.343 [Killfeed] carvingcruiser got killed.
+14:45:26.695 [VehicleDestroyed] ExpansionUh1h_Uber (id=D9094B34664D74ADF5EDC2B6C9F716B9 pos=<1227.715454, 169.339066, 7566.577148>)
+15:04:02.945 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Military
+16:29:13.945 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+17:58:54.976 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer

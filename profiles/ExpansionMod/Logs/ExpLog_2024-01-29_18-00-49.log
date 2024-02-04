@@ -1,0 +1,7 @@
+18:01:10.804 [VehicleDestroyed] ExpansionUh1h_Uber (id=E231A7A1B14E0D02DE8B16A657F9DADC pos=<1228.487427, 169.075485, 7566.336914>)
+18:01:11.023 [VehicleDeleted] ExpansionUh1h_Uber (id=D9094B34664D74ADF5EDC2B6C9F716B9 pos=<1228.487427, 169.075485, 7566.336914>)
+18:06:11.371 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Medical
+19:33:50.367 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer
+21:02:29.421 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Basebuilding
+22:29:30.421 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+23:55:30.421 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Basebuilding

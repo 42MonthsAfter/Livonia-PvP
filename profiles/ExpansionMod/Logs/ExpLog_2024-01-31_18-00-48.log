@@ -1,0 +1,20 @@
+18:01:08.363 [VehicleDestroyed] ExpansionUh1h_Uber (id=EAAD5AB6844C370F2180978B55964124 pos=<1231.956787, 168.727341, 7566.765137>)
+18:01:08.578 [VehicleDeleted] ExpansionUh1h_Uber (id=FF4D540803489ED4501FE29CD58B6B3A pos=<1231.956787, 168.727341, 7566.765137>)
+18:06:08.929 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer
+18:13:53.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NW5Z9Ho-5rQQiF-007A6AEZWplguBoh55CdqFb7iX3U=
+18:13:53.945 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:13:53.945 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: NW5Z9Ho-5rQQiF-007A6AEZWplguBoh55CdqFb7iX3U=
+18:13:53.945 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: NW5Z9Ho-5rQQiF-007A6AEZWplguBoh55CdqFb7iX3U=
+18:13:53.945 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: NW5Z9Ho-5rQQiF-007A6AEZWplguBoh55CdqFb7iX3U=
+18:15:23.351 [VehicleDestroyed] ExpansionUh1h (id=BBD7D3CAC3431057C3522AA5F9C650DE pos=<7924.536133, 169.301270, 11833.791016>)
+18:21:58.851 [Killfeed] carvingcruiser got killed.
+18:22:09.515 [VehicleDeleted] ExpansionUh1h (id=BBD7D3CAC3431057C3522AA5F9C650DE pos=<7924.415527, 169.321594, 11833.691406>)
+18:42:08.578 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: NW5Z9Ho-5rQQiF-007A6AEZWplguBoh55CdqFb7iX3U=
+18:42:08.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+18:42:42.429 [VehicleDestroyed] ExpansionUh1h_Uber (id=9F8A27AA20468DAB4D947D9F0B199F21 pos=<1227.714966, 169.339386, 7566.576172>)
+18:48:27.851 [Killfeed] carvingcruiser got killed.
+18:49:14.062 [VehicleDeleted] ExpansionUh1h_Uber (id=9F8A27AA20468DAB4D947D9F0B199F21 pos=<1231.075806, 168.754623, 7566.857422>)
+19:32:54.460 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer
+21:01:06.460 [MissionAirdrop] An airdrop is heading towards "Tarnow" (pos=<9976.000000, 0.000000, 11000.000000> type=Random_Tarnow) with a ExpansionAirdropContainer_Military
+22:30:25.460 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Basebuilding
+23:57:14.460 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer

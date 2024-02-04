@@ -1,0 +1,12 @@
+12:01:06.730 [VehicleDestroyed] ExpansionUh1h (id=A99B103DE54AC47AA34F59B1BDE045CA pos=<1230.123291, 168.817566, 7566.873047>)
+12:01:06.910 [VehicleDeleted] ExpansionUh1h (id=E334612E0C4B9C4F52A42C826DEE23F2 pos=<1230.123291, 168.817566, 7566.873047>)
+12:06:07.296 [MissionAirdrop] An airdrop is heading towards "Brena" (pos=<6692.000000, 0.000000, 11442.000000> type=Random_Brena) with a ExpansionAirdropContainer_Military
+13:34:14.292 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer
+14:59:32.304 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Military
+16:26:20.320 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Basebuilding
+17:44:22.187 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: FPTxJGSjXP2Epw35F27xm7XT1u45ydTe_YIMN0O6fpk=
+17:44:22.187 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+17:44:22.199 [Expansion Quests] - CompleteQuest - Player with UID FPTxJGSjXP2Epw35F27xm7XT1u45ydTe_YIMN0O6fpk= has completed quest 14
+17:44:46.558 [Killfeed] Low got killed.
+17:45:04.230 [VehicleDestroyed] ExpansionUh1h_Uber (id=FF4D540803489ED4501FE29CD58B6B3A pos=<1227.713623, 169.339890, 7566.574707>)
+17:53:00.304 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Military
