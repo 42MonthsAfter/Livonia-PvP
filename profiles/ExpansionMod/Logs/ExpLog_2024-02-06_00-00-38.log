@@ -1,0 +1,13 @@
+03:09:43.377 [VehicleDestroyed] ExpansionUh1h_Uber (id=54A4406E114B51A0C4BCCA9CC0306621 pos=<7924.530273, 169.565079, 11833.841797>)
+03:13:34.924 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Military
+03:13:54.922 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+03:15:38.189 [VehicleDeleted] ExpansionUh1h_Uber (id=54A4406E114B51A0C4BCCA9CC0306621 pos=<7924.433594, 169.314240, 11833.589844>)
+03:17:22.715 [VehicleDestroyed] ExpansionUh1h_Resistance (id=8FE3087572411BB74FB59FB9FA11F343 pos=<7924.694824, 169.591263, 11833.878906>)
+03:23:15.639 [VehicleDeleted] ExpansionUh1h_Resistance (id=8FE3087572411BB74FB59FB9FA11F343 pos=<7924.843262, 169.358429, 11833.725586>)
+03:25:25.588 [VehicleDestroyed] ExpansionUh1h_Resistance (id=F3CD3C633C4593DD0BBC6389D238BB6D pos=<7924.745605, 169.646805, 11833.689453>)
+03:31:20.404 [VehicleDeleted] ExpansionUh1h_Resistance (id=F3CD3C633C4593DD0BBC6389D238BB6D pos=<7924.275879, 169.329773, 11833.394531>)
+03:33:04.933 [VehicleDestroyed] ExpansionUh1h_Resistance (id=33A10D85044FE32D05988E884A29F06F pos=<1227.716431, 169.338943, 7566.579590>)
+03:38:57.889 [VehicleDeleted] ExpansionUh1h_Resistance (id=33A10D85044FE32D05988E884A29F06F pos=<1231.001587, 168.748230, 7566.905762>)
+03:41:08.061 [VehicleDestroyed] ExpansionUh1h_Uber (id=E10AD1780C4CC9DC7760F898F9F96CD1 pos=<1227.717773, 169.338425, 7566.581543>)
+03:47:02.416 [VehicleDeleted] ExpansionUh1h_Uber (id=E10AD1780C4CC9DC7760F898F9F96CD1 pos=<1231.039917, 168.748489, 7566.892578>)
+03:48:47.088 [VehicleDestroyed] ExpansionUh1h_Resistance (id=C02DBB6D4142AF6F5AA63D90E7F0A467 pos=<1227.717896, 169.338379, 7566.581543>)

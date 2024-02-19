@@ -1,0 +1,28 @@
+19:20:16.562 [VehicleDestroyed] ExpansionUh1h (id=0C9FD7F0EB49DAA8CF284E928206228E pos=<1227.718872, 169.338715, 7566.581543>)
+19:23:59.179 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Military
+19:24:09.179 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Medical
+19:26:11.218 [VehicleDeleted] ExpansionUh1h (id=0C9FD7F0EB49DAA8CF284E928206228E pos=<1231.080200, 168.756485, 7566.848633>)
+19:29:42.007 [VehicleDestroyed] ExpansionUh1h (id=9A23E3E5454D16C9782EB3A4BC1383B6 pos=<7924.900391, 169.409851, 11833.666016>)
+19:35:37.031 [VehicleDeleted] ExpansionUh1h (id=9A23E3E5454D16C9782EB3A4BC1383B6 pos=<7924.928711, 169.435928, 11833.604492>)
+19:37:21.656 [VehicleDestroyed] ExpansionUh1h_Uber (id=373B8EAA394F832DEFBF11AE9B647D55 pos=<1227.717651, 169.339005, 7566.580078>)
+19:43:14.562 [VehicleDeleted] ExpansionUh1h_Uber (id=373B8EAA394F832DEFBF11AE9B647D55 pos=<1230.920044, 168.752670, 7566.913574>)
+19:45:24.507 [VehicleDestroyed] ExpansionUh1h_Medical (id=A63FC854984F3C94A0211AAC29BA3224 pos=<1227.719238, 169.338531, 7566.581543>)
+19:51:18.929 [VehicleDeleted] ExpansionUh1h_Medical (id=A63FC854984F3C94A0211AAC29BA3224 pos=<1230.984619, 168.749435, 7566.905762>)
+19:53:03.507 [VehicleDestroyed] ExpansionUh1h_Resistance (id=2DAD17C81943BCE4E905E3A44E5B28C7 pos=<7924.711914, 169.386810, 11833.790039>)
+19:58:56.921 [VehicleDeleted] ExpansionUh1h_Resistance (id=2DAD17C81943BCE4E905E3A44E5B28C7 pos=<7925.010742, 169.034210, 11835.438477>)
+20:01:06.937 [VehicleDestroyed] ExpansionUh1h (id=FF3C182C8C4B635F3B0455B03B9D4CC9 pos=<7924.859375, 169.329224, 11834.046875>)
+20:07:01.421 [VehicleDeleted] ExpansionUh1h (id=FF3C182C8C4B635F3B0455B03B9D4CC9 pos=<7924.614258, 169.300964, 11833.931641>)
+20:08:45.992 [VehicleDestroyed] ExpansionUh1h_Medical (id=1424F2B03D48525D5223C9BC006314DE pos=<1227.719482, 169.338882, 7566.580078>)
+20:14:39.015 [VehicleDeleted] ExpansionUh1h_Medical (id=1424F2B03D48525D5223C9BC006314DE pos=<1231.058350, 168.757813, 7566.850586>)
+20:16:39.601 [Chat - Global]("Karen Egiazaryan"(id=HizgKVufhUhCCcUJEu2v50bMpiZ62hsLtVijEOmfB6Q=)): Hi all
+20:16:47.007 [Chat - Global]("Karen Egiazaryan"(id=HizgKVufhUhCCcUJEu2v50bMpiZ62hsLtVijEOmfB6Q=)): Its pvp or pve?
+20:16:49.312 [VehicleDestroyed] ExpansionUh1h_Medical (id=96E173A51E41226B391ADAB2A8D78119 pos=<7924.777344, 169.281998, 11833.877930>)
+22:23:54.312 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Medical
+22:24:04.312 [MissionAirdrop] An airdrop is heading towards "Tarnow" (pos=<9976.000000, 0.000000, 11000.000000> type=Random_Tarnow) with a ExpansionAirdropContainer
+22:38:43.968 [VehicleDeleted] ExpansionUh1h_Medical (id=96E173A51E41226B391ADAB2A8D78119 pos=<7924.468750, 169.264862, 11833.985352>)
+22:40:00.148 [VehicleDestroyed] ExpansionUh1h_Resistance (id=99A230F2244CEEFC8C8456810B42AD08 pos=<7924.731934, 169.315155, 11833.827148>)
+22:41:47.085 [AI Patrol] Spawning 1 Shamans bots at <6549.728516, 168.652969, 10960.722656>
+22:45:54.796 [VehicleDeleted] ExpansionUh1h_Resistance (id=99A230F2244CEEFC8C8456810B42AD08 pos=<7924.566895, 169.313095, 11833.850586>)
+22:47:39.367 [VehicleDestroyed] ExpansionUh1h_Uber (id=2D4D96FE3C47F3E78CBEFA9563FD722C pos=<7924.690430, 169.653809, 11833.604492>)
+22:53:32.328 [VehicleDeleted] ExpansionUh1h_Uber (id=2D4D96FE3C47F3E78CBEFA9563FD722C pos=<7924.250977, 169.346619, 11833.292969>)
+22:55:42.328 [VehicleDestroyed] ExpansionUh1h_Resistance (id=84C9BC709B43FD897753C8BE66CE542E pos=<7924.710938, 169.382401, 11833.718750>)

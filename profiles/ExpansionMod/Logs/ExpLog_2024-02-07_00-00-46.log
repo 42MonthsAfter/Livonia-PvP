@@ -1,0 +1,5 @@
+00:01:07.546 [VehicleDestroyed] ExpansionUh1h_Medical (id=9C2EC5ECC84A151A1CE6D89747F8962A pos=<1230.526978, 168.750977, 7567.033203>)
+00:01:07.766 [VehicleDeleted] ExpansionUh1h_Medical (id=01DEAA02E54A249100008884E597EC1C pos=<1230.526978, 168.750977, 7567.033203>)
+01:33:47.622 [VehicleDestroyed] ExpansionUh1h (id=014843DA1144F5E5EA2138B5E1070781 pos=<7924.917480, 169.412704, 11833.542969>)
+01:38:39.549 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Basebuilding
+01:38:59.547 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer

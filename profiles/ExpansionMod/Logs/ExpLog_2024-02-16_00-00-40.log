@@ -1,0 +1,5 @@
+00:00:55.783 [VehicleDestroyed] ExpansionUh1h_Resistance (id=1648601E5A4885C487FC32BA39DC542F pos=<1230.752930, 168.750381, 7566.974121>)
+00:00:56.039 [VehicleDeleted] ExpansionUh1h_Resistance (id=490AD408854A932799564BB30DF29E46 pos=<1230.752930, 168.750381, 7566.974121>)
+03:33:15.908 [VehicleDestroyed] ExpansionUh1h_Medical (id=243D65BB1E40D024D12B38B99FEB879B pos=<7924.552246, 169.509735, 11834.251953>)
+03:36:56.277 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Medical
+03:37:16.275 [MissionAirdrop] An airdrop is heading towards "NWAF" (pos=<3478.000000, 0.000000, 10130.000000> type=Random_NWAF) with a ExpansionAirdropContainer_Medical

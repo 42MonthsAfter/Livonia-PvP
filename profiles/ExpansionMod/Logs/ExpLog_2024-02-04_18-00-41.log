@@ -1,0 +1,10 @@
+19:38:18.523 [VehicleDestroyed] ExpansionUh1h_Medical (id=A435E33AEA4D2A5FC1FDF5809B4222B2 pos=<7924.635742, 169.623108, 11833.647461>)
+19:41:58.335 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical
+19:42:18.335 [MissionAirdrop] An airdrop is heading towards "Topolin" (pos=<1367.000000, 0.000000, 7057.000000> type=Random_Topolin) with a ExpansionAirdropContainer_Military
+19:44:12.921 [VehicleDeleted] ExpansionUh1h_Medical (id=A435E33AEA4D2A5FC1FDF5809B4222B2 pos=<7924.746582, 169.399857, 11833.459961>)
+19:45:57.625 [VehicleDestroyed] ExpansionUh1h_Uber (id=4EFC3536F84DBF168B2746A3B423A9CB pos=<7924.906250, 169.407196, 11833.565430>)
+19:48:53.429 [AI Patrol] Spawning 1 Shamans bots at <6355.071289, 174.538101, 10982.173828>
+19:51:50.578 [VehicleDeleted] ExpansionUh1h_Uber (id=4EFC3536F84DBF168B2746A3B423A9CB pos=<7924.937988, 169.458420, 11833.513672>)
+19:54:00.890 [VehicleDestroyed] ExpansionUh1h_Uber (id=C7B0C51CDA4140A5D9A046B0E1602556 pos=<7924.734863, 169.399414, 11833.763672>)
+19:59:55.593 [VehicleDeleted] ExpansionUh1h_Uber (id=C7B0C51CDA4140A5D9A046B0E1602556 pos=<7924.563965, 169.304886, 11833.880859>)
+20:01:40.171 [VehicleDestroyed] ExpansionUh1h (id=30FEECCE754ED386CBBA749C86241C75 pos=<7924.830566, 169.351517, 11833.716797>)

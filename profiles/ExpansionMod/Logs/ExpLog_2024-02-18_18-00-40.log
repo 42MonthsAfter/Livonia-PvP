@@ -1,0 +1,15 @@
+18:06:30.144 [VehicleDestroyed] ExpansionUh1h (id=A122F9F45D44CC9062EE9883418EBA23 pos=<1227.701294, 169.339142, 7566.574707>)
+18:11:07.425 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical
+18:11:17.421 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+18:12:24.632 [VehicleDeleted] ExpansionUh1h (id=A122F9F45D44CC9062EE9883418EBA23 pos=<1230.890991, 168.752167, 7566.924805>)
+18:14:09.226 [VehicleDestroyed] ExpansionUh1h_Resistance (id=F2D1F18798438B85EEEC4399B3EC487B pos=<7924.497559, 169.355545, 11833.551758>)
+19:22:09.164 [VehicleDeleted] ExpansionUh1h_Resistance (id=F2D1F18798438B85EEEC4399B3EC487B pos=<7924.788086, 169.388229, 11833.702148>)
+19:55:33.906 [VehicleDestroyed] ExpansionUh1h_Uber (id=94557BC1E448844DF08121A1E6C23178 pos=<1227.718872, 169.338806, 7566.581543>)
+19:55:35.421 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+19:55:55.421 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer
+20:01:28.382 [VehicleDeleted] ExpansionUh1h_Uber (id=94557BC1E448844DF08121A1E6C23178 pos=<1230.989380, 168.749863, 7566.902832>)
+20:03:12.968 [VehicleDestroyed] ExpansionUh1h_Uber (id=2D7A9100024F87ED04B7B1A1D424B864 pos=<1227.697388, 169.338974, 7566.572754>)
+20:09:06.101 [VehicleDeleted] ExpansionUh1h_Uber (id=2D7A9100024F87ED04B7B1A1D424B864 pos=<1230.898315, 168.749649, 7566.932129>)
+20:11:16.031 [VehicleDestroyed] ExpansionUh1h_Medical (id=BEA31DAEE8411E98CEB0168492456429 pos=<1227.719360, 169.338959, 7566.580078>)
+20:17:10.437 [VehicleDeleted] ExpansionUh1h_Medical (id=BEA31DAEE8411E98CEB0168492456429 pos=<1231.061401, 168.759140, 7566.844238>)
+20:18:54.968 [VehicleDestroyed] ExpansionUh1h_Medical (id=2540E6997D4A364850A89C940AEFE5B3 pos=<1227.700928, 169.337296, 7566.581543>)

@@ -1,0 +1,25 @@
+18:41:00.820 [VehicleDestroyed] ExpansionUh1h (id=3C2E576CCF4317A46AE954BADA21C70E pos=<1227.719238, 169.338760, 7566.581543>)
+18:45:00.187 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Military
+18:45:30.187 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Medical
+18:46:55.359 [VehicleDeleted] ExpansionUh1h (id=3C2E576CCF4317A46AE954BADA21C70E pos=<1231.109009, 168.749954, 7566.865234>)
+18:48:40.304 [VehicleDestroyed] ExpansionUh1h_Medical (id=AD8BF919CA4DD45471B9908C62BDE1E9 pos=<7924.539551, 169.436966, 11833.886719>)
+20:10:01.390 [VehicleDeleted] ExpansionUh1h_Medical (id=AD8BF919CA4DD45471B9908C62BDE1E9 pos=<7925.181641, 169.071686, 11835.418945>)
+20:11:27.632 [VehicleEnter] Player Deplorable [uid=41LNWyiQAQIXrFoMk6rKGP2InqII08fX7iNhsUqpLl4=] entered vehicle Gunter 2 (id=CC8ABDED1F4657C8127DD1B718E48D27 pos=<8278.402344, 191.151642, 12161.244141>) as driver
+20:11:29.445 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Medical
+20:11:35.132 [VehicleLeave] Player Deplorable [uid=41LNWyiQAQIXrFoMk6rKGP2InqII08fX7iNhsUqpLl4=] left vehicle Gunter 2 (id=CC8ABDED1F4657C8127DD1B718E48D27 pos=<8278.403320, 191.151611, 12161.244141>)
+20:11:39.445 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Military
+20:11:44.500 [VehicleDestroyed] ExpansionUh1h_Uber (id=39C0300820402E9A5AFE44B7CF446A2B pos=<1227.719482, 169.338821, 7566.580078>)
+20:17:38.828 [VehicleDeleted] ExpansionUh1h_Uber (id=39C0300820402E9A5AFE44B7CF446A2B pos=<1231.077026, 168.756546, 7566.849609>)
+20:19:23.453 [VehicleDestroyed] ExpansionUh1h (id=798B623E9B455A93A35E00BE487E2035 pos=<7924.841797, 169.325958, 11834.071289>)
+20:25:43.375 [VehicleDeleted] ExpansionUh1h (id=798B623E9B455A93A35E00BE487E2035 pos=<7924.806641, 169.327454, 11833.978516>)
+20:27:26.460 [VehicleDestroyed] ExpansionUh1h_Uber (id=8DEB6D3E344A75F5DDA212A4168966EF pos=<1227.715820, 169.338608, 7566.580566>)
+20:32:09.156 [VehicleEnter] Player Deplorable [uid=41LNWyiQAQIXrFoMk6rKGP2InqII08fX7iNhsUqpLl4=] entered vehicle Gunter 2 (id=CC8ABDED1F4657C8127DD1B718E48D27 pos=<8278.402344, 191.151642, 12161.244141>) as driver
+20:32:11.585 [VehicleLeave] Player Deplorable [uid=41LNWyiQAQIXrFoMk6rKGP2InqII08fX7iNhsUqpLl4=] left vehicle Gunter 2 (id=CC8ABDED1F4657C8127DD1B718E48D27 pos=<8278.402344, 191.151657, 12161.244141>)
+20:33:20.929 [VehicleDeleted] ExpansionUh1h_Uber (id=8DEB6D3E344A75F5DDA212A4168966EF pos=<1230.922607, 168.750900, 7566.919922>)
+20:35:05.492 [VehicleDestroyed] ExpansionUh1h (id=694E1A6E7D45E565C970FAACDE78BBF2 pos=<7924.714844, 169.320618, 11833.815430>)
+20:40:58.679 [VehicleDeleted] ExpansionUh1h (id=694E1A6E7D45E565C970FAACDE78BBF2 pos=<7924.553711, 169.314758, 11833.833008>)
+20:43:08.781 [VehicleDestroyed] ExpansionUh1h_Uber (id=D8F8DA85F049D0A150CAEAB54F0E779A pos=<1227.719238, 169.338715, 7566.580078>)
+20:43:27.625 [VehicleEnter] Player Deplorable [uid=41LNWyiQAQIXrFoMk6rKGP2InqII08fX7iNhsUqpLl4=] entered vehicle Gunter 2 (id=CC8ABDED1F4657C8127DD1B718E48D27 pos=<8278.402344, 191.151642, 12161.244141>) as driver
+20:43:32.609 [VehicleEngine] Player Deplorable [uid=41LNWyiQAQIXrFoMk6rKGP2InqII08fX7iNhsUqpLl4=] started vehicle Gunter 2 (id=CC8ABDED1F4657C8127DD1B718E48D27 pos=<8278.402344, 191.151657, 12161.244141>)
+20:44:51.734 [VehicleEngine] Player Deplorable [uid=41LNWyiQAQIXrFoMk6rKGP2InqII08fX7iNhsUqpLl4=] stopped vehicle Gunter 2 (id=CC8ABDED1F4657C8127DD1B718E48D27 pos=<8406.396484, 175.596390, 11988.704102>)
+20:44:54.148 [VehicleLeave] Player Deplorable [uid=41LNWyiQAQIXrFoMk6rKGP2InqII08fX7iNhsUqpLl4=] left vehicle Gunter 2 (id=CC8ABDED1F4657C8127DD1B718E48D27 pos=<8406.396484, 175.596497, 11988.698242>)

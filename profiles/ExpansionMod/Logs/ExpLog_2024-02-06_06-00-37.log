@@ -1,0 +1,10 @@
+06:00:53.394 [VehicleDestroyed] ExpansionUh1h_Resistance (id=FDC3B0F6C14714212FFF48A6CF11B3B5 pos=<1233.188477, 168.704636, 7566.634766>)
+06:00:53.669 [VehicleDeleted] ExpansionUh1h_Resistance (id=C02DBB6D4142AF6F5AA63D90E7F0A467 pos=<1233.188477, 168.704636, 7566.634766>)
+10:10:13.246 [VehicleDestroyed] ExpansionUh1h_Uber (id=27DBCD4793451C12BBFE768DA6BAC0B4 pos=<7924.670898, 169.517166, 11833.778320>)
+10:12:09.722 [AI Patrol] Spawning 1 Shamans bots at <6430.410645, 176.732010, 11005.145508>
+10:14:04.113 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Basebuilding
+10:14:24.113 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Military
+10:16:08.000 [VehicleDeleted] ExpansionUh1h_Uber (id=27DBCD4793451C12BBFE768DA6BAC0B4 pos=<7925.252930, 169.060669, 11835.532227>)
+10:17:52.562 [VehicleDestroyed] ExpansionUh1h_Medical (id=F634C37A3742D930D12674AA2B87E15B pos=<7924.913574, 169.409912, 11833.562500>)
+10:23:45.695 [VehicleDeleted] ExpansionUh1h_Medical (id=F634C37A3742D930D12674AA2B87E15B pos=<7924.911621, 169.460587, 11833.482422>)
+10:25:55.882 [VehicleDestroyed] ExpansionUh1h_Medical (id=5F8FCDB1E64CE246D049A181208AC713 pos=<7924.787109, 169.343796, 11833.706055>)
