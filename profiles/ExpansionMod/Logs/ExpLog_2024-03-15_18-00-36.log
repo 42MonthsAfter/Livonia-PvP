@@ -1,0 +1,8 @@
+23:10:21.921 [VehicleDestroyed] ExpansionUh1h (id=7D70047E5F4941FDC57FB29DD33A7134 pos=<7924.671875, 169.328857, 11833.808594>)
+23:11:51.968 [AI Patrol] Spawning 1 Shamans bots at <6452.409668, 174.901566, 11014.147461>
+23:15:33.453 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Military
+23:15:53.453 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Basebuilding
+23:16:16.601 [VehicleDeleted] ExpansionUh1h (id=7D70047E5F4941FDC57FB29DD33A7134 pos=<7921.619629, 168.696793, 11834.015625>)
+23:18:01.179 [VehicleDestroyed] ExpansionUh1h (id=6F276DA8324BCF228810CA80256F7162 pos=<7924.848633, 169.542099, 11833.713867>)
+23:23:53.968 [VehicleDeleted] ExpansionUh1h (id=6F276DA8324BCF228810CA80256F7162 pos=<7924.857422, 169.407532, 11833.585938>)
+23:26:03.968 [VehicleDestroyed] ExpansionUh1h_Resistance (id=053FCB3FD643B85AC8B28C9C4B6C2841 pos=<7924.788086, 169.277267, 11833.965820>)

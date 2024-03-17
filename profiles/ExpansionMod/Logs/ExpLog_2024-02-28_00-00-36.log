@@ -1,0 +1,9 @@
+00:00:52.190 [VehicleDestroyed] ExpansionUh1h_Medical (id=6823C8307246A187D2493287ED4EEE99 pos=<1230.136841, 168.816299, 7566.874023>)
+00:00:52.541 [VehicleDeleted] ExpansionUh1h_Medical (id=F95D1BEF31454435F3B9809EDDD211EB pos=<1230.136841, 168.816299, 7566.874023>)
+02:36:21.826 [VehicleDestroyed] ExpansionUh1h (id=5370CF0FB6420B6BA38AABA87C428E88 pos=<1227.719238, 169.338760, 7566.580078>)
+02:40:02.759 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Military
+02:40:12.757 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer
+03:01:07.079 [VehicleDeleted] ExpansionUh1h (id=5370CF0FB6420B6BA38AABA87C428E88 pos=<1232.886475, 168.647064, 7566.891113>)
+03:02:59.561 [VehicleDestroyed] ExpansionUh1h_Resistance (id=36F02C28AB465A5C9F231CBD402477B6 pos=<1227.713867, 169.339218, 7566.578613>)
+03:08:52.715 [VehicleDeleted] ExpansionUh1h_Resistance (id=36F02C28AB465A5C9F231CBD402477B6 pos=<1231.059692, 168.755630, 7566.858887>)
+03:11:02.931 [VehicleDestroyed] ExpansionUh1h_Uber (id=BE69981D464A3B84A08CD8B2842EAC27 pos=<1227.718994, 169.338669, 7566.580078>)

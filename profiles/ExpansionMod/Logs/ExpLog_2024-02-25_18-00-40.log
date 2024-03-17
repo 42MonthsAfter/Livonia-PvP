@@ -1,0 +1,7 @@
+18:29:42.679 [VehicleDestroyed] ExpansionUh1h (id=CE830AD13144737A28DCD4A6D12A89E4 pos=<7924.534668, 169.578720, 11833.805664>)
+18:33:28.375 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical
+18:33:48.375 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+18:35:37.171 [VehicleDeleted] ExpansionUh1h (id=CE830AD13144737A28DCD4A6D12A89E4 pos=<7924.409668, 169.315140, 11833.566406>)
+18:37:21.710 [VehicleDestroyed] ExpansionUh1h_Uber (id=A3128BE33B4436F629169D82E08DC89A pos=<1227.719360, 169.338699, 7566.581543>)
+19:23:40.734 [VehicleDeleted] ExpansionUh1h_Uber (id=A3128BE33B4436F629169D82E08DC89A pos=<1233.200439, 168.704269, 7566.633301>)
+19:25:23.875 [VehicleDestroyed] ExpansionUh1h_Uber (id=5A15A104FC451CC7BAC640AD00AB5A45 pos=<1227.696411, 169.338974, 7566.572754>)

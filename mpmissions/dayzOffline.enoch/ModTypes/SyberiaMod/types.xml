@@ -897,7 +897,7 @@
     <tag name="shelves" />
   </type>
   <type name="AmpouleZivirol">
-    <nominal>15</nominal>
+    <nominal>25</nominal>
     <lifetime>14400</lifetime>
     <restock>300</restock>
     <min>10</min>
@@ -913,7 +913,6 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
   </type>
   <type name="BakedBeansCan_OpenedRotten">
     <nominal>5</nominal>
@@ -1231,7 +1230,6 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
   </type>
   <type name="ItemHomebook">
     <nominal>5</nominal>

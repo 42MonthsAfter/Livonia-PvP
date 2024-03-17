@@ -1,0 +1,223 @@
+18:57:10.140 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:57:33.984 [VehicleDestroyed] ExpansionUh1h_Medical (id=2E5DA274C643467A3E26659D7A67F970 pos=<7924.611328, 169.380035, 11833.820313>)
+19:01:19.515 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:02:13.906 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+19:02:23.898 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Medical
+19:03:28.640 [VehicleDeleted] ExpansionUh1h_Medical (id=2E5DA274C643467A3E26659D7A67F970 pos=<7924.322754, 169.245789, 11833.875977>)
+19:05:13.171 [VehicleDestroyed] ExpansionUh1h_Medical (id=A81757578348C7D85CDD14B509B8CDE1 pos=<1227.701904, 169.337280, 7566.581543>)
+19:08:20.789 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Misfits" (id=4 ownerUID= ownerName=)
+19:08:20.789 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) created a party named Misfits (MFrs)
+19:09:26.757 [AI Patrol] Spawning 3 Shamans bots at <9236.065430, 201.637543, 10816.560547>
+19:09:30.585 [AI Patrol] Spawning 3 Shamans bots at <9434.597656, 219.279999, 10665.098633>
+19:11:06.726 [VehicleDeleted] ExpansionUh1h_Medical (id=A81757578348C7D85CDD14B509B8CDE1 pos=<1230.875854, 168.751343, 7566.933105>)
+19:13:16.710 [VehicleDestroyed] ExpansionUh1h_Resistance (id=49597B32F44D9101B7E1829998257946 pos=<1227.724854, 169.337112, 7566.589355>)
+19:18:28.554 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+19:19:11.273 [VehicleDeleted] ExpansionUh1h_Resistance (id=49597B32F44D9101B7E1829998257946 pos=<1231.059448, 168.746796, 7566.893066>)
+19:20:55.867 [VehicleDestroyed] ExpansionUh1h_Medical (id=976A54BD77497633E18A848780CFF3DD pos=<1227.701294, 169.337555, 7566.581055>)
+19:26:48.984 [VehicleDeleted] ExpansionUh1h_Medical (id=976A54BD77497633E18A848780CFF3DD pos=<1231.032837, 168.755219, 7566.868164>)
+19:28:58.960 [VehicleDestroyed] ExpansionUh1h_Resistance (id=5DF3235AF44C317B637CCF996910D45E pos=<1227.718750, 169.338760, 7566.581543>)
+19:34:53.406 [VehicleDeleted] ExpansionUh1h_Resistance (id=5DF3235AF44C317B637CCF996910D45E pos=<1231.044189, 168.754501, 7566.867676>)
+19:34:56.906 [Party] Player "Cmal687" (id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:35:40.492 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): Whats up boys. 
+19:35:44.648 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): Capt you leave party?
+19:35:57.609 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): hows it going
+19:36:38.070 [VehicleDestroyed] ExpansionUh1h_Uber (id=665F8D05A844E5D7F0621295C13426FC pos=<1227.717896, 169.338730, 7566.580078>)
+19:36:54.117 [AI Patrol] Spawning 3 Shamans bots at <11298.789063, 325.309814, 3906.887939>
+19:37:24.554 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): getting some scav hunts put together for yall
+19:37:33.054 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): awesome
+19:42:30.984 [VehicleDeleted] ExpansionUh1h_Uber (id=665F8D05A844E5D7F0621295C13426FC pos=<1231.067261, 168.757095, 7566.850586>)
+19:42:40.359 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): Capt why'd you leave party?
+19:43:51.828 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): He was telling me that mike didnt add him to the terr so he couldnt do anything
+19:44:03.000 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): yup jumped in discord
+19:44:40.867 [VehicleDestroyed] ExpansionUh1h (id=72409A401B43431102B6E68852FD009C pos=<7924.892090, 169.350769, 11833.982422>)
+19:48:04.914 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): How do you catch z-virus while sleeping?
+19:50:35.343 [VehicleDeleted] ExpansionUh1h (id=72409A401B43431102B6E68852FD009C pos=<7925.072266, 169.384064, 11833.938477>)
+19:52:19.898 [VehicleDestroyed] ExpansionUh1h_Medical (id=A8B30F7C564FC6DFE4A6F383B3C64890 pos=<1227.712036, 169.338638, 7566.580078>)
+19:53:57.976 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8167.355469, 205.949097, 10900.063477>) as pilot
+19:54:04.390 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8167.355469, 205.948929, 10900.063477>)
+19:58:12.750 [VehicleDeleted] ExpansionUh1h_Medical (id=A8B30F7C564FC6DFE4A6F383B3C64890 pos=<1231.054810, 168.754333, 7566.865234>)
+20:00:22.671 [VehicleDestroyed] ExpansionUh1h_Medical (id=40387AAC364C6E13349EDBA0162A3A3A pos=<7924.721191, 169.342331, 11833.751953>)
+20:06:17.015 [VehicleDeleted] ExpansionUh1h_Medical (id=40387AAC364C6E13349EDBA0162A3A3A pos=<7921.980469, 168.737991, 11834.188477>)
+20:07:17.257 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8167.339844, 205.949539, 10900.125977>) as pilot
+20:07:40.828 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8167.339355, 205.949539, 10900.127930>)
+20:08:01.515 [VehicleDestroyed] ExpansionUh1h_Resistance (id=69A088ADD2414A3F05B029AC7AB5283E pos=<7924.769043, 169.338135, 11833.988281>)
+20:08:41.679 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8229.731445, 211.901276, 10985.752930>)
+20:09:33.429 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8229.745117, 211.895462, 10985.765625>)
+20:10:31.570 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8229.767578, 211.883896, 10985.777344>) as pilot
+20:10:34.148 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8229.768555, 211.883865, 10985.778320>)
+20:10:47.984 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+20:11:31.054 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8190.530273, 208.215149, 10986.825195>)
+20:11:34.226 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8189.139648, 207.160675, 10988.208984>)
+20:12:22.585 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8188.691406, 206.520645, 10988.369141>) as passenger
+20:12:25.539 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] switched seats in vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8188.691406, 206.520645, 10988.369141>) to pilot
+20:12:25.992 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+20:12:30.687 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8188.691406, 206.520645, 10988.369141>)
+20:13:31.406 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8187.192871, 204.954819, 10988.996094>)
+20:13:38.328 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8187.058105, 204.934738, 10988.997070>) as pilot
+20:13:54.414 [VehicleDeleted] ExpansionUh1h_Resistance (id=69A088ADD2414A3F05B029AC7AB5283E pos=<7924.669922, 169.302353, 11833.978516>)
+20:15:07.968 [Territory] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created territory Blue at <8088.857422, 313.418427, 4204.957520>
+20:15:11.203 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8175.999512, 204.179306, 10980.927734>)
+20:16:04.375 [VehicleDestroyed] ExpansionUh1h_Resistance (id=7E22CD80344F64E6EC815BA4D2AFF247 pos=<7924.473633, 169.293137, 11834.060547>)
+20:16:13.148 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8175.986816, 204.178009, 10980.946289>)
+20:18:15.468 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<7409.154297, 188.167297, 11996.233398>)
+20:18:19.203 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<7409.062500, 186.786865, 11996.320313>)
+20:20:08.140 [Territory] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) created territory of the M Frs at <7404.395508, 186.954773, 11996.036133>
+20:20:29.031 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): building a underground base come find it
+20:20:44.429 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): Nice!!
+20:20:46.937 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): any clues?
+20:21:58.648 [VehicleDeleted] ExpansionUh1h_Resistance (id=7E22CD80344F64E6EC815BA4D2AFF247 pos=<7924.786621, 168.989594, 11835.443359>)
+20:23:43.187 [VehicleDestroyed] ExpansionUh1h_Uber (id=4904D15B9C4E9610C8D446927585FB83 pos=<7924.723633, 169.624985, 11833.723633>)
+20:23:55.992 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): onece i get it to work i will post it
+20:24:15.789 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<8083.178711, 313.452362, 4202.045410>) used the Admin Hammer to build Base
+20:28:26.007 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer
+20:28:46.007 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Basebuilding
+20:29:36.000 [VehicleDeleted] ExpansionUh1h_Uber (id=4904D15B9C4E9610C8D446927585FB83 pos=<7924.829102, 169.386322, 11833.586914>)
+20:29:48.296 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): copy
+20:31:45.929 [VehicleDestroyed] ExpansionUh1h_Uber (id=0D35197BC34323348D20498B70428F9A pos=<7924.641113, 169.316971, 11833.776367>)
+20:33:35.593 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): gas lamps? lol
+20:33:52.835 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): ??
+20:35:24.570 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): jerry can of fuel would have been better.
+20:36:39.156 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+20:37:33.695 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+20:37:40.312 [VehicleDeleted] ExpansionUh1h_Uber (id=0D35197BC34323348D20498B70428F9A pos=<7922.303223, 168.921082, 11833.708008>)
+20:39:24.859 [VehicleDestroyed] ExpansionUh1h_Resistance (id=321ADEC2C34E9C8A4EAC50B6CFF31744 pos=<7924.668457, 169.307327, 11833.867188>)
+20:42:51.703 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): i dont know about these things lol
+20:43:08.781 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): Blue Gas Lamps..... it fits LOL
+20:46:54.640 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): :)
+20:49:23.703 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Thats probably enough for now lol
+20:49:46.468 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): dont tell me im spawing shit on you
+21:00:23.828 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+21:06:32.875 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:24:20.617 [VehicleDeleted] ExpansionUh1h_Resistance (id=321ADEC2C34E9C8A4EAC50B6CFF31744 pos=<7922.117676, 168.440720, 11835.714844>)
+21:25:09.906 [VehicleDestroyed] ExpansionUh1h_Resistance (id=0AB79DE1F54B900D7C37A2A04A647401 pos=<1227.719238, 169.338409, 7566.581055>)
+21:30:55.507 [Territory] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) deleted territory of the M Frs at <7404.395508, 186.954773, 11996.036133>
+21:31:04.367 [VehicleDeleted] ExpansionUh1h_Resistance (id=0AB79DE1F54B900D7C37A2A04A647401 pos=<1230.924194, 168.749649, 7566.923340>)
+21:32:48.937 [VehicleDestroyed] ExpansionUh1h_Resistance (id=EDCF7D7E664B6DFAEEF3F383878A431D pos=<7924.615234, 169.364639, 11833.821289>)
+21:37:10.203 [AI Patrol] Spawning 1 Shamans bots at <6538.403809, 174.310532, 11069.374023>
+21:38:41.953 [VehicleDeleted] ExpansionUh1h_Resistance (id=EDCF7D7E664B6DFAEEF3F383878A431D pos=<7924.456055, 169.277115, 11833.854492>)
+21:40:51.890 [VehicleDestroyed] ExpansionUh1h_Resistance (id=46AD0E1D9446146916FBE79F1A859B16 pos=<7924.284180, 169.494293, 11834.026367>)
+21:45:50.468 [Party] Player "Cmal687" (id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:46:07.921 [Party] Player "Cmal687" (id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:46:26.156 [Party] Player "Cmal687" (id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:46:46.195 [VehicleDeleted] ExpansionUh1h_Resistance (id=46AD0E1D9446146916FBE79F1A859B16 pos=<7924.108887, 169.214050, 11833.779297>)
+21:46:52.968 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Misfits" (id=4 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+21:47:03.078 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) invited the player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)to the party named dirty
+21:47:10.335 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:47:54.109 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6569.037109, 184.127762, 11228.958984>) as driver
+21:47:57.890 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6569.037109, 184.127747, 11228.958984>)
+21:48:30.726 [VehicleDestroyed] ExpansionUh1h (id=08FE398FBB41A46B920FD987E31281A6 pos=<7924.696289, 169.591156, 11833.746094>)
+21:49:19.468 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:49:36.953 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:49:55.570 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:49:58.773 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6569.037109, 184.127762, 11228.958984>) as driver
+21:50:01.093 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6569.037109, 184.127762, 11228.958984>)
+21:53:25.171 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6569.037109, 184.127777, 11228.958984>) as driver
+21:53:26.820 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6569.037109, 184.127747, 11228.958984>)
+21:53:41.742 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.117188, 184.285294, 11244.991211>)
+21:54:23.562 [VehicleDeleted] ExpansionUh1h (id=08FE398FBB41A46B920FD987E31281A6 pos=<7924.768555, 169.386673, 11833.538086>)
+21:55:51.117 [MissionAirdrop] An airdrop is heading towards "Brena" (pos=<6692.000000, 0.000000, 11442.000000> type=Random_Brena) with a ExpansionAirdropContainer_Basebuilding
+21:56:11.117 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+21:56:25.125 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.116699, 184.285339, 11244.991211>) as driver
+21:56:27.312 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.116211, 184.285370, 11244.990234>)
+21:56:42.679 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.089844, 184.286957, 11244.986328>)
+21:57:55.781 [VehicleDestroyed] ExpansionUh1h (id=D4B8633585490F8C368E8988C84372CE pos=<7924.659668, 169.549606, 11834.064453>)
+21:58:09.500 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.198242, 184.277390, 11245.061523>) as driver
+21:58:11.476 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.198242, 184.277420, 11245.060547>)
+21:58:33.406 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.179199, 184.278168, 11245.055664>)
+22:00:20.015 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.215820, 184.267578, 11245.197266>) as driver
+22:00:23.421 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.215820, 184.267609, 11245.197266>)
+22:01:11.226 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.207520, 184.274200, 11245.099609>)
+22:02:12.875 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.459961, 184.200073, 11245.253906>) as driver
+22:02:14.625 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6588.459961, 184.200058, 11245.253906>)
+22:02:45.945 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): admin on
+22:03:24.875 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): can you heal us there is an issue with the body markers
+22:03:24.992 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6347.033691, 174.547089, 10977.218750>)
+22:03:48.625 [VehicleDeleted] ExpansionUh1h (id=D4B8633585490F8C368E8988C84372CE pos=<7924.852051, 169.313202, 11833.940430>)
+22:05:48.500 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): i made a ticket also
+22:05:57.296 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): thank you
+22:05:58.554 [VehicleDestroyed] ExpansionUh1h (id=F31F845B414CA7F29E6D44AF62D7D401 pos=<1227.719727, 169.338379, 7566.581055>)
+22:06:30.195 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<11385.471680, 202.231888, 9572.479492>) as pilot
+22:06:44.539 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<11385.471680, 202.231888, 9572.479492>)
+22:06:45.875 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6347.033691, 174.547089, 10977.218750>) as driver
+22:06:48.343 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<6347.033691, 174.547104, 10977.218750>)
+22:09:18.054 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=DC7C1041AA473839964D2B81B69E5CDA pos=<7426.421387, 185.539505, 11991.697266>)
+22:10:30.414 [AI Patrol] Spawning 3 Shamans bots at <11460.970703, 234.633438, 6514.195313>
+22:11:52.343 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<7409.164551, 186.790054, 11996.424805>) as pilot
+22:11:52.859 [VehicleDeleted] ExpansionUh1h (id=F31F845B414CA7F29E6D44AF62D7D401 pos=<1231.075684, 168.752884, 7566.863770>)
+22:11:56.445 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<7409.164551, 186.789993, 11996.424805>)
+22:13:37.421 [VehicleDestroyed] ExpansionUh1h_Uber (id=1057C84B9549C626A230CCA188DFE856 pos=<7924.604492, 169.423431, 11833.811523>)
+22:14:32.210 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7857.008301, 321.209717, 2448.795166>)
+22:14:38.265 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7856.862305, 314.757050, 2448.750000>)
+22:14:40.945 [VehicleAttachments] Player Cmal687 (uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) detached Mh-6 Front-Right Door (type=Expansion_Mh6_Door_1_2) from vehicle Mh-6 Little Bird(id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7856.334473, 314.881927, 2448.523438>)
+22:14:43.140 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7852.698242, 314.906342, 2447.849365>)
+22:14:58.210 [VehicleEnter] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7850.236816, 314.172516, 2448.172607>) as passenger
+22:15:00.507 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7850.237793, 314.172699, 2448.174805>)
+22:15:15.835 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<6358.746094, 175.936783, 10987.506836>)
+22:15:22.937 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<6358.730957, 174.616028, 10987.477539>)
+22:17:02.093 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<10493.761719, 270.634460, 3117.922119>)
+22:17:08.234 [VehicleLeave] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<10493.878906, 270.184082, 3117.974121>)
+22:19:09.500 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<10493.871094, 270.183685, 3117.963379>)
+22:19:15.617 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<10493.870117, 270.184296, 3117.962891>) as pilot
+22:19:30.265 [VehicleDeleted] ExpansionUh1h_Uber (id=1057C84B9549C626A230CCA188DFE856 pos=<7925.118164, 169.054489, 11835.442383>)
+22:19:47.781 [VehicleEnter] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<10493.869141, 270.184235, 3117.961670>) as passenger
+22:19:59.539 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<10493.869141, 270.184235, 3117.961670>)
+22:21:40.210 [VehicleDestroyed] ExpansionUh1h_Medical (id=B7D6403D1F4ABD6C8B40AAAE7F61DDD2 pos=<1227.719238, 169.338715, 7566.581543>)
+22:25:10.164 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6363.835938, 175.935715, 10974.456055>)
+22:25:20.968 [VehicleLeave] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6364.240234, 174.803726, 10974.717773>)
+22:25:45.335 [VehicleEnter] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6364.240723, 174.803833, 10974.718750>) as passenger
+22:26:11.210 [VehicleLeave] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6364.240723, 174.803818, 10974.718750>)
+22:26:13.789 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6364.240723, 174.803726, 10974.718750>)
+22:27:34.484 [VehicleDeleted] ExpansionUh1h_Medical (id=B7D6403D1F4ABD6C8B40AAAE7F61DDD2 pos=<1231.025269, 168.759216, 7566.855469>)
+22:29:19.007 [VehicleDestroyed] ExpansionUh1h_Medical (id=E66D73414D4500A944B82A93C2A012D4 pos=<1227.719727, 169.338699, 7566.581543>)
+22:31:47.671 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<6358.731445, 174.615967, 10987.478516>) as pilot
+22:34:13.687 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6364.142578, 174.803833, 10974.666992>) as pilot
+22:34:16.203 [VehicleEnter] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6364.143066, 174.803833, 10974.666992>) as passenger
+22:34:21.046 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6364.143555, 174.803848, 10974.667969>)
+22:35:11.781 [VehicleDeleted] ExpansionUh1h_Medical (id=E66D73414D4500A944B82A93C2A012D4 pos=<1231.063110, 168.755798, 7566.857422>)
+22:35:17.296 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6432.723145, 175.635300, 10796.100586>)
+22:35:22.492 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6431.064941, 175.225266, 10796.440430>)
+22:35:24.367 [VehicleLeave] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6431.065430, 175.224289, 10796.440430>)
+22:36:34.546 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<6358.731445, 174.615952, 10987.478516>)
+22:37:21.750 [VehicleDestroyed] ExpansionUh1h_Resistance (id=91E8AC178D41B3F4648955B1D4C11FFB pos=<7924.748047, 169.314438, 11833.821289>)
+22:40:27.593 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6431.065430, 175.224243, 10796.439453>) as pilot
+22:40:35.000 [VehicleEnter] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6431.065430, 175.224243, 10796.439453>) as passenger
+22:40:38.445 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<6431.065430, 175.224243, 10796.439453>)
+22:44:37.460 [VehicleDeleted] ExpansionUh1h_Resistance (id=91E8AC178D41B3F4648955B1D4C11FFB pos=<7924.511230, 169.331558, 11833.726563>)
+22:47:36.687 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<8400.658203, 175.546478, 11773.905273>)
+22:47:41.054 [VehicleLeave] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<8400.528320, 174.818268, 11773.940430>)
+22:47:41.781 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<8400.528320, 174.818283, 11773.940430>)
+22:48:09.742 [VehicleDestroyed] ExpansionUh1h_Uber (id=C9D49538384B466DA47E148BB9BCA2CD pos=<1227.717651, 169.338867, 7566.580078>)
+22:48:52.992 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8405.227539, 174.978729, 11776.814453>)
+22:48:55.984 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8405.257813, 174.813278, 11776.742188>)
+22:54:02.851 [VehicleDeleted] ExpansionUh1h_Uber (id=C9D49538384B466DA47E148BB9BCA2CD pos=<1230.976318, 168.751831, 7566.899414>)
+22:56:12.812 [VehicleDestroyed] ExpansionUh1h (id=5732B3AD054074000A6F4CA2BDDE043C pos=<1227.718506, 169.338821, 7566.580078>)
+23:02:07.476 [VehicleDeleted] ExpansionUh1h (id=5732B3AD054074000A6F4CA2BDDE043C pos=<1231.047607, 168.759918, 7566.845703>)
+23:03:52.000 [VehicleDestroyed] ExpansionUh1h (id=DA56AF17D54ABEFF3D1CF186E0D23316 pos=<7924.720703, 169.320877, 11833.812500>)
+23:18:43.328 [VehicleDeleted] ExpansionUh1h (id=DA56AF17D54ABEFF3D1CF186E0D23316 pos=<7922.031738, 168.412872, 11835.772461>)
+23:19:34.078 [VehicleDestroyed] ExpansionUh1h (id=04229A076843840C26E384A92A84A0FC pos=<1227.718628, 169.338882, 7566.580566>)
+23:22:18.195 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Medical
+23:22:58.195 [MissionAirdrop] An airdrop is heading towards "Topolin" (pos=<1367.000000, 0.000000, 7057.000000> type=Random_Topolin) with a ExpansionAirdropContainer_Basebuilding
+23:25:27.218 [VehicleDeleted] ExpansionUh1h (id=04229A076843840C26E384A92A84A0FC pos=<1231.092773, 168.752426, 7566.860352>)
+23:26:28.367 [VehicleEnter] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<8400.528320, 174.818283, 11773.940430>) as passenger
+23:26:33.937 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<8400.528320, 174.818283, 11773.940430>) as pilot
+23:26:43.398 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8405.256836, 174.813446, 11776.742188>) as pilot
+23:27:15.000 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<8400.528320, 174.818283, 11773.940430>)
+23:27:37.179 [VehicleDestroyed] ExpansionUh1h_Resistance (id=799D18B88046DA51BE6F869B2CCF0B99 pos=<1227.719238, 169.338516, 7566.581543>)
+23:27:37.851 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<8405.256836, 174.813477, 11776.742188>)
+23:29:18.679 [AI Patrol] Spawning 3 Shamans bots at <7805.841797, 256.326233, 7856.129395>
+23:33:31.609 [VehicleDeleted] ExpansionUh1h_Resistance (id=799D18B88046DA51BE6F869B2CCF0B99 pos=<1231.065674, 168.755783, 7566.855957>)
+23:34:41.585 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<9133.127930, 256.401031, 383.099884>)
+23:34:47.156 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<9133.193359, 256.307922, 383.076447>)
+23:34:47.796 [VehicleLeave] Player Cmal687 [uid=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<9133.193359, 256.307831, 383.076050>)
+23:35:16.156 [VehicleDestroyed] ExpansionUh1h_Uber (id=A2DC63E1C543B83088FC0493B38FAC2D pos=<7924.888672, 169.399063, 11833.738281>)
+23:35:23.031 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<9147.281250, 258.689056, 382.594696>)
+23:35:31.265 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Mh-6 Little Bird (id=744EE2C95B43086097E753BABDB9F954 pos=<9147.815430, 256.169952, 380.702698>)
+23:41:09.031 [VehicleDeleted] ExpansionUh1h_Uber (id=A2DC63E1C543B83088FC0493B38FAC2D pos=<7924.914551, 169.418304, 11833.671875>)
+23:43:18.976 [VehicleDestroyed] ExpansionUh1h (id=3EF68E34594557C7C37B7285F1323616 pos=<7924.831543, 169.583038, 11833.998047>)
+23:49:13.273 [VehicleDeleted] ExpansionUh1h (id=3EF68E34594557C7C37B7285F1323616 pos=<7925.013184, 169.354797, 11833.878906>)
+23:50:57.796 [VehicleDestroyed] ExpansionUh1h_Uber (id=6D6F4B3C1F40F979978DDDBE9052E7DC pos=<7924.687988, 169.629120, 11833.679688>)
+23:51:27.859 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:56:50.570 [VehicleDeleted] ExpansionUh1h_Uber (id=6D6F4B3C1F40F979978DDDBE9052E7DC pos=<7924.754395, 169.390076, 11833.510742>)
+23:58:00.078 [Party] Player "Cmal687" (id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:58:08.234 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:59:00.507 [VehicleDestroyed] ExpansionUh1h (id=54DE4823984F058F0D5B10936297F92C pos=<7924.459961, 169.471222, 11834.408203>)

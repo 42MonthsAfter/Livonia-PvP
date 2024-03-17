@@ -1,0 +1,39 @@
+00:30:37.016 [AI Patrol] Spawning 1 Shamans bots at <6558.505859, 167.760895, 10977.535156>
+00:30:49.368 [VehicleDestroyed] ExpansionUh1h_Medical (id=ACFC7C9B524E0068767ACB9B43069A56 pos=<7924.935547, 169.404755, 11833.658203>)
+00:34:31.458 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer
+00:34:51.456 [MissionAirdrop] An airdrop is heading towards "Brena" (pos=<6692.000000, 0.000000, 11442.000000> type=Random_Brena) with a ExpansionAirdropContainer
+00:36:44.083 [VehicleDeleted] ExpansionUh1h_Medical (id=ACFC7C9B524E0068767ACB9B43069A56 pos=<7925.030762, 169.439896, 11833.668945>)
+00:38:28.654 [VehicleDestroyed] ExpansionUh1h_Uber (id=FB131E608849EC7643179BB99CEC3DB3 pos=<7924.688965, 169.311508, 11833.849609>)
+00:44:21.816 [VehicleDeleted] ExpansionUh1h_Uber (id=FB131E608849EC7643179BB99CEC3DB3 pos=<7922.640625, 168.738495, 11834.789063>)
+00:46:32.463 [VehicleDestroyed] ExpansionUh1h_Uber (id=098AEC15444AC78CC0631D8BB2B735ED pos=<1227.719238, 169.338745, 7566.581543>)
+00:52:26.962 [VehicleDeleted] ExpansionUh1h_Uber (id=098AEC15444AC78CC0631D8BB2B735ED pos=<1231.065552, 168.753616, 7566.864258>)
+00:54:11.516 [VehicleDestroyed] ExpansionUh1h_Medical (id=C7118932F04B418C27189786DBEE876C pos=<1227.719849, 169.338669, 7566.581543>)
+01:08:00.514 [Party] Player "DirtyMike" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "dddd" (id=0 ownerUID= ownerName=)
+01:08:00.515 [Party] Player "DirtyMike" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created a party named dddd (dddd)
+01:08:05.299 [Party] Player "DirtyMike" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) invited the player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)to the party named dddd
+01:08:17.239 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+01:19:21.794 [VehicleDeleted] ExpansionUh1h_Medical (id=C7118932F04B418C27189786DBEE876C pos=<1233.102783, 168.674942, 7566.750977>)
+01:19:42.540 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+01:20:01.505 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+01:20:29.769 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+01:21:04.853 [VehicleDestroyed] ExpansionUh1h (id=4199AE91BC4101633ACB3E86334A2869 pos=<1227.724609, 169.336990, 7566.589844>)
+01:26:59.383 [VehicleDeleted] ExpansionUh1h (id=4199AE91BC4101633ACB3E86334A2869 pos=<1231.079102, 168.756409, 7566.849121>)
+01:28:44.196 [VehicleDestroyed] ExpansionUh1h_Uber (id=EFA027E1AB4EE5DB1D3E15946C94AD58 pos=<7924.595703, 169.590073, 11833.819336>)
+01:34:37.314 [VehicleDeleted] ExpansionUh1h_Uber (id=EFA027E1AB4EE5DB1D3E15946C94AD58 pos=<7924.688477, 169.351746, 11833.631836>)
+01:36:47.319 [VehicleDestroyed] ExpansionUh1h_Resistance (id=FC7CD7FA3E4946DCE9DAFA976CE2015B pos=<7924.726074, 169.317810, 11833.832031>)
+01:42:41.858 [VehicleDeleted] ExpansionUh1h_Resistance (id=FC7CD7FA3E4946DCE9DAFA976CE2015B pos=<7924.504395, 169.325089, 11833.748047>)
+01:44:26.456 [VehicleDestroyed] ExpansionUh1h_Uber (id=01FB61ECB94799FBA74B6FA911181BC7 pos=<7924.665527, 169.391083, 11833.637695>)
+01:50:19.652 [VehicleDeleted] ExpansionUh1h_Uber (id=01FB61ECB94799FBA74B6FA911181BC7 pos=<7924.672852, 169.390442, 11833.597656>)
+01:52:29.661 [VehicleDestroyed] ExpansionUh1h_Uber (id=04C1F179C3470B7DD23CCEA2BA93DFD6 pos=<7924.799316, 169.346954, 11833.705078>)
+01:55:11.042 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+01:58:24.261 [VehicleDeleted] ExpansionUh1h_Uber (id=04C1F179C3470B7DD23CCEA2BA93DFD6 pos=<7921.202148, 168.611023, 11834.059570>)
+02:00:01.601 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Medical
+02:00:08.958 [VehicleDestroyed] ExpansionUh1h_Resistance (id=F9BFCB10DD406B274465478789FCF80E pos=<1227.714111, 169.338760, 7566.578125>)
+02:00:11.601 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Medical
+02:06:01.837 [VehicleDeleted] ExpansionUh1h_Resistance (id=F9BFCB10DD406B274465478789FCF80E pos=<1231.043823, 168.748062, 7566.892578>)
+02:08:11.984 [VehicleDestroyed] ExpansionUh1h_Resistance (id=CC02027E454621AD9916AA822A0F8387 pos=<7924.479492, 169.464142, 11834.443359>)
+02:12:18.306 [Party] Player "DirtyMike" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "dddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=DirtyMike)
+05:57:20.701 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+05:57:40.701 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Medical
+05:57:48.185 [VehicleDeleted] ExpansionUh1h_Resistance (id=CC02027E454621AD9916AA822A0F8387 pos=<7925.243164, 169.067642, 11835.494141>)
+05:59:05.892 [VehicleDestroyed] ExpansionUh1h_Medical (id=BF3426E22A4C5A466DED548446AB90A1 pos=<7924.917969, 169.411423, 11833.585938>)

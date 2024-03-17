@@ -1,0 +1,5 @@
+08:44:04.730 [VehicleDestroyed] ExpansionUh1h_Uber (id=917DAC61BE415B857A761FBEEA23BE8F pos=<7924.803711, 169.589310, 11833.932617>)
+08:47:57.236 [MissionAirdrop] An airdrop is heading towards "Brena" (pos=<6692.000000, 0.000000, 11442.000000> type=Random_Brena) with a ExpansionAirdropContainer
+08:48:07.232 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Basebuilding
+08:49:59.341 [VehicleDeleted] ExpansionUh1h_Uber (id=917DAC61BE415B857A761FBEEA23BE8F pos=<7924.960938, 169.363495, 11833.796875>)
+08:51:43.867 [VehicleDestroyed] ExpansionUh1h_Uber (id=7C5A62A8DB4029B5D15F118DB6581AE6 pos=<1227.717407, 169.338974, 7566.580078>)

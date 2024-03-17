@@ -1,0 +1,5 @@
+10:31:26.957 [VehicleDestroyed] ExpansionUh1h (id=BCD25C12FD47E6FFB737CBAD4CE50E25 pos=<1227.719971, 169.338394, 7566.581055>)
+10:35:12.437 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+10:35:32.433 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Basebuilding
+10:38:05.789 [VehicleDeleted] ExpansionUh1h (id=BCD25C12FD47E6FFB737CBAD4CE50E25 pos=<1231.193848, 168.753189, 7566.826172>)
+10:39:42.843 [VehicleDestroyed] ExpansionUh1h_Resistance (id=00334E07DA485DD4C36F8A9A5A25AA1F pos=<1227.718628, 169.338898, 7566.580078>)

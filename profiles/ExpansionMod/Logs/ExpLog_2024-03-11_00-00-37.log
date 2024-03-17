@@ -1,0 +1,7 @@
+00:00:53.471 [VehicleDestroyed] ExpansionUh1h_Medical (id=FB03E6D23A4C932DC6628998E4E78028 pos=<7924.544922, 169.354416, 11833.559570>)
+00:00:53.730 [VehicleDeleted] ExpansionUh1h_Medical (id=C53CF41CC14A4BD8B9CB7587225FC57A pos=<7924.544922, 169.354416, 11833.559570>)
+02:04:02.716 [VehicleDestroyed] ExpansionUh1h_Medical (id=E5EF0DF3A54A226072318C86937690F3 pos=<7924.747559, 169.394608, 11833.554688>)
+02:07:43.968 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+02:08:03.966 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+02:09:57.494 [VehicleDeleted] ExpansionUh1h_Medical (id=E5EF0DF3A54A226072318C86937690F3 pos=<7924.853027, 169.435379, 11833.545898>)
+02:11:42.098 [VehicleDestroyed] ExpansionUh1h (id=C6679016104BC4783654B2BA58D69B37 pos=<1227.719360, 169.338959, 7566.580078>)

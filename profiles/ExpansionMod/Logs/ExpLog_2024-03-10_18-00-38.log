@@ -1,0 +1,205 @@
+18:00:54.617 [VehicleDestroyed] ExpansionUh1h_Resistance (id=192C644D9B439191FD9B11B39239FEF2 pos=<1231.018921, 168.753876, 7566.877930>)
+18:00:54.941 [VehicleDeleted] ExpansionUh1h_Resistance (id=7ED09D54A549A9AD06A860B5F46FBE67 pos=<1231.018921, 168.753876, 7566.877930>)
+18:01:31.855 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:02:47.355 [VehicleDestroyed] ExpansionUh1h (id=0EB6F629E5455D498BA5BEB45D0F4B0E pos=<7924.724609, 169.387207, 11833.777344>)
+18:05:19.933 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:06:35.152 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer
+18:06:45.152 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+18:08:39.753 [Party] Player "Cmal687" (id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:08:41.757 [VehicleDeleted] ExpansionUh1h (id=0EB6F629E5455D498BA5BEB45D0F4B0E pos=<7925.112305, 169.061417, 11835.404297>)
+18:10:26.320 [VehicleDestroyed] ExpansionUh1h_Medical (id=2940891D0B41C74CEF3D06BE074F42B2 pos=<1227.718994, 169.338425, 7566.581543>)
+18:14:59.546 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<11597.964844, 187.308777, 9643.853516>) as driver
+18:16:19.664 [VehicleDeleted] ExpansionUh1h_Medical (id=2940891D0B41C74CEF3D06BE074F42B2 pos=<1231.063477, 168.755981, 7566.855957>)
+18:16:32.718 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<11597.964844, 187.308777, 9643.853516>) as passenger
+18:16:45.468 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<11597.964844, 187.308777, 9643.853516>)
+18:18:29.734 [VehicleDestroyed] ExpansionUh1h_Medical (id=4097A1CFD14FE906EB9AF488347E23E1 pos=<7924.379395, 169.435638, 11834.465820>)
+18:19:44.875 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<11800.668945, 223.199280, 7526.833496>)
+18:19:45.726 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<11800.668945, 223.199280, 7526.833008>)
+18:21:22.234 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Land Rover Defender Back- Right Door (type=Expansion_Landrover_Right) from vehicle Land Rover Defender(id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<11800.670898, 223.198837, 7526.854004>)
+18:21:38.218 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Land Rover Defender Back-Left Door (type=Expansion_Landrover_Left) from vehicle Land Rover Defender(id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<11800.670898, 223.198837, 7526.854004>)
+18:21:50.421 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<11800.670898, 223.198837, 7526.854004>) as driver
+18:21:52.562 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<11800.670898, 223.198853, 7526.854004>) as passenger
+18:23:50.757 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10054.900391, 311.358307, 7247.080566>)
+18:24:24.414 [VehicleDeleted] ExpansionUh1h_Medical (id=4097A1CFD14FE906EB9AF488347E23E1 pos=<7925.079590, 168.986374, 11835.720703>)
+18:26:09.039 [VehicleDestroyed] ExpansionUh1h_Uber (id=C79058B38D491B2058CB2BB2A706011F pos=<7924.854980, 169.313919, 11834.124023>)
+18:26:22.781 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10019.988281, 311.999420, 7264.580566>)
+18:32:02.085 [VehicleDeleted] ExpansionUh1h_Uber (id=C79058B38D491B2058CB2BB2A706011F pos=<7924.961914, 169.330978, 11834.088867>)
+18:34:12.109 [VehicleDestroyed] ExpansionUh1h_Medical (id=73A260850E402D9B039A8184894763DD pos=<7924.625000, 169.562393, 11833.800781>)
+18:34:23.789 [BaseRaiding] ExpansionWall6x3 (<10506.595703, 270.196167, 3114.347412>) Code set by player "Cmal687" (ID = "p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=" at <10506.660156, 270.196075, 3112.516846>) and the code is 861987
+18:36:25.539 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:36:43.750 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:37:06.937 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:38:09.445 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10019.988281, 311.999420, 7264.580566>) as driver
+18:38:10.695 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10019.988281, 311.999481, 7264.580566>)
+18:40:06.656 [VehicleDeleted] ExpansionUh1h_Medical (id=73A260850E402D9B039A8184894763DD pos=<7925.273438, 169.014954, 11835.763672>)
+18:41:20.414 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:41:39.343 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:41:51.390 [VehicleDestroyed] ExpansionUh1h_Resistance (id=BC66E7B4D84BE6D52A5430A57D71B8CD pos=<1227.719238, 169.338699, 7566.581543>)
+18:41:59.773 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:41:59.773 [AI Patrol] Spawning 3 Shamans bots at <11724.779297, 226.859924, 7607.012207>
+18:42:39.062 [BaseRaiding] ExpansionWall6x3 (<10497.514648, 271.275238, 3140.452637>) Code set by player "Cmal687" (ID = "p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=" at <10497.489258, 271.315216, 3141.970947>) and the code is 861987
+18:43:19.640 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9992.104492, 312.455444, 7201.373047>)
+18:43:22.320 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9992.104492, 312.455444, 7201.373047>)
+18:44:55.093 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9992.104492, 312.455444, 7201.373047>) as driver
+18:44:56.218 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9992.104492, 312.455475, 7201.373047>)
+18:45:12.281 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10026.942383, 311.997314, 7264.927246>)
+18:45:19.843 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10026.942383, 311.997284, 7264.927246>) as driver
+18:46:13.148 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10717.584961, 235.487473, 7236.581055>) as passenger
+18:46:58.187 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10025.156250, 311.836731, 7262.405762>)
+18:47:44.625 [VehicleDeleted] ExpansionUh1h_Resistance (id=BC66E7B4D84BE6D52A5430A57D71B8CD pos=<1231.071289, 168.752319, 7566.868164>)
+18:49:54.687 [VehicleDestroyed] ExpansionUh1h (id=7C5F64FD3048A1EA7D81AD8419033CA9 pos=<1227.700562, 169.337753, 7566.580566>)
+18:50:36.507 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10025.156250, 311.836731, 7262.406250>)
+18:50:51.304 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10025.156250, 311.836700, 7262.405762>) as driver
+18:51:19.234 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<10025.156250, 311.836670, 7262.405762>) as passenger
+18:53:41.757 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9290.750977, 318.188568, 6962.007813>)
+18:54:05.187 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9282.848633, 318.526978, 6958.739258>) as passenger
+18:54:28.820 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9056.093750, 326.860657, 7149.824219>)
+18:54:44.671 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9056.093750, 326.860626, 7149.824219>) as passenger
+18:54:47.484 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9056.093750, 326.860687, 7149.823730>)
+18:54:53.960 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Land Rover Defender Front-Right Door (type=Expansion_Landrover_Codriverdoor) from vehicle Land Rover Defender(id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9056.093750, 326.860657, 7149.824219>)
+18:55:01.671 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9055.791016, 326.868652, 7149.982422>) as passenger
+18:55:27.882 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9016.813477, 322.098206, 7450.679688>)
+18:55:45.453 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9016.813477, 322.098236, 7450.679688>) as passenger
+18:55:49.179 [VehicleDeleted] ExpansionUh1h (id=7C5F64FD3048A1EA7D81AD8419033CA9 pos=<1230.931152, 168.750763, 7566.917480>)
+18:56:52.031 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8863.040039, 316.441803, 6680.246094>)
+18:56:56.703 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8863.040039, 316.441742, 6680.246094>)
+18:57:26.140 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8863.040039, 316.441833, 6680.246094>) as driver
+18:57:33.781 [VehicleDestroyed] ExpansionUh1h_Medical (id=E5C0D20048421E9A780B279F51EBB0A1 pos=<1227.718628, 169.338943, 7566.580078>)
+18:58:05.164 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8903.398438, 308.451782, 6577.693359>)
+18:58:07.929 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8903.398438, 308.451843, 6577.693359>)
+19:03:26.742 [VehicleDeleted] ExpansionUh1h_Medical (id=E5C0D20048421E9A780B279F51EBB0A1 pos=<1231.066650, 168.755280, 7566.857422>)
+19:05:36.742 [VehicleDestroyed] ExpansionUh1h (id=1FEE97958846E74CD566FE91A06E513C pos=<1227.722412, 169.337433, 7566.587891>)
+19:10:15.710 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8903.398438, 308.451843, 6577.693359>) as driver
+19:10:17.796 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8903.398438, 308.451843, 6577.692871>)
+19:10:53.429 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8903.398438, 308.451813, 6577.693359>) as driver
+19:11:04.218 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8903.398438, 308.451813, 6577.693359>)
+19:11:09.515 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8903.518555, 308.449799, 6577.686035>) as passenger
+19:11:31.226 [VehicleDeleted] ExpansionUh1h (id=1FEE97958846E74CD566FE91A06E513C pos=<1231.076538, 168.754089, 7566.858887>)
+19:13:15.804 [VehicleDestroyed] ExpansionUh1h_Resistance (id=B67FA2B2914F3D93CCBCABB453839343 pos=<7924.917969, 169.411499, 11833.585938>)
+19:14:52.625 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<6945.312012, 285.956635, 4617.062988>)
+19:15:00.640 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<6947.279785, 285.891113, 4615.670898>)
+19:19:08.882 [VehicleDeleted] ExpansionUh1h_Resistance (id=B67FA2B2914F3D93CCBCABB453839343 pos=<7924.914063, 169.456741, 11833.501953>)
+19:21:18.875 [VehicleDestroyed] ExpansionUh1h_Resistance (id=DA5A5381D64B719B70F54091B372F7C3 pos=<1227.718994, 169.338531, 7566.581543>)
+19:27:06.710 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:27:13.242 [VehicleDeleted] ExpansionUh1h_Resistance (id=DA5A5381D64B719B70F54091B372F7C3 pos=<1231.078125, 168.752640, 7566.864258>)
+19:28:57.859 [VehicleDestroyed] ExpansionUh1h (id=90CF937F5C444BE01F62FDB9E04CE5A4 pos=<7924.617676, 169.418427, 11833.805664>)
+19:29:41.359 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Land Rover Defender Back- Right Door (type=Expansion_Landrover_Right) from vehicle Land Rover Defender(id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<6947.279297, 285.891296, 4615.670898>)
+19:29:43.875 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<6947.279785, 285.891113, 4615.670898>) as driver
+19:29:51.453 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Land Rover Defender Front-Left Door (type=Expansion_Landrover_Driverdoor) from vehicle Land Rover Defender(id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<6947.279785, 285.891083, 4615.670898>)
+19:29:56.132 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Land Rover Defender Back-Left Door (type=Expansion_Landrover_Left_Grey) from vehicle Land Rover Defender(id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<6947.279785, 285.891144, 4615.670898>)
+19:30:19.390 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<6947.279785, 285.891144, 4615.671387>) as passenger
+19:30:22.304 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<6947.280273, 285.891022, 4615.671387>)
+19:30:46.679 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<7090.968750, 290.629364, 4700.851074>)
+19:31:04.265 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<7090.968750, 290.629364, 4700.851074>) as driver
+19:32:41.710 [AI Patrol] Spawning 3 Shamans bots at <8670.544922, 320.790283, 6394.249512>
+19:33:43.054 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Gunter 2 (id=CA76A377604990A491343BB689BC045F pos=<11398.135742, 183.011551, 9616.526367>) as driver
+19:33:45.132 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Gunter 2 (id=CA76A377604990A491343BB689BC045F pos=<11398.136719, 183.011597, 9616.526367>)
+19:34:18.835 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8918.769531, 317.691132, 6842.156250>)
+19:34:29.273 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8910.564453, 317.636322, 6850.762695>)
+19:34:32.085 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8910.564453, 317.636322, 6850.763184>)
+19:34:51.257 [VehicleDeleted] ExpansionUh1h (id=90CF937F5C444BE01F62FDB9E04CE5A4 pos=<7925.092285, 169.049332, 11835.442383>)
+19:35:35.312 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Medical
+19:35:55.312 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Medical
+19:37:01.257 [VehicleDestroyed] ExpansionUh1h_Resistance (id=F41689502545298C2703FEB7752069E6 pos=<7924.606934, 169.389328, 11833.823242>)
+19:42:55.828 [VehicleDeleted] ExpansionUh1h_Resistance (id=F41689502545298C2703FEB7752069E6 pos=<7924.533203, 169.304855, 11833.795898>)
+19:44:35.984 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=CC945D1BF44F6377CAFFBD8E4836F687 pos=<11245.507813, 185.632355, 9564.591797>) as driver
+19:44:39.250 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=CC945D1BF44F6377CAFFBD8E4836F687 pos=<11245.507813, 185.632370, 9564.591797>)
+19:44:40.414 [VehicleDestroyed] ExpansionUh1h_Resistance (id=27FC71514E488F6F55D194B3144E187C pos=<7924.628906, 169.387329, 11833.809570>)
+19:46:34.156 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8910.564453, 317.636322, 6850.763184>) as driver
+19:46:38.546 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8910.564453, 317.636292, 6850.763184>) as passenger
+19:46:40.640 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8910.564453, 317.636292, 6850.763184>)
+19:48:21.117 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:48:29.046 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8445.114258, 300.197113, 9332.224609>)
+19:48:30.343 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8445.113281, 300.200836, 9332.220703>)
+19:48:40.343 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:49:09.351 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:50:33.546 [VehicleDeleted] ExpansionUh1h_Resistance (id=27FC71514E488F6F55D194B3144E187C pos=<7924.491211, 169.292099, 11833.815430>)
+19:52:43.531 [VehicleDestroyed] ExpansionUh1h (id=FA9921787B4A9C451DE8A59F751A01F1 pos=<7924.720215, 169.322647, 11833.828125>)
+19:54:12.773 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<8445.113281, 300.200958, 9332.224609>)
+19:54:55.375 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9106.729492, 263.867249, 9397.977539>)
+19:56:46.820 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9106.729492, 263.867279, 9397.977539>)
+19:58:38.054 [VehicleDeleted] ExpansionUh1h (id=FA9921787B4A9C451DE8A59F751A01F1 pos=<7924.560547, 169.326706, 11833.785156>)
+19:59:40.960 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9106.729492, 263.867188, 9397.977539>) as driver
+19:59:43.406 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9106.729492, 263.867188, 9397.977539>)
+19:59:53.484 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9142.860352, 261.138550, 9409.795898>)
+19:59:56.265 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9142.860352, 261.138550, 9409.795898>)
+20:00:22.734 [VehicleDestroyed] ExpansionUh1h_Resistance (id=C39CF5423D4279E3ADB6319FDFAD3D0C pos=<7924.870605, 169.296921, 11834.198242>)
+20:01:32.031 [AI Patrol] Spawning 3 Shamans bots at <9404.093750, 219.033081, 10681.010742>
+20:02:31.929 [AI Patrol] Spawning 3 Shamans bots at <9297.357422, 199.924484, 10811.710938>
+20:06:15.804 [VehicleDeleted] ExpansionUh1h_Resistance (id=C39CF5423D4279E3ADB6319FDFAD3D0C pos=<7924.687012, 169.284653, 11834.068359>)
+20:08:25.921 [VehicleDestroyed] ExpansionUh1h (id=5C627C16CC453C0D5B6AFE98E78CC731 pos=<7924.718262, 169.331573, 11833.806641>)
+20:09:43.218 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:10:08.414 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:11:35.421 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:12:05.898 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:14:20.515 [VehicleDeleted] ExpansionUh1h (id=5C627C16CC453C0D5B6AFE98E78CC731 pos=<7924.531250, 169.361740, 11833.609375>)
+20:15:49.218 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9142.860352, 261.138550, 9409.794922>) as passenger
+20:15:52.906 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Land Rover Defender (id=F04BA7C76F4AC912E79D8A9129B5E0A2 pos=<9142.860352, 261.138550, 9409.794922>)
+20:16:05.132 [VehicleDestroyed] ExpansionUh1h_Resistance (id=ED54FD60ED4F39C8A5AF84B8FFCE3A64 pos=<1227.718506, 169.339035, 7566.580566>)
+20:18:58.781 [Territory] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) created territory Of Butt Plug at <9149.389648, 261.449188, 9394.899414>
+20:21:58.531 [VehicleDeleted] ExpansionUh1h_Resistance (id=ED54FD60ED4F39C8A5AF84B8FFCE3A64 pos=<1231.055298, 168.748474, 7566.887695>)
+20:24:08.500 [VehicleDestroyed] ExpansionUh1h_Uber (id=36E463FA764EB255235ECBA715932BF2 pos=<1227.700928, 169.337158, 7566.581055>)
+20:25:23.437 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9152.532227, 261.387451, 9399.402344>) used the Admin Hammer to build wood_base
+20:25:30.226 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9152.532227, 261.387451, 9399.402344>) used the Admin Hammer to build wood_doorframe
+20:25:36.007 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9152.532227, 261.387451, 9399.402344>) used the Admin Hammer to build wood_doorfinished
+20:26:34.828 [BaseRaiding] ExpansionWall6x3 (<9151.398438, 261.449188, 9399.468750>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <9149.987305, 261.489136, 9399.610352>) and the code is 1776
+20:28:00.734 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9134.818359, 261.271851, 9397.827148>) used the Admin Hammer to build wood_base
+20:28:08.507 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9134.818359, 261.271851, 9397.827148>) used the Admin Hammer to build wood_wallframe
+20:28:13.734 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9135.348633, 261.383545, 9397.860352>) used the Admin Hammer to build wood_wallfinished
+20:30:03.156 [VehicleDeleted] ExpansionUh1h_Uber (id=36E463FA764EB255235ECBA715932BF2 pos=<1230.919922, 168.752121, 7566.916016>)
+20:31:47.734 [VehicleDestroyed] ExpansionUh1h (id=556E3CFA88451437C74328A16E086BF1 pos=<1227.718384, 169.338791, 7566.581543>)
+20:37:40.781 [VehicleDeleted] ExpansionUh1h (id=556E3CFA88451437C74328A16E086BF1 pos=<1230.958008, 168.749268, 7566.914551>)
+20:39:50.875 [VehicleDestroyed] ExpansionUh1h_Medical (id=DEFBDA76C14AD50A9F362298CA757E12 pos=<7924.508789, 169.563278, 11833.828125>)
+20:45:45.414 [VehicleDeleted] ExpansionUh1h_Medical (id=DEFBDA76C14AD50A9F362298CA757E12 pos=<7924.431152, 169.313263, 11833.592773>)
+20:45:54.015 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:47:30.007 [VehicleDestroyed] ExpansionUh1h_Uber (id=B68F1979CD4DFCC0D315B0973FFF7AA3 pos=<1227.711304, 169.338608, 7566.577637>)
+20:48:39.585 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:53:23.007 [VehicleDeleted] ExpansionUh1h_Uber (id=B68F1979CD4DFCC0D315B0973FFF7AA3 pos=<1230.898560, 168.750778, 7566.927734>)
+20:55:33.007 [VehicleDestroyed] ExpansionUh1h (id=3A11D4D38F47F1353CA381ACEF779586 pos=<7924.806641, 169.392914, 11833.750000>)
+21:01:25.265 [AI Patrol] Spawning 3 Shamans bots at <9387.512695, 252.942871, 8117.380859>
+21:01:27.546 [VehicleDeleted] ExpansionUh1h (id=3A11D4D38F47F1353CA381ACEF779586 pos=<7924.822754, 169.403137, 11833.663086>)
+21:03:12.132 [VehicleDestroyed] ExpansionUh1h_Medical (id=406FB090DE41EE28FF8859A4997E8C1B pos=<7924.692383, 169.342087, 11833.741211>)
+21:05:49.039 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:06:30.437 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer
+21:06:40.437 [MissionAirdrop] An airdrop is heading towards "Tarnow" (pos=<9976.000000, 0.000000, 11000.000000> type=Random_Tarnow) with a ExpansionAirdropContainer_Military
+21:09:05.226 [VehicleDeleted] ExpansionUh1h_Medical (id=406FB090DE41EE28FF8859A4997E8C1B pos=<7921.824707, 168.695343, 11834.257813>)
+21:11:15.148 [VehicleDestroyed] ExpansionUh1h_Uber (id=65610A77444AA25E6457F58D7229C359 pos=<1227.718872, 169.338715, 7566.580078>)
+21:14:18.406 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:14:36.445 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:14:55.429 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:15:38.007 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) invited the player "Hillbilly" (id=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=)to the party named dirty
+21:17:09.796 [VehicleDeleted] ExpansionUh1h_Uber (id=65610A77444AA25E6457F58D7229C359 pos=<1231.070313, 168.744904, 7566.896973>)
+21:18:54.328 [VehicleDestroyed] ExpansionUh1h_Medical (id=DDC073D6A0488D6F1F7B2D83DFA2F02A pos=<7924.740234, 169.569107, 11833.836914>)
+21:20:51.968 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:21:37.976 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:21:46.914 [Party] Player "Cmal687" (id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:24:47.328 [VehicleDeleted] ExpansionUh1h_Medical (id=DDC073D6A0488D6F1F7B2D83DFA2F02A pos=<7925.095215, 169.455841, 11833.560547>)
+21:26:57.328 [VehicleDestroyed] ExpansionUh1h_Medical (id=5295CBD17C462A6DF5B2549E1D9AA0E3 pos=<7924.580078, 169.427460, 11833.905273>)
+21:32:51.796 [VehicleDeleted] ExpansionUh1h_Medical (id=5295CBD17C462A6DF5B2549E1D9AA0E3 pos=<7925.174316, 169.067139, 11835.433594>)
+21:34:36.429 [VehicleDestroyed] ExpansionUh1h (id=4BB26C21F14ACC7F09C986A152A2FF84 pos=<7924.889160, 169.404892, 11833.692383>)
+21:40:29.500 [VehicleDeleted] ExpansionUh1h (id=4BB26C21F14ACC7F09C986A152A2FF84 pos=<7924.991211, 169.419312, 11833.726563>)
+21:42:39.460 [VehicleDestroyed] ExpansionUh1h_Uber (id=00F1BE4872454DCBA03E4EBFF9B16C07 pos=<7924.576172, 169.552307, 11834.002930>)
+22:44:20.187 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:44:25.617 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer
+22:44:45.617 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Medical
+22:48:06.484 [VehicleDeleted] ExpansionUh1h_Uber (id=00F1BE4872454DCBA03E4EBFF9B16C07 pos=<7924.791504, 169.309052, 11833.909180>)
+22:51:10.515 [VehicleDestroyed] ExpansionUh1h (id=F4A5106023460479032E33BB47161613 pos=<7924.836426, 169.319885, 11833.833984>)
+22:54:44.656 [Party] Player "Cmal687" (id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:57:05.156 [VehicleDeleted] ExpansionUh1h (id=F4A5106023460479032E33BB47161613 pos=<7923.123047, 169.072479, 11833.797852>)
+22:58:49.804 [VehicleDestroyed] ExpansionUh1h (id=00C66864674329A9BC7C7BB071EFD17B pos=<1227.718750, 169.338791, 7566.581543>)
+23:04:42.679 [VehicleDeleted] ExpansionUh1h (id=00C66864674329A9BC7C7BB071EFD17B pos=<1231.069824, 168.756897, 7566.850586>)
+23:06:52.656 [VehicleDestroyed] ExpansionUh1h_Resistance (id=BF1AE02B41414A29A1D0D2A71C19AC77 pos=<1227.719238, 169.338730, 7566.581543>)
+23:12:47.117 [VehicleDeleted] ExpansionUh1h_Resistance (id=BF1AE02B41414A29A1D0D2A71C19AC77 pos=<1231.090332, 168.755829, 7566.847656>)
+23:14:31.640 [VehicleDestroyed] ExpansionUh1h (id=3666CDCF0148BC66827F69995C89B4B4 pos=<7924.602539, 169.354218, 11833.818359>)
+23:20:24.601 [VehicleDeleted] ExpansionUh1h (id=3666CDCF0148BC66827F69995C89B4B4 pos=<7924.433105, 169.270569, 11833.865234>)
+23:23:56.742 [VehicleDestroyed] ExpansionUh1h_Uber (id=CD99CAE70A48F30DB4BA8F9D6D18397B pos=<7924.549316, 169.444550, 11833.791016>)
+23:28:23.687 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:29:49.640 [VehicleDeleted] ExpansionUh1h_Uber (id=CD99CAE70A48F30DB4BA8F9D6D18397B pos=<7925.109863, 169.051727, 11835.446289>)
+23:31:59.648 [VehicleDestroyed] ExpansionUh1h_Uber (id=AE65BBF7A24343FBA0B107AF8F945227 pos=<7924.640625, 169.314957, 11833.755859>)
+23:37:53.984 [VehicleDeleted] ExpansionUh1h_Uber (id=AE65BBF7A24343FBA0B107AF8F945227 pos=<7924.227539, 169.285004, 11833.695313>)
+23:39:38.515 [VehicleDestroyed] ExpansionUh1h_Resistance (id=E6CB7B1638488DE3E156509888334E52 pos=<7924.632813, 169.379868, 11833.812500>)
+23:45:31.703 [VehicleDeleted] ExpansionUh1h_Resistance (id=E6CB7B1638488DE3E156509888334E52 pos=<7924.334473, 169.247299, 11833.878906>)
+23:47:41.703 [VehicleDestroyed] ExpansionUh1h (id=8EF985BB1E47D471B39B638C5915442F pos=<7924.655762, 169.306122, 11833.976563>)
+23:53:36.203 [VehicleDeleted] ExpansionUh1h (id=8EF985BB1E47D471B39B638C5915442F pos=<7924.498047, 169.300858, 11833.847656>)
+23:55:20.726 [VehicleDestroyed] ExpansionUh1h_Medical (id=C53CF41CC14A4BD8B9CB7587225FC57A pos=<7924.753906, 169.546463, 11833.652344>)
+23:58:22.234 [Party] Player "Cmal687" (id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

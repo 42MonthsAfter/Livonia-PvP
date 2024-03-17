@@ -1,0 +1,5 @@
+04:29:06.103 [VehicleDestroyed] ExpansionUh1h_Resistance (id=AEF3B0CB7245C45D1AF28C906CEC5D04 pos=<1227.719849, 169.338409, 7566.581543>)
+04:34:28.414 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+04:34:54.640 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Military
+04:35:36.255 [VehicleDeleted] ExpansionUh1h_Resistance (id=AEF3B0CB7245C45D1AF28C906CEC5D04 pos=<1231.093628, 168.751450, 7566.864258>)
+04:37:31.822 [VehicleDestroyed] ExpansionUh1h_Resistance (id=6DA8FACECF4FAAFA5C966CB6ADB5A44A pos=<7924.692871, 169.533234, 11834.180664>)

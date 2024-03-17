@@ -1,0 +1,52 @@
+************************** 2024-03-10T22:00:33+00:00 **************************
+2024-03-10T22:00:33+00:00 | [INFO	] GameLabs v1.932 start for server ea79dbbd-fb35-4be8-9351-0cd5594f77c8
+2024-03-10T22:00:39+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-03-10T22:00:39+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-03-10T22:00:39+00:00 | [INFO	] Experimental speed check is enabled
+2024-03-10T22:45:35+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T22:45:40+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T23:00:40+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-10T23:00:40+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-10T23:00:41+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-11T00:00:45+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-11T00:00:45+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-11T00:00:46+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-11T00:06:15+00:00 | [WARN	] [Teleport] SurvivorBase<632b9020> position=0x00000000efb51ca0 {<9179.58,261.606,9388.17>}
+2024-03-11T00:06:16+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-03-11T00:06:16+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-11T00:06:16+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198088929178, distance=261.631u, unitsPerSecond=104.652 [threshold=8, inVehicle=0, triggers=1])
+2024-03-11T00:06:16+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-11T00:06:16+00:00 | [WARN	] ****************************************
+2024-03-11T00:06:35+00:00 | [WARN	] [Spawn] Spawning InjectorZivirol (x1) for SurvivorBase<632b9020>
+2024-03-11T00:06:40+00:00 | [WARN	] [Spawn] Spawning InjectorTopoizomeraza (x1) for SurvivorBase<632b9020>
+2024-03-11T00:15:15+00:00 | [WARN	] [Teleport] SurvivorBase<1d0f9740> position=0x00000000efb51ca0 {<9099.56,263.428,9408.08>}
+2024-03-11T00:15:15+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-03-11T00:15:15+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-11T00:15:15+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198088929178, distance=263.429u, unitsPerSecond=105.372 [threshold=8, inVehicle=0, triggers=1])
+2024-03-11T00:15:15+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-11T00:15:15+00:00 | [WARN	] ****************************************
+2024-03-11T00:17:36+00:00 | [WARN	] [Spawn] Spawning rope (x5) for SurvivorBase<3f0b3020>
+2024-03-11T00:21:50+00:00 | [WARN	] [Spawn] Spawning ExpansionLumber3 (x3) for SurvivorBase<3f0b3020>
+2024-03-11T00:25:15+00:00 | [WARN	] [Spawn] Spawning ExpansionAdminHammer (x1) for SurvivorBase<3f0b3020>
+2024-03-11T00:27:31+00:00 | [WARN	] [Spawn] Spawning ExpansionWallKit (x6) for SurvivorBase<3f0b3020>
+2024-03-11T01:00:50+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-11T01:00:50+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-11T01:00:51+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-11T01:28:30+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T01:28:35+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T01:28:40+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T01:40:45+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T01:40:50+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T01:40:55+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T01:41:00+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T02:00:56+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-11T02:00:56+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-11T02:00:56+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-11T02:59:31+00:00 | [WARN	] [Heal] SurvivorBase<30ea3010>
+2024-03-11T02:59:36+00:00 | [WARN	] [Heal] SurvivorBase<7413d020>
+2024-03-11T03:01:00+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-11T03:01:00+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-11T03:01:00+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-11T03:47:51+00:00 | [WARN	] [Spawn] Spawning SyringeEmpty (x2) for SurvivorBase<30ea3010>
+2024-03-11T04:00:01+00:00 | [INFO	] (Reporter) Disabled
+2024-03-11T04:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

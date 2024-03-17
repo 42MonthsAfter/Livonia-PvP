@@ -1,0 +1,68 @@
+19:40:37.328 [VehicleDestroyed] ExpansionUh1h_Resistance (id=855BE1E1F8472C9A2C012EA3550F8084 pos=<1227.718750, 169.338837, 7566.580566>)
+19:44:14.492 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+19:44:24.492 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+19:46:31.812 [VehicleDeleted] ExpansionUh1h_Resistance (id=855BE1E1F8472C9A2C012EA3550F8084 pos=<1231.083984, 168.753525, 7566.858887>)
+19:48:04.054 [Party] Player "Magpie" (id=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc=) joinded the party "The Boyz" (id=2 ownerUID= ownerName=)
+19:48:04.062 [Party] Player "Magpie" (id=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc=) created a party named The Boyz (BOYZ)
+19:48:09.609 [Party] Player "Magpie" (id=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc=) invited the player "UrMoThEr21" (id=09ykw3xC_1nxH88mnHNVl8XaOM7OWyns-7aajhBC0nc=)to the party named The Boyz
+19:48:16.367 [VehicleDestroyed] ExpansionUh1h_Medical (id=9FC8EBA34F416CDD8E64A394762520C6 pos=<1227.719238, 169.338516, 7566.581543>)
+19:48:20.570 [Party] Player "UrMoThEr21" (id=09ykw3xC_1nxH88mnHNVl8XaOM7OWyns-7aajhBC0nc=) joinded the party "The Boyz" (id=2 ownerUID=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc= ownerName=Magpie)
+19:54:09.484 [VehicleDeleted] ExpansionUh1h_Medical (id=9FC8EBA34F416CDD8E64A394762520C6 pos=<1231.050049, 168.750534, 7566.881836>)
+19:56:19.656 [VehicleDestroyed] ExpansionUh1h_Medical (id=CB9127D21A4363ECE05FCFA6668F8E85 pos=<7924.578125, 169.552841, 11833.993164>)
+20:02:14.085 [VehicleDeleted] ExpansionUh1h_Medical (id=CB9127D21A4363ECE05FCFA6668F8E85 pos=<7924.772949, 169.314026, 11833.871094>)
+20:03:58.695 [VehicleDestroyed] ExpansionUh1h_Uber (id=3417B04EA9473B26328DB089B4F0EA01 pos=<1227.713623, 169.339264, 7566.576172>)
+20:05:10.546 [Party] Player "UrMoThEr21" (id=09ykw3xC_1nxH88mnHNVl8XaOM7OWyns-7aajhBC0nc=) joinded the party "The Boyz" (id=2 ownerUID=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc= ownerName=Magpie)
+20:05:23.671 [Party] Player "Magpie" (id=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc=) joinded the party "The Boyz" (id=2 ownerUID=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc= ownerName=Magpie)
+20:05:31.468 [Party] Player "UrMoThEr21" (id=09ykw3xC_1nxH88mnHNVl8XaOM7OWyns-7aajhBC0nc=) joinded the party "The Boyz" (id=2 ownerUID=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc= ownerName=Magpie)
+20:05:48.765 [Party] Player "Magpie" (id=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc=) joinded the party "The Boyz" (id=2 ownerUID=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc= ownerName=Magpie)
+20:06:15.281 [Party] Player "Magpie" (id=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc=) joinded the party "The Boyz" (id=2 ownerUID=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc= ownerName=Magpie)
+20:06:15.281 [AI Patrol] Spawning 3 Shamans bots at <12032.939453, 302.239532, 5249.733398>
+20:06:15.445 [Party] Player "UrMoThEr21" (id=09ykw3xC_1nxH88mnHNVl8XaOM7OWyns-7aajhBC0nc=) joinded the party "The Boyz" (id=2 ownerUID=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc= ownerName=Magpie)
+20:09:51.828 [VehicleDeleted] ExpansionUh1h_Uber (id=3417B04EA9473B26328DB089B4F0EA01 pos=<1231.074341, 168.746155, 7566.890625>)
+20:12:01.968 [VehicleDestroyed] ExpansionUh1h_Resistance (id=0B055DD6B24318CA2978BAAD05004EAB pos=<7924.597168, 169.533066, 11834.086914>)
+20:17:56.390 [VehicleDeleted] ExpansionUh1h_Resistance (id=0B055DD6B24318CA2978BAAD05004EAB pos=<7924.783203, 169.300247, 11833.947266>)
+20:19:40.921 [VehicleDestroyed] ExpansionUh1h_Uber (id=1C5F30EF9D49F39E66E7F3A0D8AC0A0D pos=<1227.695557, 169.339096, 7566.573242>)
+20:25:34.593 [VehicleDeleted] ExpansionUh1h_Uber (id=1C5F30EF9D49F39E66E7F3A0D8AC0A0D pos=<1230.923218, 168.756027, 7566.899414>)
+20:27:44.546 [VehicleDestroyed] ExpansionUh1h (id=E818FDCCA94EAF1E6B47B5BF71524A9C pos=<7924.840820, 169.259155, 11834.324219>)
+20:33:39.031 [VehicleDeleted] ExpansionUh1h (id=E818FDCCA94EAF1E6B47B5BF71524A9C pos=<7924.834473, 169.274902, 11834.233398>)
+20:35:23.554 [VehicleDestroyed] ExpansionUh1h_Uber (id=D3F035C9FE49EEE0D1DEBABCA367CA9A pos=<7924.758789, 169.653824, 11833.653320>)
+20:37:09.070 [Party] Player "UrMoThEr21" (id=09ykw3xC_1nxH88mnHNVl8XaOM7OWyns-7aajhBC0nc=) left the party "The Boyz" (id=2 ownerUID=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc= ownerName=Magpie)
+20:40:49.070 [Party] Player "Magpie" (id=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc=) left the party "The Boyz" (id=2 ownerUID=14pOSV-7TNWTuMh4-6ZJrGQZxzaIkioCfz-JGCapiQc= ownerName=Magpie)
+20:41:16.687 [VehicleDeleted] ExpansionUh1h_Uber (id=D3F035C9FE49EEE0D1DEBABCA367CA9A pos=<7924.699219, 169.390533, 11833.464844>)
+21:06:26.570 [VehicleDestroyed] ExpansionUh1h (id=80AFB59C39496B9137337E8824D0E83B pos=<1227.718994, 169.338638, 7566.580078>)
+21:11:56.664 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Basebuilding
+21:12:16.664 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+21:12:21.015 [VehicleDeleted] ExpansionUh1h (id=80AFB59C39496B9137337E8824D0E83B pos=<1231.089722, 168.753510, 7566.857910>)
+21:14:05.546 [VehicleDestroyed] ExpansionUh1h (id=CF71E1A79445C7DB487E0DA573F2E78B pos=<1227.706055, 169.339249, 7566.576660>)
+21:15:44.421 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): Whats up?
+21:16:00.953 [Chat - Global]("Narrator"(id=Y1l8FAi9yTw0fUBY7U6OH26J2zUaDkQhTvMj-JyTII8=)): hi
+21:16:13.343 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): great to see someone else on here
+21:17:27.554 [Chat - Global]("Narrator"(id=Y1l8FAi9yTw0fUBY7U6OH26J2zUaDkQhTvMj-JyTII8=)): holy hells
+21:17:35.867 [Chat - Global]("Narrator"(id=Y1l8FAi9yTw0fUBY7U6OH26J2zUaDkQhTvMj-JyTII8=)): big ass bomb just went off
+21:18:29.187 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): thatll happen
+21:19:58.414 [VehicleDeleted] ExpansionUh1h (id=CF71E1A79445C7DB487E0DA573F2E78B pos=<1230.888794, 168.751923, 7566.926270>)
+21:20:27.359 [Chat - Global]("Narrator"(id=Y1l8FAi9yTw0fUBY7U6OH26J2zUaDkQhTvMj-JyTII8=)): cant tell if it was gas or not's the issue
+21:21:21.703 [Chat - Global]("Narrator"(id=Y1l8FAi9yTw0fUBY7U6OH26J2zUaDkQhTvMj-JyTII8=)): goddamn another one
+21:23:30.742 [VehicleDestroyed] ExpansionUh1h_Medical (id=36D3C768C4414795B4C6C89DA5CCEA62 pos=<7924.381836, 169.427658, 11834.535156>)
+21:26:02.710 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): I honestly havne't seen any gassed zones yet. 
+21:26:12.695 [Chat - Global]("Narrator"(id=Y1l8FAi9yTw0fUBY7U6OH26J2zUaDkQhTvMj-JyTII8=)): i cant s
+21:26:13.718 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): I think it doesnt last long
+21:26:19.500 [Chat - Global]("Narrator"(id=Y1l8FAi9yTw0fUBY7U6OH26J2zUaDkQhTvMj-JyTII8=)): i cant see shit
+21:26:39.273 [Chat - Global]("Narrator"(id=Y1l8FAi9yTw0fUBY7U6OH26J2zUaDkQhTvMj-JyTII8=)): currentlygettinmg rained on in the outskirts of gieraltow
+21:27:18.531 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): you going for the drops?
+21:27:32.906 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): anddd i just got Z virus...
+21:28:31.593 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): this syberia mod is a bitch
+21:29:23.617 [VehicleDeleted] ExpansionUh1h_Medical (id=36D3C768C4414795B4C6C89DA5CCEA62 pos=<7925.002441, 168.988052, 11835.639648>)
+21:30:11.835 [Chat - Global]("Narrator"(id=Y1l8FAi9yTw0fUBY7U6OH26J2zUaDkQhTvMj-JyTII8=)): i died instantly
+21:30:21.773 [Chat - Global]("Cmal687"(id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=)): gonna F11 and brb
+21:31:33.546 [VehicleDestroyed] ExpansionUh1h (id=651F7A71674231BCD03688B46BF20B24 pos=<7924.707031, 169.365601, 11833.742188>)
+21:37:28.148 [VehicleDeleted] ExpansionUh1h (id=651F7A71674231BCD03688B46BF20B24 pos=<7924.705566, 169.444473, 11833.383789>)
+21:39:20.562 [VehicleDestroyed] ExpansionUh1h (id=D7D8A97DCB4E9CA3C6CA6AAAB0B61CD0 pos=<1227.718384, 169.338455, 7566.581543>)
+21:45:13.585 [VehicleDeleted] ExpansionUh1h (id=D7D8A97DCB4E9CA3C6CA6AAAB0B61CD0 pos=<1230.976196, 168.750412, 7566.904297>)
+21:47:23.625 [VehicleDestroyed] ExpansionUh1h_Medical (id=5EE090FBCB46AB870143C19C6CA23F17 pos=<1227.718384, 169.338608, 7566.581543>)
+21:53:18.296 [VehicleDeleted] ExpansionUh1h_Medical (id=5EE090FBCB46AB870143C19C6CA23F17 pos=<1231.044434, 168.748016, 7566.893066>)
+21:55:02.890 [VehicleDestroyed] ExpansionUh1h_Uber (id=D669A6349647BE36C208E0B6C7B22A1B pos=<7924.412109, 169.535049, 11833.991211>)
+22:00:55.765 [VehicleDeleted] ExpansionUh1h_Uber (id=D669A6349647BE36C208E0B6C7B22A1B pos=<7924.351074, 169.269302, 11833.727539>)
+22:03:05.718 [VehicleDestroyed] ExpansionUh1h (id=B72874752E4F5046329CE480C999BB48 pos=<1227.719116, 169.338364, 7566.581055>)
+22:09:00.109 [VehicleDeleted] ExpansionUh1h (id=B72874752E4F5046329CE480C999BB48 pos=<1231.054443, 168.759766, 7566.843750>)
+22:10:44.757 [VehicleDestroyed] ExpansionUh1h_Resistance (id=5F931804B64EF87375CFD4BD749A1EF6 pos=<7924.369141, 169.513535, 11833.972656>)

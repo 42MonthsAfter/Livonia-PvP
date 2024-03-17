@@ -1,0 +1,85 @@
+************************** 2024-03-10T16:00:31+00:00 **************************
+2024-03-10T16:00:31+00:00 | [INFO	] GameLabs v1.932 start for server ea79dbbd-fb35-4be8-9351-0cd5594f77c8
+2024-03-10T16:00:37+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-03-10T16:00:37+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-03-10T16:00:37+00:00 | [INFO	] Experimental speed check is enabled
+2024-03-10T16:03:18+00:00 | [WARN	] [Spawn] Spawning DeerSteakMeat (x2) for SurvivorBase<d93822f0>
+2024-03-10T16:27:03+00:00 | [WARN	] [Spawn] Spawning Binoculars (x1) for SurvivorBase<d93822f0>
+2024-03-10T16:27:33+00:00 | [WARN	] [Spawn] Spawning M4A1 (x1) for SurvivorBase<d93822f0>
+2024-03-10T16:29:28+00:00 | [WARN	] [Spawn] Spawning Mag_CMAG_30Rnd_Green (x1) for SurvivorBase<d93822f0>
+2024-03-10T16:29:48+00:00 | [WARN	] [Spawn] Spawning Mag_CMAG_30Rnd (x1) for SurvivorBase<d93822f0>
+2024-03-10T16:30:03+00:00 | [WARN	] [Spawn] Spawning M4A1 (x1) for SurvivorBase<c2e27040>
+2024-03-10T16:34:33+00:00 | [WARN	] [Spawn] Spawning MVS_SlingPack_OD (x1) for SurvivorBase<d93822f0>
+2024-03-10T16:41:33+00:00 | [WARN	] [Teleport] SurvivorBase<c8678060> position=0x000000006804fc50 {<1462.68,416.47,2715.91>}
+2024-03-10T16:41:34+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-03-10T16:41:34+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T16:41:34+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198940915030, distance=416.47u, unitsPerSecond=166.588 [threshold=8, inVehicle=0, triggers=1])
+2024-03-10T16:41:34+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T16:41:34+00:00 | [WARN	] ****************************************
+2024-03-10T16:41:58+00:00 | [WARN	] [Teleport] SurvivorBase<d93822f0> position=0x000000006804fc50 {<1329.61,412.857,2777.68>}
+2024-03-10T16:42:00+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-03-10T16:42:00+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T16:42:00+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199521855408, distance=412.857u, unitsPerSecond=165.143 [threshold=8, inVehicle=0, triggers=1])
+2024-03-10T16:42:00+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T16:42:00+00:00 | [WARN	] ****************************************
+2024-03-10T16:42:58+00:00 | [WARN	] [Spawn] Spawning MVS_SlingPack_OD (x1) for SurvivorBase<c8678060>
+2024-03-10T17:00:38+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-10T17:00:38+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-10T17:00:38+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-10T17:01:23+00:00 | [WARN	] [Teleport] SurvivorBase<d93822f0> position=0x000000006804fc50 {<11679.8,250.393,7256.37>}
+2024-03-10T17:01:25+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-03-10T17:01:25+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T17:01:25+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199521855408, distance=250.393u, unitsPerSecond=100.157 [threshold=8, inVehicle=0, triggers=2])
+2024-03-10T17:01:25+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T17:01:25+00:00 | [WARN	] ****************************************
+2024-03-10T17:18:33+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T17:18:38+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T17:18:43+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T17:22:23+00:00 | [WARN	] [Spawn] Spawning BandageDressing (x2) for SurvivorBase<d93822f0>
+2024-03-10T18:00:43+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-10T18:00:43+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-10T18:00:43+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-10T18:19:33+00:00 | [WARN	] [Spawn] Spawning PetrolLighter (x1) for SurvivorBase<74f73a90>
+2024-03-10T18:19:43+00:00 | [WARN	] [Spawn] Spawning TunaCan (x5) for SurvivorBase<74f73a90>
+2024-03-10T18:20:03+00:00 | [WARN	] [Spawn] Spawning WaterBottle (x2) for SurvivorBase<74f73a90>
+2024-03-10T18:21:38+00:00 | [WARN	] [Spawn] Spawning Firewood (x3) for SurvivorBase<74f73a90>
+2024-03-10T19:00:48+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-10T19:00:48+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-10T19:00:49+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-10T19:20:23+00:00 | [WARN	] [Spawn] Spawning InjectorZivirol (x2) for SurvivorBase<e49e78b0>
+2024-03-10T19:20:33+00:00 | [WARN	] [Spawn] Spawning InjectorTopoizomeraza (x2) for SurvivorBase<e49e78b0>
+2024-03-10T19:20:54+00:00 | [WARN	] [Spawn] Spawning InjectorZivirol (x4) for SurvivorBase<e25af9c0>
+2024-03-10T19:36:18+00:00 | [WARN	] [Teleport] SurvivorBase<a9a35020> position=0x000000006804fc50 {<9833.66,304.22,7163.36>}
+2024-03-10T19:36:19+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-03-10T19:36:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T19:36:19+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198060592768, distance=304.22u, unitsPerSecond=121.688 [threshold=8, inVehicle=0, triggers=1])
+2024-03-10T19:36:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T19:36:19+00:00 | [WARN	] ****************************************
+2024-03-10T19:38:13+00:00 | [WARN	] [Spawn] Spawning MVS_SlingPack_OD (x1) for SurvivorBase<a9a35020>
+2024-03-10T20:00:49+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-10T20:00:49+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-10T20:00:50+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-10T20:02:28+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T20:02:33+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T20:13:28+00:00 | [WARN	] [Teleport] SurvivorBase<cdd7f030> position=0x000000006804fc50 {<9799.39,209.41,8510.13>}
+2024-03-10T20:13:30+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-03-10T20:13:30+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T20:13:30+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198088929178, distance=209.41u, unitsPerSecond=83.764 [threshold=8, inVehicle=0, triggers=1])
+2024-03-10T20:13:30+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T20:13:30+00:00 | [WARN	] ****************************************
+2024-03-10T20:21:03+00:00 | [WARN	] [Heal] SurvivorBase<cdd7f030>
+2024-03-10T20:21:08+00:00 | [WARN	] [Heal] SurvivorBase<969bcdb0>
+2024-03-10T20:21:14+00:00 | [WARN	] [Heal] SurvivorBase<a9a35020>
+2024-03-10T20:21:19+00:00 | [WARN	] [Heal] SurvivorBase<74f73a90>
+2024-03-10T20:21:19+00:00 | [WARN	] [Heal] SurvivorBase<e25af9c0>
+2024-03-10T20:23:59+00:00 | [WARN	] [Spawn] Spawning InjectorZivirol (x6) for SurvivorBase<74f73a90>
+2024-03-10T20:24:13+00:00 | [WARN	] [Weather] Updating weather (sunny/clear)
+2024-03-10T20:25:08+00:00 | [WARN	] [Weather] Updating weather (sunny/clear)
+2024-03-10T20:26:49+00:00 | [WARN	] [Spawn] Spawning M16A2 (x4) for SurvivorBase<74f73a90>
+2024-03-10T20:45:53+00:00 | [WARN	] [Spawn] Spawning Expansion_Landrover (x1) for SurvivorBase<74f73a90>
+2024-03-10T21:00:54+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-10T21:00:54+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-10T21:00:54+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-10T21:01:09+00:00 | [WARN	] [ObjectDelete] Deleting object TerritoryFlag<566dd2a0>
+2024-03-10T22:00:01+00:00 | [INFO	] (Reporter) Disabled
+2024-03-10T22:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

@@ -1,0 +1,29 @@
+18:08:08.402 [VehicleDestroyed] ExpansionUh1h_Medical (id=5C0B1B6735444E61DDBAE49E5327C197 pos=<7924.791504, 169.575043, 11833.817383>)
+18:11:47.210 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Military
+18:12:47.210 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer
+18:13:22.320 [Party] Player "Toast" (id=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI=) joinded the party "4SKiN" (id=1 ownerUID= ownerName=)
+18:13:22.320 [Party] Player "Toast" (id=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI=) created a party named 4SKiN (4SKiN)
+18:13:31.031 [Party] Player "Toast" (id=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI=) invited the player "EraticVengaence" (id=QHpgWlngtg3apfdkMOzMe7bhxNPFjAf3jl08A-HU6f0=)to the party named 4SKiN
+18:13:36.234 [Party] Player "EraticVengaence" (id=QHpgWlngtg3apfdkMOzMe7bhxNPFjAf3jl08A-HU6f0=) joinded the party "4SKiN" (id=1 ownerUID=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI= ownerName=Toast)
+18:14:03.078 [VehicleDeleted] ExpansionUh1h_Medical (id=5C0B1B6735444E61DDBAE49E5327C197 pos=<7924.461426, 169.311172, 11833.655273>)
+18:15:47.640 [VehicleDestroyed] ExpansionUh1h_Uber (id=2905A97D404D723A56C086B20BA0FCEE pos=<7924.808594, 169.263657, 11834.293945>)
+18:15:56.015 [Party] Player "EraticVengaence" (id=QHpgWlngtg3apfdkMOzMe7bhxNPFjAf3jl08A-HU6f0=) joinded the party "4SKiN" (id=1 ownerUID=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI= ownerName=Toast)
+18:16:16.539 [Party] Player "EraticVengaence" (id=QHpgWlngtg3apfdkMOzMe7bhxNPFjAf3jl08A-HU6f0=) joinded the party "4SKiN" (id=1 ownerUID=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI= ownerName=Toast)
+18:16:36.757 [Party] Player "EraticVengaence" (id=QHpgWlngtg3apfdkMOzMe7bhxNPFjAf3jl08A-HU6f0=) joinded the party "4SKiN" (id=1 ownerUID=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI= ownerName=Toast)
+18:21:41.039 [VehicleDeleted] ExpansionUh1h_Uber (id=2905A97D404D723A56C086B20BA0FCEE pos=<7924.680664, 169.262848, 11834.161133>)
+18:23:51.015 [VehicleDestroyed] ExpansionUh1h (id=9A9C6DC0A1461DE460985C93B3B6E6AE pos=<7924.731445, 169.317764, 11833.833008>)
+18:29:45.531 [VehicleDeleted] ExpansionUh1h (id=9A9C6DC0A1461DE460985C93B3B6E6AE pos=<7924.526367, 169.329483, 11833.746094>)
+18:31:30.093 [VehicleDestroyed] ExpansionUh1h (id=A518203A354BA4184A0E99A7F7851F2A pos=<1227.719116, 169.338623, 7566.582031>)
+18:35:33.031 [Party] Player "EraticVengaence" (id=QHpgWlngtg3apfdkMOzMe7bhxNPFjAf3jl08A-HU6f0=) joinded the party "4SKiN" (id=1 ownerUID=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI= ownerName=Toast)
+18:35:51.984 [Party] Player "EraticVengaence" (id=QHpgWlngtg3apfdkMOzMe7bhxNPFjAf3jl08A-HU6f0=) joinded the party "4SKiN" (id=1 ownerUID=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI= ownerName=Toast)
+18:36:19.648 [Party] Player "EraticVengaence" (id=QHpgWlngtg3apfdkMOzMe7bhxNPFjAf3jl08A-HU6f0=) joinded the party "4SKiN" (id=1 ownerUID=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI= ownerName=Toast)
+18:37:23.406 [VehicleDeleted] ExpansionUh1h (id=A518203A354BA4184A0E99A7F7851F2A pos=<1231.041382, 168.756332, 7566.861328>)
+18:39:33.453 [VehicleDestroyed] ExpansionUh1h_Uber (id=9F919FBE6C44C4FFE3F6F0A0530A6B8A pos=<1227.719482, 169.338470, 7566.581543>)
+18:45:28.023 [VehicleDeleted] ExpansionUh1h_Uber (id=9F919FBE6C44C4FFE3F6F0A0530A6B8A pos=<1231.052368, 168.758759, 7566.848633>)
+18:47:12.546 [VehicleDestroyed] ExpansionUh1h (id=BDA36AD9A2457E624A2BACB7023E2BCC pos=<7924.389160, 169.457153, 11834.410156>)
+18:48:59.281 [Party] Player "EraticVengaence" (id=QHpgWlngtg3apfdkMOzMe7bhxNPFjAf3jl08A-HU6f0=) left the party "4SKiN" (id=1 ownerUID=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI= ownerName=Toast)
+18:53:05.570 [VehicleDeleted] ExpansionUh1h (id=BDA36AD9A2457E624A2BACB7023E2BCC pos=<7924.962402, 168.982300, 11835.629883>)
+18:55:15.562 [VehicleDestroyed] ExpansionUh1h_Medical (id=F7E0D14D96453EC38ABAF6BD9F980EE4 pos=<7924.626465, 169.299042, 11833.754883>)
+18:57:12.453 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<5de09470> at <5088.81, 511.37, 2089.03> EXPLOSION range 20 dropoff 5
+18:57:12.453 [Killfeed] Toast was killed by an explosion caused by 6-M7 Frag Grenade.
+18:57:22.812 [Party] Player "Toast" (id=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI=) left the party "4SKiN" (id=1 ownerUID=Smb4bnMu48UJOWVTM8bEWChjPUratrnbXHP_GAo7qpI= ownerName=Toast)

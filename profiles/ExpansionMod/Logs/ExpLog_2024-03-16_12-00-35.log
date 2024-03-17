@@ -1,0 +1,244 @@
+12:00:53.101 [VehicleDestroyed] ExpansionUh1h_Uber (id=00B8BADD2743066D9D6250B1AC5107FC pos=<1228.581543, 169.095398, 7566.225586>)
+12:00:53.328 [VehicleDeleted] ExpansionUh1h_Uber (id=7144342884402F6DF59C6CA2C5580454 pos=<1228.581543, 169.095398, 7566.225586>)
+12:01:41.160 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+12:03:05.503 [VehicleDestroyed] ExpansionUh1h_Medical (id=23FEE8DA284CB682B4530B838749CC92 pos=<7924.831543, 169.306564, 11834.147461>)
+12:06:43.605 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Basebuilding
+12:06:53.605 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Military
+12:08:59.953 [VehicleDeleted] ExpansionUh1h_Medical (id=23FEE8DA284CB682B4530B838749CC92 pos=<7924.828613, 169.311859, 11834.066406>)
+12:10:20.832 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<9160.839844, 261.337463, 9394.497070>) as pilot
+12:10:44.484 [VehicleDestroyed] ExpansionUh1h_Medical (id=7B648BEDD94E533762524E826BF1FA25 pos=<7924.398438, 169.459549, 11834.426758>)
+12:10:56.300 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<9160.833008, 261.337799, 9394.498047>)
+12:13:06.476 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7885.597656, 334.435974, 9872.356445>)
+12:13:14.312 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7886.044434, 330.041260, 9872.001953>)
+12:16:37.785 [VehicleDeleted] ExpansionUh1h_Medical (id=7B648BEDD94E533762524E826BF1FA25 pos=<7925.111816, 169.005646, 11835.660156>)
+12:18:47.804 [VehicleDestroyed] ExpansionUh1h_Resistance (id=EF2098E17C465A20E52ED39EE7432296 pos=<1227.718750, 169.338333, 7566.581543>)
+12:20:37.953 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7886.044922, 330.041260, 9872.002930>) as pilot
+12:20:39.871 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7886.044922, 330.041260, 9872.002930>)
+12:21:14.625 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7876.314453, 321.839081, 9815.900391>)
+12:21:29.937 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Mh-6 Little Bird (id=80BD4A78644BF0B359FA2B99B7F8C86F pos=<7876.197754, 320.630463, 9815.428711>)
+12:21:37.375 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<7883.514648, 320.544037, 9802.189453>) as pilot
+12:21:39.542 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<7883.514648, 320.543762, 9802.189453>)
+12:24:06.546 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<7883.514648, 320.543579, 9802.189453>) as pilot
+12:24:11.714 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<7883.514648, 320.543610, 9802.189453>)
+12:24:18.085 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<7883.514648, 320.543610, 9802.189453>)
+12:24:36.609 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<7883.514648, 320.543610, 9802.189453>) as pilot
+12:24:38.785 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<7883.514648, 320.543579, 9802.189453>)
+12:24:42.378 [VehicleDeleted] ExpansionUh1h_Resistance (id=EF2098E17C465A20E52ED39EE7432296 pos=<1231.075928, 168.751373, 7566.870117>)
+12:26:11.687 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9140.197266, 261.751648, 9390.394531>)
+12:26:15.460 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9140.433594, 261.409119, 9391.840820>)
+12:26:26.953 [VehicleDestroyed] ExpansionUh1h_Uber (id=5D5AC4D75B43F9108AEAF3BDEA8D0E97 pos=<7924.917969, 169.410706, 11833.592773>)
+12:26:55.710 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9151.105469, 262.120728, 9388.414063>)
+12:27:02.769 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9154.023438, 261.623901, 9388.583984>)
+12:32:19.976 [VehicleDeleted] ExpansionUh1h_Uber (id=5D5AC4D75B43F9108AEAF3BDEA8D0E97 pos=<7924.946777, 169.454315, 11833.538086>)
+12:35:52.203 [VehicleDestroyed] ExpansionUh1h (id=AE54968EEC441B2EAA1D429D2A966B76 pos=<7924.637207, 169.299103, 11833.912109>)
+12:41:45.433 [VehicleDeleted] ExpansionUh1h (id=AE54968EEC441B2EAA1D429D2A966B76 pos=<7924.507324, 168.941986, 11835.412109>)
+12:43:55.484 [VehicleDestroyed] ExpansionUh1h_Resistance (id=2777703BE747A10732AE5E94341CDFBC pos=<7924.673340, 169.545868, 11834.060547>)
+12:49:50.363 [VehicleDeleted] ExpansionUh1h_Resistance (id=2777703BE747A10732AE5E94341CDFBC pos=<7924.868652, 169.313629, 11833.952148>)
+12:51:35.031 [VehicleDestroyed] ExpansionUh1h_Resistance (id=3E7863F03C41BC58A2B540955E38AB50 pos=<7924.517578, 169.566162, 11833.828125>)
+12:55:51.968 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+13:01:19.742 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+13:01:53.175 [VehicleDeleted] ExpansionUh1h_Resistance (id=3E7863F03C41BC58A2B540955E38AB50 pos=<7924.223145, 169.300598, 11833.480469>)
+13:03:36.359 [VehicleDestroyed] ExpansionUh1h_Resistance (id=907C386F1D429F726923C5BA98E3616C pos=<1227.718506, 169.339005, 7566.580566>)
+13:07:44.371 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.485352, 265.208496, 9399.348633>) used the Admin Hammer to build wood_base
+13:07:48.710 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.485352, 265.208496, 9399.348633>) used the Admin Hammer to build wood_floorframe
+13:07:52.906 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.485352, 265.208496, 9399.348633>) used the Admin Hammer to build wood_floorfinished
+13:07:58.640 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9148.366211, 265.208588, 9395.867188>) used the Admin Hammer to build wood_base
+13:08:06.875 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9148.366211, 265.208588, 9395.867188>) used the Admin Hammer to build wood_windowframe
+13:08:11.906 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9148.366211, 265.208588, 9395.867188>) used the Admin Hammer to build wood_windowfinished
+13:09:31.250 [VehicleDeleted] ExpansionUh1h_Resistance (id=907C386F1D429F726923C5BA98E3616C pos=<1231.079224, 168.755615, 7566.852051>)
+13:10:41.972 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9140.286133, 261.509796, 9395.940430>) used the Admin Hammer to build wood_base
+13:10:46.144 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9140.286133, 261.509796, 9395.940430>) used the Admin Hammer to build wood_wallframe
+13:10:50.242 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9140.286133, 261.509796, 9395.940430>) used the Admin Hammer to build wood_wallfinished
+13:11:15.812 [VehicleDestroyed] ExpansionUh1h_Uber (id=79CBBE1490440908480262BA8ED0AB8A pos=<1227.717651, 169.339005, 7566.580078>)
+13:14:31.746 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9141.280273, 261.489105, 9404.074219>) used the Admin Hammer to build wood_base
+13:14:38.277 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9141.280273, 261.489105, 9404.074219>) used the Admin Hammer to build wood_wallframe
+13:14:42.445 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9141.280273, 261.489105, 9404.074219>) used the Admin Hammer to build wood_wallfinished
+13:15:29.515 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9137.729492, 265.468475, 9405.539063>) used the Admin Hammer to build wood_base
+13:15:38.250 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9137.729492, 265.468475, 9405.539063>) used the Admin Hammer to build wood_hatchframe
+13:15:43.484 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9137.729492, 265.468475, 9405.539063>) used the Admin Hammer to build wood_hatchfinished
+13:16:23.371 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.564453, 265.636261, 9398.313477>) used the Admin Hammer to build wood_base
+13:16:27.476 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.564453, 265.636261, 9398.313477>) used the Admin Hammer to build wood_floorframe
+13:16:31.472 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.564453, 265.636261, 9398.313477>) used the Admin Hammer to build wood_floorfinished
+13:16:58.109 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9143.106445, 265.704071, 9398.386719>) used the Admin Hammer to build wood_base
+13:17:02.542 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9143.106445, 265.704071, 9398.386719>) used the Admin Hammer to build wood_floorframe
+13:17:07.289 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9143.106445, 265.704071, 9398.386719>) used the Admin Hammer to build wood_floorfinished
+13:17:09.675 [VehicleDeleted] ExpansionUh1h_Uber (id=79CBBE1490440908480262BA8ED0AB8A pos=<1231.074463, 168.758652, 7566.842285>)
+13:17:52.406 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9139.027344, 265.208588, 9403.050781>) used the Admin Hammer to build wood_base
+13:17:58.343 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9139.068359, 265.208588, 9402.969727>) used the Admin Hammer to build wood_support
+13:18:02.335 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9139.068359, 265.208588, 9402.969727>) used the Admin Hammer to build wood_tread
+13:19:19.765 [VehicleDestroyed] ExpansionUh1h_Medical (id=813EB53C77418A4240ECC5B59638DB57 pos=<7924.735352, 169.624481, 11833.721680>)
+13:25:14.507 [VehicleDeleted] ExpansionUh1h_Medical (id=813EB53C77418A4240ECC5B59638DB57 pos=<7924.856445, 169.390579, 11833.588867>)
+13:26:59.058 [VehicleDestroyed] ExpansionUh1h_Resistance (id=94A03DC4F64AC2C7E572A2B836015B70 pos=<1227.714966, 169.339005, 7566.577148>)
+13:28:51.078 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9138.705078, 268.196106, 9403.834961>) used the Admin Hammer to build wood_base
+13:28:55.078 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9138.705078, 268.196106, 9403.834961>) used the Admin Hammer to build wood_floorframe
+13:28:58.406 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9138.705078, 268.196106, 9403.834961>) used the Admin Hammer to build wood_floorfinished
+13:30:45.386 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9154.027344, 261.619781, 9388.583984>) as pilot
+13:30:47.066 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9154.027344, 261.619781, 9388.583984>)
+13:32:00.000 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.708984, 268.546112, 9402.718750>) used the Admin Hammer to build wood_base
+13:32:04.195 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.708984, 268.546112, 9402.718750>) used the Admin Hammer to build wood_floorframe
+13:32:08.335 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.708984, 268.546112, 9402.718750>) used the Admin Hammer to build wood_floorfinished
+13:32:37.781 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Military
+13:32:46.781 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Military
+13:32:52.382 [VehicleDeleted] ExpansionUh1h_Resistance (id=94A03DC4F64AC2C7E572A2B836015B70 pos=<1231.067383, 168.758820, 7566.843750>)
+13:33:48.164 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9149.884766, 268.505371, 9397.727539>) used the Admin Hammer to build wood_base
+13:33:51.796 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9149.884766, 268.505371, 9397.727539>) used the Admin Hammer to build wood_floorframe
+13:33:55.195 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9149.884766, 268.505371, 9397.727539>) used the Admin Hammer to build wood_floorfinished
+13:33:59.500 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9153.038086, 268.505829, 9399.638672>) used the Admin Hammer to build wood_base
+13:34:02.632 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9153.038086, 268.505829, 9399.638672>) used the Admin Hammer to build wood_floorframe
+13:34:11.328 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9153.038086, 268.505829, 9399.638672>) used the Admin Hammer to build wood_floorfinished
+13:34:16.796 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9143.187500, 268.505829, 9395.679688>) used the Admin Hammer to build wood_base
+13:34:57.937 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9143.187500, 268.505829, 9395.679688>) used the Admin Hammer to build wood_floorframe
+13:35:01.472 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9143.187500, 268.505829, 9395.679688>) used the Admin Hammer to build wood_floorfinished
+13:35:02.757 [VehicleDestroyed] ExpansionUh1h_Uber (id=01195E65BD46EC10742CE6926AAD89BF pos=<7924.664063, 169.410904, 11833.812500>)
+13:35:06.597 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9138.909180, 268.505829, 9396.763672>) used the Admin Hammer to build wood_base
+13:35:10.800 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9138.909180, 268.505829, 9396.763672>) used the Admin Hammer to build wood_floorframe
+13:35:13.972 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9138.909180, 268.505829, 9396.763672>) used the Admin Hammer to build wood_floorfinished
+13:36:38.507 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.392578, 268.506195, 9406.176758>) used the Admin Hammer to build wood_base
+13:36:42.167 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.392578, 268.506195, 9406.176758>) used the Admin Hammer to build wood_floorframe
+13:36:45.492 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.392578, 268.506195, 9406.176758>) used the Admin Hammer to build wood_floorfinished
+13:36:49.863 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.373047, 268.506287, 9409.241211>) used the Admin Hammer to build wood_base
+13:36:54.269 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.373047, 268.506287, 9409.241211>) used the Admin Hammer to build wood_floorframe
+13:36:57.679 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.373047, 268.506287, 9409.241211>) used the Admin Hammer to build wood_floorfinished
+13:37:23.996 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9150.590820, 268.507202, 9409.192383>) used the Admin Hammer to build wood_base
+13:37:27.464 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9150.590820, 268.507202, 9409.192383>) used the Admin Hammer to build wood_floorframe
+13:37:30.703 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9150.590820, 268.507202, 9409.192383>) used the Admin Hammer to build wood_floorfinished
+13:40:57.671 [VehicleDeleted] ExpansionUh1h_Uber (id=01195E65BD46EC10742CE6926AAD89BF pos=<7925.094727, 169.051117, 11835.436523>)
+13:42:42.375 [VehicleDestroyed] ExpansionUh1h_Uber (id=6E5110F6604CD16262EC649E62694BD1 pos=<7925.001465, 169.104248, 11834.895508>)
+13:45:21.906 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9140.014648, 268.506287, 9404.476563>) used the Admin Hammer to build wood_base
+13:45:29.707 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9140.014648, 268.506287, 9404.476563>) used the Admin Hammer to build wood_doorframe
+13:45:34.605 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9140.014648, 268.506287, 9404.476563>) used the Admin Hammer to build wood_doorfinished
+13:45:39.433 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9140.884766, 268.506287, 9408.922852>) used the Admin Hammer to build wood_base
+13:45:44.964 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9140.483398, 268.506256, 9409.122070>) used the Admin Hammer to build wood_wallframe
+13:45:50.636 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9140.483398, 268.506256, 9409.122070>) used the Admin Hammer to build wood_wallfinished
+13:46:31.328 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.474609, 268.506165, 9411.742188>) used the Admin Hammer to build wood_base
+13:46:34.972 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.474609, 268.506165, 9411.742188>) used the Admin Hammer to build wood_wallframe
+13:46:40.703 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.495117, 268.506226, 9411.958984>) used the Admin Hammer to build wood_wallfinished
+13:46:46.437 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9148.092773, 268.507172, 9411.368164>) used the Admin Hammer to build wood_base
+13:46:51.734 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9148.144531, 268.507141, 9411.716797>) used the Admin Hammer to build wood_windowframe
+13:46:55.851 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9148.144531, 268.507141, 9411.716797>) used the Admin Hammer to build wood_windowfinished
+13:47:01.398 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.180664, 268.507172, 9411.076172>) used the Admin Hammer to build wood_base
+13:47:05.929 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.180664, 268.507172, 9411.076172>) used the Admin Hammer to build wood_wallframe
+13:47:09.562 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.180664, 268.507172, 9411.076172>) used the Admin Hammer to build wood_wallfinished
+13:47:14.828 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9156.048828, 268.507202, 9410.302734>) used the Admin Hammer to build wood_base
+13:47:20.906 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9156.048828, 268.507202, 9410.302734>) used the Admin Hammer to build wood_windowframe
+13:47:25.265 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9156.498047, 268.507202, 9410.308594>) used the Admin Hammer to build wood_windowfinished
+13:47:30.937 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9155.753906, 268.506714, 9403.962891>) used the Admin Hammer to build wood_base
+13:47:35.242 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9155.753906, 268.506714, 9403.962891>) used the Admin Hammer to build wood_windowframe
+13:47:38.609 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9155.753906, 268.506714, 9403.962891>) used the Admin Hammer to build wood_windowfinished
+13:47:44.769 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9155.257813, 268.505829, 9398.342773>) used the Admin Hammer to build wood_base
+13:47:49.105 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9155.257813, 268.505829, 9398.342773>) used the Admin Hammer to build wood_windowframe
+13:47:52.707 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9155.257813, 268.505829, 9398.342773>) used the Admin Hammer to build wood_windowfinished
+13:47:56.777 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.883789, 268.505829, 9395.713867>) used the Admin Hammer to build wood_base
+13:48:00.234 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.883789, 268.505829, 9395.713867>) used the Admin Hammer to build wood_wallframe
+13:48:06.066 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.883789, 268.505829, 9395.713867>) used the Admin Hammer to build wood_wallfinished
+13:48:13.074 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.275391, 268.505280, 9396.626953>) used the Admin Hammer to build wood_base
+13:48:17.835 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.243164, 268.505249, 9396.179688>) used the Admin Hammer to build wood_windowframe
+13:48:21.675 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.243164, 268.505249, 9396.179688>) used the Admin Hammer to build wood_windowfinished
+13:48:27.335 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9143.157227, 268.511902, 9394.505859>) used the Admin Hammer to build wood_base
+13:48:32.195 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9143.157227, 268.511902, 9394.505859>) used the Admin Hammer to build wood_wallframe
+13:48:36.222 [VehicleDeleted] ExpansionUh1h_Uber (id=6E5110F6604CD16262EC649E62694BD1 pos=<7925.700195, 169.317520, 11834.862305>)
+13:48:36.234 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9143.157227, 268.511902, 9394.505859>) used the Admin Hammer to build wood_wallfinished
+13:48:48.570 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9141.575195, 268.506226, 9390.821289>) used the Admin Hammer to build wood_base
+13:48:52.234 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9141.575195, 268.506226, 9390.821289>) used the Admin Hammer to build wood_wallframe
+13:48:55.632 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9141.575195, 268.506226, 9390.821289>) used the Admin Hammer to build wood_wallfinished
+13:49:00.468 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9139.551758, 268.506287, 9391.358398>) used the Admin Hammer to build wood_base
+13:49:04.703 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9139.551758, 268.506287, 9391.358398>) used the Admin Hammer to build wood_wallframe
+13:49:08.339 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9139.551758, 268.506287, 9391.358398>) used the Admin Hammer to build wood_wallfinished
+13:49:14.335 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9136.091797, 268.691315, 9396.783203>) used the Admin Hammer to build wood_base
+13:49:18.179 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9136.091797, 268.691315, 9396.783203>) used the Admin Hammer to build wood_wallframe
+13:49:21.832 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9136.091797, 268.691315, 9396.783203>) used the Admin Hammer to build wood_wallfinished
+13:49:48.210 [AI Patrol] Spawning 3 Shamans bots at <8576.458008, 307.930634, 9839.247070>
+13:50:46.429 [VehicleDestroyed] ExpansionUh1h_Uber (id=EE88377EFC445D8082698195A6C70931 pos=<7924.612793, 169.288528, 11833.775391>)
+13:56:41.128 [VehicleDeleted] ExpansionUh1h_Uber (id=EE88377EFC445D8082698195A6C70931 pos=<7920.945801, 168.586548, 11833.882813>)
+13:58:25.656 [VehicleDestroyed] ExpansionUh1h_Uber (id=912E7CBF2F4E771D1530378011EDEEB2 pos=<1227.718872, 169.338654, 7566.580078>)
+14:02:14.933 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9133.739258, 268.505768, 9398.522461>) used the Admin Hammer to build wood_base
+14:02:24.773 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9133.739258, 268.505768, 9398.522461>) used the Admin Hammer to build wood_wallframe
+14:02:30.097 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9133.739258, 268.505768, 9398.522461>) used the Admin Hammer to build wood_wallfinished
+14:02:34.671 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9134.357422, 268.505829, 9400.794922>) used the Admin Hammer to build wood_base
+14:02:39.335 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9134.357422, 268.505829, 9400.794922>) used the Admin Hammer to build wood_wallframe
+14:02:42.800 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9134.357422, 268.505829, 9400.794922>) used the Admin Hammer to build wood_wallfinished
+14:04:18.664 [VehicleDeleted] ExpansionUh1h_Uber (id=912E7CBF2F4E771D1530378011EDEEB2 pos=<1231.047241, 168.748474, 7566.889648>)
+14:06:28.789 [VehicleDestroyed] ExpansionUh1h_Uber (id=A08770E915457A03A62BAA9CFD94F012 pos=<1227.719482, 169.338867, 7566.580078>)
+14:12:23.277 [VehicleDeleted] ExpansionUh1h_Uber (id=A08770E915457A03A62BAA9CFD94F012 pos=<1231.069702, 168.754623, 7566.858887>)
+14:14:07.863 [VehicleDestroyed] ExpansionUh1h_Uber (id=246732572D424F73C0F009BCFBB62C93 pos=<1227.718628, 169.339005, 7566.580078>)
+14:20:00.683 [VehicleDeleted] ExpansionUh1h_Uber (id=246732572D424F73C0F009BCFBB62C93 pos=<1231.073608, 168.754257, 7566.859375>)
+14:22:10.746 [VehicleDestroyed] ExpansionUh1h (id=89C42813C646B06B28479282BE9A129D pos=<7924.637207, 169.553848, 11834.041016>)
+14:28:05.820 [VehicleDeleted] ExpansionUh1h (id=89C42813C646B06B28479282BE9A129D pos=<7924.833008, 169.314499, 11833.918945>)
+14:29:50.425 [VehicleDestroyed] ExpansionUh1h_Resistance (id=4318B6C1D54CD6A7C87E87A8417414C7 pos=<7924.539063, 169.431824, 11833.909180>)
+14:31:59.609 [BaseRaiding] ExpansionWall6x3 (<9139.081055, 268.256592, 9404.498047>) Code set by player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <9140.589844, 268.506226, 9404.136719>) and the code is 1776
+14:35:43.437 [VehicleDeleted] ExpansionUh1h_Resistance (id=4318B6C1D54CD6A7C87E87A8417414C7 pos=<7925.124512, 169.046158, 11835.484375>)
+14:37:53.363 [VehicleDestroyed] ExpansionUh1h_Uber (id=3A9A2FAD8A4E7F9CF24847A71EC7D4F5 pos=<7924.605469, 169.602432, 11833.771484>)
+14:43:47.761 [VehicleDeleted] ExpansionUh1h_Uber (id=3A9A2FAD8A4E7F9CF24847A71EC7D4F5 pos=<7924.335938, 169.322144, 11833.477539>)
+14:45:32.332 [VehicleDestroyed] ExpansionUh1h (id=92F02D82A743CAB186AAD98C86023DE3 pos=<1227.714233, 169.339233, 7566.576172>)
+14:51:25.171 [VehicleDeleted] ExpansionUh1h (id=92F02D82A743CAB186AAD98C86023DE3 pos=<1231.061890, 168.755508, 7566.857422>)
+14:53:35.277 [VehicleDestroyed] ExpansionUh1h_Uber (id=91416BBBDC453C85DBD1699A6575BECC pos=<7924.720215, 169.643585, 11833.677734>)
+14:59:27.140 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Basebuilding
+14:59:29.898 [VehicleDeleted] ExpansionUh1h_Uber (id=91416BBBDC453C85DBD1699A6575BECC pos=<7924.318848, 169.339279, 11833.384766>)
+14:59:37.140 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Military
+15:01:14.460 [VehicleDestroyed] ExpansionUh1h_Uber (id=8AA4D11FCE4CC30477090E88A51C83C3 pos=<1227.719238, 169.338974, 7566.580078>)
+15:07:07.468 [VehicleDeleted] ExpansionUh1h_Uber (id=8AA4D11FCE4CC30477090E88A51C83C3 pos=<1231.075562, 168.754608, 7566.857422>)
+15:09:17.570 [VehicleDestroyed] ExpansionUh1h_Resistance (id=A29360CB3340429CB4C01982CEC9D9AB pos=<7924.564941, 169.526291, 11834.191406>)
+15:15:12.175 [VehicleDeleted] ExpansionUh1h_Resistance (id=A29360CB3340429CB4C01982CEC9D9AB pos=<7924.788086, 169.267593, 11834.095703>)
+15:16:56.859 [VehicleDestroyed] ExpansionUh1h_Resistance (id=D1A471F117483628BF604287DDD4EC86 pos=<1227.718872, 169.339035, 7566.580566>)
+15:22:49.824 [VehicleDeleted] ExpansionUh1h_Resistance (id=D1A471F117483628BF604287DDD4EC86 pos=<1231.056641, 168.756714, 7566.855469>)
+15:25:00.109 [VehicleDestroyed] ExpansionUh1h_Medical (id=A8446DB39C453AA6E6127DB5CA47DFE1 pos=<1227.713501, 169.339203, 7566.578125>)
+15:30:54.621 [VehicleDeleted] ExpansionUh1h_Medical (id=A8446DB39C453AA6E6127DB5CA47DFE1 pos=<1231.077148, 168.757675, 7566.844727>)
+15:32:39.148 [VehicleDestroyed] ExpansionUh1h_Resistance (id=7264679B834CA3FDCD4047BC6CF89BCE pos=<1227.719116, 169.338531, 7566.581055>)
+15:38:32.375 [VehicleDeleted] ExpansionUh1h_Resistance (id=7264679B834CA3FDCD4047BC6CF89BCE pos=<1231.055054, 168.752274, 7566.873535>)
+15:40:42.375 [VehicleDestroyed] ExpansionUh1h_Medical (id=D63A18FDA04E91AC7994EE8EFB97005B pos=<7924.692871, 169.311249, 11833.856445>)
+15:43:57.695 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9152.784180, 268.505829, 9397.989258>) used the Admin Hammer to build wood_base
+15:44:01.328 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9152.784180, 268.505829, 9397.989258>) used the Admin Hammer to build wood_floorframe
+15:44:04.671 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9152.784180, 268.505829, 9397.989258>) used the Admin Hammer to build wood_floorfinished
+15:44:11.304 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.102539, 269.104431, 9393.874023>) used the Admin Hammer to build wood_base
+15:44:14.699 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.102539, 269.104431, 9393.874023>) used the Admin Hammer to build wood_floorframe
+15:44:17.804 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.102539, 269.104431, 9393.874023>) used the Admin Hammer to build wood_floorfinished
+15:44:22.664 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9137.483398, 268.505829, 9399.134766>) used the Admin Hammer to build wood_base
+15:44:25.992 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9137.483398, 268.505829, 9399.134766>) used the Admin Hammer to build wood_floorframe
+15:44:30.265 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9137.483398, 268.505829, 9399.134766>) used the Admin Hammer to build wood_floorfinished
+15:45:14.398 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.792969, 268.506744, 9404.368164>) used the Admin Hammer to build wood_base
+15:45:20.601 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.792969, 268.506744, 9404.368164>) used the Admin Hammer to build wood_hatchframe
+15:45:24.195 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.792969, 268.506744, 9404.368164>) used the Admin Hammer to build wood_hatchfinished
+15:45:29.332 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.533203, 268.505341, 9399.933594>) used the Admin Hammer to build wood_base
+15:45:35.996 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.533203, 268.505341, 9399.933594>) used the Admin Hammer to build wood_floorframe
+15:45:39.351 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.533203, 268.505341, 9399.933594>) used the Admin Hammer to build wood_floorfinished
+15:46:23.023 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.598633, 268.505829, 9399.220703>) used the Admin Hammer to build wood_base
+15:46:26.898 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.598633, 268.505829, 9399.220703>) used the Admin Hammer to build wood_floorframe
+15:46:31.167 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.598633, 268.505829, 9399.220703>) used the Admin Hammer to build wood_floorfinished
+15:46:36.863 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.782227, 268.506195, 9404.126953>) used the Admin Hammer to build wood_base
+15:46:37.644 [VehicleDeleted] ExpansionUh1h_Medical (id=D63A18FDA04E91AC7994EE8EFB97005B pos=<7922.967285, 168.556686, 11835.894531>)
+15:46:39.894 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.782227, 268.506195, 9404.126953>) used the Admin Hammer to build wood_floorframe
+15:46:43.191 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9142.782227, 268.506195, 9404.126953>) used the Admin Hammer to build wood_floorfinished
+15:47:27.125 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.321289, 268.506744, 9403.450195>) used the Admin Hammer to build wood_base
+15:47:30.632 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.321289, 268.506744, 9403.450195>) used the Admin Hammer to build wood_floorframe
+15:47:33.796 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.321289, 268.506744, 9403.450195>) used the Admin Hammer to build wood_floorfinished
+15:47:38.269 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.692383, 268.507172, 9407.873047>) used the Admin Hammer to build wood_base
+15:47:42.031 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.692383, 268.507172, 9407.873047>) used the Admin Hammer to build wood_floorframe
+15:47:45.390 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9154.692383, 268.507172, 9407.873047>) used the Admin Hammer to build wood_floorfinished
+15:48:22.628 [VehicleDestroyed] ExpansionUh1h_Medical (id=F3BD7BE28E46983A7720ACB58DD9D17E pos=<1227.719116, 169.338318, 7566.581543>)
+15:48:28.800 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.874023, 268.507141, 9410.346680>) used the Admin Hammer to build wood_base
+15:48:33.031 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.874023, 268.507141, 9410.346680>) used the Admin Hammer to build wood_floorframe
+15:48:36.570 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9147.874023, 268.507141, 9410.346680>) used the Admin Hammer to build wood_floorfinished
+15:48:40.832 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.678711, 268.506287, 9409.734375>) used the Admin Hammer to build wood_base
+15:48:44.058 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.678711, 268.506287, 9409.734375>) used the Admin Hammer to build wood_floorframe
+15:48:47.195 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9144.678711, 268.506287, 9409.734375>) used the Admin Hammer to build wood_floorfinished
+15:49:20.035 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9148.866211, 268.911224, 9402.780273>) used the Admin Hammer to build wood_base
+15:49:27.664 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9148.908203, 268.920227, 9402.733398>) used the Admin Hammer to build wood_support
+15:49:31.164 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9148.956055, 268.963196, 9402.686523>) used the Admin Hammer to build wood_tread
+15:50:14.171 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9136.197266, 268.159485, 9405.250000>) used the Admin Hammer to build wood_base
+15:50:18.929 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9135.645508, 268.159485, 9405.319336>) used the Admin Hammer to build wood_wallframe
+15:50:25.531 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9135.645508, 268.159485, 9405.319336>) used the Admin Hammer to build wood_wallfinished
+15:54:15.695 [VehicleDeleted] ExpansionUh1h_Medical (id=F3BD7BE28E46983A7720ACB58DD9D17E pos=<1231.051758, 168.755554, 7566.861328>)
+15:56:25.687 [VehicleDestroyed] ExpansionUh1h_Medical (id=15FDC0A88941DAB226A27BA4316F812A pos=<1227.718506, 169.338577, 7566.581543>)
+16:02:20.167 [VehicleDeleted] ExpansionUh1h_Medical (id=15FDC0A88941DAB226A27BA4316F812A pos=<1231.076660, 168.756729, 7566.848633>)
+16:04:04.777 [VehicleDestroyed] ExpansionUh1h_Medical (id=224D3DBFF441FBE58FD8E68E287571DD pos=<7924.648926, 169.417252, 11833.775391>)
+16:09:57.875 [VehicleDeleted] ExpansionUh1h_Medical (id=224D3DBFF441FBE58FD8E68E287571DD pos=<7924.401367, 169.278427, 11833.794922>)
+16:11:10.128 [AI Patrol] Spawning 3 Shamans bots at <8600.027344, 308.244049, 9665.430664>
+16:12:07.808 [VehicleDestroyed] ExpansionUh1h_Medical (id=09CC72E87F42EED378AB7F8564B22780 pos=<7924.658203, 169.303970, 11833.810547>)
+16:18:02.117 [VehicleDeleted] ExpansionUh1h_Medical (id=09CC72E87F42EED378AB7F8564B22780 pos=<7921.913086, 168.682892, 11834.421875>)
+16:19:46.730 [VehicleDestroyed] ExpansionUh1h (id=ACB8A205D64A1736A3B9389061317A78 pos=<1227.719604, 169.338379, 7566.581055>)
+16:22:58.085 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9154.029297, 261.619690, 9388.589844>) as pilot
+16:22:59.597 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9154.030273, 261.619690, 9388.589844>)
+16:23:41.292 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9152.272461, 272.558533, 9401.619141>)
+16:23:53.687 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9152.218750, 271.616852, 9401.792969>)
+16:24:07.957 [BaseRaiding] ExpansionSafeLarge (<9153.693359, 268.567352, 9401.384766>) Code set by player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <9155.019531, 268.546570, 9400.491211>) and the code is 1776
+16:24:34.015 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

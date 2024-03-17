@@ -1,0 +1,7 @@
+02:34:48.844 [VehicleDestroyed] ExpansionUh1h (id=D55B040914484C320A447B9EE84CA572 pos=<1227.718506, 169.338882, 7566.580078>)
+02:40:03.256 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Medical
+02:40:29.483 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer
+02:42:13.195 [VehicleDeleted] ExpansionUh1h (id=D55B040914484C320A447B9EE84CA572 pos=<1231.079468, 168.753448, 7566.860840>)
+02:44:42.944 [VehicleDestroyed] ExpansionUh1h (id=F0D45EB21C41F71FF50900A4E651AC41 pos=<1227.719238, 169.338959, 7566.580078>)
+02:54:28.689 [VehicleDeleted] ExpansionUh1h (id=F0D45EB21C41F71FF50900A4E651AC41 pos=<1231.522095, 168.757706, 7566.716309>)
+02:56:37.655 [VehicleDestroyed] ExpansionUh1h_Resistance (id=76F852175F401C1E5699B19280D12D3E pos=<7924.451172, 169.278015, 11833.969727>)

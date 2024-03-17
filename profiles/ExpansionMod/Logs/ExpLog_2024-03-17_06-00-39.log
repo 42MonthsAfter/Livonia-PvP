@@ -1,0 +1,36 @@
+10:12:28.835 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirty" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+10:13:50.914 [VehicleDestroyed] ExpansionUh1h (id=9E011189E340FCBA7209C88AA3851D80 pos=<7924.705566, 169.372940, 11833.730469>)
+10:17:36.125 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer
+10:17:56.125 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+10:19:45.699 [VehicleDeleted] ExpansionUh1h (id=9E011189E340FCBA7209C88AA3851D80 pos=<7924.676758, 169.437180, 11833.393555>)
+10:21:30.265 [VehicleDestroyed] ExpansionUh1h_Medical (id=DF6DE472E74212704CA263B2EF5D2B8A pos=<7924.612305, 169.421143, 11833.872070>)
+10:27:23.343 [VehicleDeleted] ExpansionUh1h_Medical (id=DF6DE472E74212704CA263B2EF5D2B8A pos=<7925.147461, 169.057877, 11835.449219>)
+10:29:33.410 [VehicleDestroyed] ExpansionUh1h_Medical (id=164DD8879448BBA29ABC24BC4B2BBBB2 pos=<7924.843750, 169.517868, 11833.728516>)
+10:35:27.796 [VehicleDeleted] ExpansionUh1h_Medical (id=164DD8879448BBA29ABC24BC4B2BBBB2 pos=<7924.828613, 169.394562, 11833.623047>)
+10:38:58.460 [VehicleDestroyed] ExpansionUh1h_Medical (id=F57A0640CA4B39FA5605228DE1F59C49 pos=<1227.718628, 169.338852, 7566.580078>)
+10:41:39.449 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9135.566406, 268.159485, 9406.283203>) used the Admin Hammer to build wood_base
+10:41:46.167 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9135.566406, 268.159485, 9406.283203>) used the Admin Hammer to build wood_windowframe
+10:41:49.808 [AdminTools] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9135.566406, 268.159485, 9406.283203>) used the Admin Hammer to build wood_windowfinished
+10:44:52.976 [VehicleDeleted] ExpansionUh1h_Medical (id=F57A0640CA4B39FA5605228DE1F59C49 pos=<1231.081421, 168.754349, 7566.856934>)
+10:45:19.996 [BaseRaiding] ExpansionWall6x3 (<9140.639648, 264.906311, 9404.552734>) Code set by player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <9139.413086, 265.156464, 9404.553711>) and the code is 1776
+10:46:37.539 [VehicleDestroyed] ExpansionUh1h_Uber (id=C06784FD1048D5FD40890FB7EC00E289 pos=<1227.717651, 169.338867, 7566.580078>)
+10:47:21.781 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9152.303711, 271.603790, 9401.802734>) as pilot
+10:47:26.949 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9152.295898, 271.603241, 9401.803711>)
+10:47:40.027 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9152.301758, 271.652130, 9401.840820>)
+10:47:42.996 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9152.298828, 271.617371, 9401.886719>)
+10:47:59.785 [AI Patrol] Spawning 3 Shamans bots at <9501.712891, 241.086853, 10418.078125>
+10:48:17.742 [AI Patrol] Spawning 3 Shamans bots at <9234.606445, 198.796066, 10980.441406>
+10:50:57.945 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9829.701172, 224.286926, 12290.844727>)
+10:51:03.613 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9829.676758, 221.761246, 12290.850586>)
+10:52:30.648 [VehicleDeleted] ExpansionUh1h_Uber (id=C06784FD1048D5FD40890FB7EC00E289 pos=<1231.072754, 168.757706, 7566.846680>)
+10:54:40.605 [VehicleDestroyed] ExpansionUh1h_Medical (id=638E2C0B0240E3EDA923EDADB49FB5D9 pos=<7924.610352, 169.285843, 11833.742188>)
+10:58:00.117 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9829.659180, 221.768066, 12290.853516>) as pilot
+10:58:01.882 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<9829.659180, 221.768066, 12290.853516>)
+11:00:35.160 [VehicleDeleted] ExpansionUh1h_Medical (id=638E2C0B0240E3EDA923EDADB49FB5D9 pos=<7921.003906, 168.611771, 11833.812500>)
+11:02:04.835 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<8464.488281, 177.259384, 11807.217773>)
+11:02:13.375 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle UH-1H (id=D97EF145B4484F21B4D2939F2042D3A9 pos=<8464.483398, 177.255203, 11807.103516>)
+11:02:19.757 [VehicleDestroyed] ExpansionUh1h_Uber (id=CD15EA49B5443E590CFD9F9223FB418B pos=<1227.728882, 169.336746, 7566.593262>)
+11:08:12.875 [VehicleDeleted] ExpansionUh1h_Uber (id=CD15EA49B5443E590CFD9F9223FB418B pos=<1230.932739, 168.750305, 7566.918945>)
+11:10:23.097 [VehicleDestroyed] ExpansionUh1h_Resistance (id=0B5BCD00594863BB229A9BA0FCA013D7 pos=<1227.718140, 169.338684, 7566.580078>)
+11:16:17.613 [VehicleDeleted] ExpansionUh1h_Resistance (id=0B5BCD00594863BB229A9BA0FCA013D7 pos=<1231.073853, 168.754242, 7566.859375>)
+11:18:02.187 [VehicleDestroyed] ExpansionUh1h_Uber (id=8D143321EC47B6B15FE913A53B34119C pos=<1227.718750, 169.338791, 7566.580566>)

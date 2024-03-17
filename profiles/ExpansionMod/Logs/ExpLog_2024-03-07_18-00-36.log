@@ -1,0 +1,12 @@
+19:43:36.640 [VehicleDestroyed] ExpansionUh1h_Medical (id=C87B5537234078FDA2CF618D8F3FC85D pos=<1227.717407, 169.339035, 7566.580078>)
+19:47:12.890 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Basebuilding
+19:47:32.890 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical
+19:49:31.414 [VehicleDeleted] ExpansionUh1h_Medical (id=C87B5537234078FDA2CF618D8F3FC85D pos=<1231.077515, 168.756180, 7566.851074>)
+19:51:15.976 [VehicleDestroyed] ExpansionUh1h (id=874ED68B6F4C5F0BA947E9A8FAD843C2 pos=<1227.718994, 169.338715, 7566.581543>)
+23:34:09.070 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Basebuilding
+23:34:19.070 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical
+23:34:48.195 [VehicleDeleted] ExpansionUh1h (id=874ED68B6F4C5F0BA947E9A8FAD843C2 pos=<1233.312866, 168.695633, 7566.631836>)
+23:36:31.320 [VehicleDestroyed] ExpansionUh1h (id=01652910A943428D118D6DB03AD89BFE pos=<1227.718628, 169.338943, 7566.580078>)
+23:42:25.968 [VehicleDeleted] ExpansionUh1h (id=01652910A943428D118D6DB03AD89BFE pos=<1231.077393, 168.753052, 7566.862793>)
+23:44:10.546 [VehicleDestroyed] ExpansionUh1h_Resistance (id=DC36ABD7ED4429D696A14B9A97382FA3 pos=<7924.709473, 169.392715, 11833.776367>)
+23:50:03.679 [VehicleDeleted] ExpansionUh1h_Resistance (id=DC36ABD7ED4429D696A14B9A97382FA3 pos=<7925.023438, 169.035934, 11835.442383>)
